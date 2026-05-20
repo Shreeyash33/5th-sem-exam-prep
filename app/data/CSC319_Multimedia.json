@@ -1,0 +1,705 @@
+{
+  "subject": "Multimedia Computing",
+  "code": "CSC319",
+  "topics": [
+    {
+      "id": "mm-01",
+      "name": "Global Structure of Multimedia (Device, System, Application, Cross Domain)",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-02",
+      "name": "Multimedia Application Development Life Cycle",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-03",
+      "name": "Challenges for Multimedia Systems",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-04",
+      "name": "Properties and Characteristics of Multimedia Systems",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-05",
+      "name": "Sound/Audio Concepts: Frequency, Amplitude, Sampling, Quantization",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": []
+    },
+    {
+      "id": "mm-06",
+      "name": "MIDI: Devices, Messages, Timing Standards, Software",
+      "unit": "Unit 2",
+      "priority": "low",
+      "appearedIn": []
+    },
+    {
+      "id": "mm-07",
+      "name": "Speech Generation and Transmission",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-08",
+      "name": "Digital Image Representation and Formats",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-09",
+      "name": "Bitmap vs Vector Graphics",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-10",
+      "name": "Image and Graphics Formats",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-11",
+      "name": "Color Models and Color Dithering",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-12",
+      "name": "Video Signal Representation and Computer Video Formats",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": []
+    },
+    {
+      "id": "mm-13",
+      "name": "Computer-Based Animation",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-14",
+      "name": "Methods of Controlling Animation",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-15",
+      "name": "Animation Language and Display/Transmission of Animation",
+      "unit": "Unit 4",
+      "priority": "low",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-16",
+      "name": "Huffman Coding and Entropy Coding",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-17",
+      "name": "JPEG Compression Process",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-18",
+      "name": "MPEG Compression",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-19",
+      "name": "Lossless vs Lossy Compression",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-20",
+      "name": "User Interface Design Issues (Audio/Video, HCI)",
+      "unit": "Unit 6",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-21",
+      "name": "Abstraction Levels of Multimedia Programming",
+      "unit": "Unit 7",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-22",
+      "name": "Multimedia Interface Components",
+      "unit": "Unit 7",
+      "priority": "low",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mm-23",
+      "name": "Multimedia Applications (Media Integration, Video, E-learning, etc.)",
+      "unit": "Unit 8",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            11
+          ]
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "year": "2081",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "mm-02",
+          "question": "What are the different stages of multimedia application development life cycle? Explain with example.",
+          "answer": "Stages of Multimedia Application Development Life Cycle: (1) Concept/Planning — define objectives, target audience, content scope, platform selection, budget, and timeline. (2) Content Collection — gather text, images, audio, video, animations from various sources. (3) Storyboarding/Design — create flowcharts, navigation maps, screen layouts, and interaction design. (4) Development/Authoring — use authoring tools (Adobe Director, Flash, Authorware) to integrate media elements, add interactivity, and program behaviors. (5) Testing — verify functionality, usability, compatibility across devices, and performance. (6) Deployment/Delivery — package for CD-ROM, web, or mobile; install and configure. (7) Maintenance/Evaluation — update content, fix bugs, gather user feedback, and iterate. Example: Developing an educational CD-ROM — plan curriculum content, collect diagrams and audio clips, storyboard navigation, author in Flash, test with students, deploy on CDs, and update annually.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "mm-11",
+          "question": "Discuss the different types of color models and compare between them with applications.",
+          "answer": "Color Models: (1) RGB (Red, Green, Blue) — additive model for displays and screens. Each color is a combination of red, green, and blue light (0-255 each). Used in monitors, TVs, cameras, web design. (2) CMY/CMYK (Cyan, Magenta, Yellow, Black) — subtractive model for printing. Colors are created by absorbing (subtracting) light. Black (K) added for better contrast. Used in printers, publishing. (3) HSV/HSL (Hue, Saturation, Value/Lightness) — intuitive model based on human perception. Hue = color type (0-360°), Saturation = purity (0-100%), Value = brightness (0-100%). Used in image editing software (Photoshop). (4) YUV/YIQ — used in video and TV broadcasting. Separates luminance (Y) from chrominance (UV/IQ). Enables backward compatibility with B&W TVs. Comparison: RGB is device-dependent and additive; CMYK is subtractive and for print; HSV is user-friendly for editing; YUV is efficient for video compression. Applications: RGB for web/screens, CMYK for print, HSV for image manipulation, YUV for PAL/NTSC video.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "mm-21",
+          "question": "Explain the abstraction levels of programming used in multimedia system with diagram. [Graph: Diagram of abstraction levels in multimedia programming]",
+          "answer": "Abstraction Levels of Multimedia Programming (bottom to top): (1) Device Level — lowest level, directly controls hardware (sound card, graphics card, camera). Uses device drivers and assembly/C. Example: DirectX, OpenGL at driver level. (2) System Software Level — OS services for multimedia (file I/O, memory management, process scheduling, device abstraction). Example: Windows Media APIs, Linux ALSA. (3) Toolkit/Library Level — provides reusable components and functions for media handling. Example: DirectX SDK, OpenGL, SDL, Java Media Framework. (4) Higher Programming Language Level — languages with multimedia support through classes/objects. Example: C++ with multimedia classes, Java with media packages. (5) Application/Authoring Level — highest level, visual tools for non-programmers. Example: Adobe Flash, Authorware, PowerPoint, HTML5/CSS/JS. Diagram description: Pyramid structure with Device Level at the base (narrow), expanding upward through System, Toolkit, Language levels, to Application level at the top (widest). Each higher level abstracts and encapsulates the complexity of lower levels. Cross-domain connections show how application-level commands translate down to device-level operations.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "mm-03",
+          "question": "Describe the challenges for multimedia system.",
+          "answer": "Challenges for Multimedia Systems: (1) Synchronization — maintaining temporal relationships between audio, video, and text (lip-sync issues). Requires precise timing and buffering. (2) Sequencing — ordering of media elements in time and space. Complex dependencies between parallel streams. (3) Distributed Networks — delivering multimedia over networks with varying bandwidth, latency, and packet loss. Requires streaming protocols (RTP, RTSP) and adaptive bitrate. (4) Inter-media Scheduling — coordinating CPU, memory, disk, and network resources for multiple media types with different real-time requirements. (5) Storage — huge data volumes (video ~1GB/hour) require efficient compression and fast storage/retrieval. (6) Compression Quality — balancing compression ratio with perceptual quality. Different media need different algorithms. (7) Device Heterogeneity — supporting diverse devices (phones, tablets, PCs) with varying capabilities. (8) User Interaction — designing intuitive interfaces for complex multimedia navigation and control.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "mm-07",
+          "question": "How can you generate the speech in multimedia system? Explain.",
+          "answer": "Speech Generation in Multimedia: (1) Text-to-Speech (TTS) Synthesis — converts written text to spoken words. Two approaches: (a) Concatenative synthesis — joins pre-recorded speech segments (phonemes, diphones) for natural sound. (b) Parametric synthesis — generates speech using mathematical models of vocal tract (formant synthesis, LPC). (2) Speech Synthesis Markup Language (SSML) — XML-based control of pitch, rate, volume, pronunciation. (3) MIDI-based Speech — uses phoneme-to-MIDI mapping for simple robotic speech. (4) Recorded Speech Playback — pre-recorded human speech stored and triggered. Process: Text analysis (normalization, tokenization) → Linguistic analysis (POS tagging, phoneme conversion) → Prosody generation (intonation, rhythm) → Waveform synthesis (concatenation or parameter generation) → Audio output. Applications: GPS navigation, screen readers, virtual assistants, educational software, automated announcements.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "mm-10",
+          "question": "Explain the image and graphics format with example.",
+          "answer": "Image and Graphics Formats: Raster (Bitmap) Formats: (1) BMP — uncompressed, large size, Windows native. (2) JPEG — lossy compression, 24-bit color, good for photographs. Uses DCT. (3) PNG — lossless compression, supports transparency (alpha channel), good for web graphics. (4) GIF — 256 colors, lossless, supports animation and transparency. (5) TIFF — high quality, multiple layers, used in publishing. Vector Formats: (1) SVG — XML-based, scalable without quality loss, web-friendly. (2) AI/EPS — Adobe Illustrator/PostScript, professional print design. (3) WMF/EMF — Windows Metafile, used in Office. (4) PDF — can contain both vector and raster. Examples: JPEG for digital photos (small size, acceptable quality loss), PNG for logos with transparent background, SVG for icons that scale to any size, GIF for simple web animations. Comparison: Raster loses quality when scaled; vector is resolution-independent. Raster is for photos; vector is for illustrations, logos, diagrams.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "mm-14",
+          "question": "Discuss the method of controlling animation.",
+          "answer": "Methods of Controlling Animation: (1) Full Explicit Control — animator defines every frame and parameter manually. Maximum creative control but labor-intensive. Used in traditional hand-drawn animation. (2) Procedural Control — algorithms and rules generate animation automatically. Example: physics-based simulation (gravity, collision), particle systems, flocking behaviors. (3) Constraint-Based Systems — animator sets constraints (goals, boundaries) and system finds solutions. Example: inverse kinematics — specify hand position, system calculates arm angles. (4) Tracking Live Action — capture real motion and apply to animated characters. Motion capture (mocap) records actor movements via sensors/cameras. (5) Kinematics and Dynamics — forward kinematics (direct joint angle control) vs inverse kinematics (end-effector control). Dynamics adds mass, force, and torque for realistic physics. (6) Scripting/Programming — write code to control animation parameters using animation languages or APIs. Example: Maya MEL, Blender Python. (7) Interactive Control — user input (mouse, keyboard, VR controllers) drives animation in real-time. Used in games and interactive media.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "mm-11",
+          "question": "What do you mean by color dithering technique? Explain.",
+          "answer": "Color Dithering: Technique to simulate colors not available in the display palette by mixing available colors in a pattern. When a system has limited color depth (e.g., 8-bit = 256 colors) but the image has more colors, dithering approximates missing colors by placing different-colored pixels adjacent to each other. The human eye blends them at a distance (optical mixing). Types: (1) Ordered Dithering — uses a fixed matrix pattern (Bayer matrix) to decide pixel placement. Simple and fast. (2) Error Diffusion Dithering (Floyd-Steinberg) — distributes quantization error to neighboring pixels. Produces smoother results. (3) Random Dithering — adds random noise to pixel values. Can look grainy. Example: Displaying a 24-bit photo on an 8-bit monitor. Without dithering: color banding (visible stripes). With dithering: appears to have more colors through pixel patterns. Also used in printing — newspapers use halftone dithering (dots of varying size/density) to simulate grayscale and color shades.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "mm-17",
+          "question": "Differentiate between JPEG and MPEG.",
+          "answer": "JPEG vs MPEG: JPEG (Joint Photographic Experts Group): (1) For static images only. (2) Uses lossy compression based on DCT (Discrete Cosine Transform). (3) Compression steps: color space conversion (RGB→YCbCr), chroma subsampling, 8×8 block DCT, quantization (lossy), zig-zag scanning, run-length encoding, Huffman coding. (4) No temporal compression. (5) Quality adjustable via quantization tables. (6) File extensions: .jpg, .jpeg. MPEG (Moving Picture Experts Group): (1) For video (moving images + audio). (2) Uses both spatial (within frame, like JPEG) AND temporal (between frames) compression. (3) Temporal compression uses I-frames (intra, full), P-frames (predicted from previous), B-frames (bidirectional predicted). (4) Exploits temporal redundancy — consecutive frames are similar. (5) Includes audio compression (MP3 is MPEG-1 Audio Layer 3). (6) Standards: MPEG-1 (VCD), MPEG-2 (DVD, DVB), MPEG-4 (DivX, MP4, H.264/AVC). Key difference: JPEG compresses single images; MPEG compresses video sequences using inter-frame prediction.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "mm-19",
+          "question": "Compare between lossless compression with lossy compression.",
+          "answer": "Lossless vs Lossy Compression: Lossless Compression: (1) No data lost — original can be perfectly reconstructed. (2) Compression ratio typically 2:1 to 5:1. (3) Used when data integrity is critical: text, medical images, executable files, some RAW photos. (4) Algorithms: Run-Length Encoding (RLE), Huffman Coding, LZW (GIF, TIFF), Arithmetic Coding, LZ77/LZ78 (ZIP, PNG). (5) Redundancy removal only — statistical and spatial redundancy. Lossy Compression: (1) Some data permanently discarded — irreversible. (2) Much higher compression ratios: 10:1 to 100:1. (3) Used when some quality loss is acceptable: photos, video, audio, web graphics. (4) Algorithms: JPEG (DCT + quantization), MPEG (motion compensation + DCT), MP3 (psychoacoustic modeling), JPEG2000 (wavelets). (5) Exploits human perception — removes data least perceptible to eyes/ears. Comparison: Lossless preserves quality but lower compression; lossy achieves high compression with acceptable quality degradation. Choice depends on application requirements.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "mm-20",
+          "question": "What are the designing issues of audio user interface? Explain.",
+          "answer": "Designing Issues of Audio User Interface: (1) Audio Quality — sufficient sampling rate (≥44.1kHz) and bit depth (≥16-bit) for clear, natural sound. Poor quality causes user fatigue and misunderstanding. (2) Volume Control — consistent loudness across different audio clips. Avoid sudden volume changes. Provide user-adjustable volume. (3) Synchronization — align audio with visual elements precisely. Lip-sync tolerance is ~40ms; beyond that, perceived as disjointed. (4) Feedback Clarity — audio cues (beeps, tones, voice prompts) must be distinct and unambiguous. Avoid similar-sounding alerts. (5) Accessibility — support for hearing-impaired users (visual alternatives, captions, haptic feedback). (6) Context Awareness — adapt audio based on environment (quiet room vs noisy street). Use headphones vs speakers appropriately. (7) Cognitive Load — avoid overwhelming users with too many simultaneous audio streams. Prioritize information hierarchy. (8) Cultural Sensitivity — voice gender, accent, language preferences vary by region and culture. (9) Navigation Support — audio landmarks and spatial audio help users orient in virtual environments. (10) Performance — minimize latency in audio processing for real-time interaction (games, VR).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "mm-23",
+          "question": "Discuss the application of multimedia in video.",
+          "answer": "Applications of Multimedia in Video: (1) Video-on-Demand (VoD) — streaming movies and TV shows over internet (Netflix, YouTube). Requires compression (MPEG/H.264), adaptive bitrate streaming, and content delivery networks. (2) Video Conferencing — real-time two-way video communication (Zoom, Teams). Needs low-latency encoding, echo cancellation, bandwidth adaptation. (3) Interactive Video — educational tutorials with clickable hotspots, branching narratives, quizzes embedded in video. (4) Digital Video Editing — nonlinear editing systems (Adobe Premiere, Final Cut Pro) combining video clips, transitions, effects, audio tracks, titles. (5) Virtual Reality Video — 360° video and immersive experiences using head-mounted displays. Requires spherical video capture and real-time rendering. (6) Video Surveillance — CCTV systems with motion detection, facial recognition, automated alerts. (7) Medical Video — surgical recordings, ultrasound imaging, endoscopy for training and diagnosis. (8) Advertising and Marketing — product demos, promotional videos combining video, animation, and interactive elements. (9) E-learning — lecture recordings, MOOCs with synchronized slides and video. (10) Gaming — cutscenes, real-time cinematics, gameplay capture and streaming.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2080",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "mm-01",
+          "question": "Explain the global structure of multimedia with block diagram. [Graph: Block diagram of global multimedia structure]",
+          "answer": "Global Structure of Multimedia (block diagram description): The global multimedia architecture consists of four interconnected domains: (1) Device Domain — physical hardware: capture devices (cameras, microphones, scanners), storage devices (HDD, SSD, optical), display devices (monitors, projectors, speakers), and communication networks (LAN, WAN, Internet). (2) System Domain — software infrastructure: operating system, device drivers, file systems, compression/decompression codecs (CODEC), synchronization mechanisms, and networking protocols. Provides abstraction over hardware. (3) Application Domain — end-user programs: multimedia authoring tools, playback software, browsers, games, editors, and communication apps. Implements specific functionality using system services. (4) Cross Domain — integration layer connecting all domains: APIs, middleware, standards (MPEG, JPEG, HTML5), and interoperability protocols enabling seamless data flow between devices, systems, and applications. Block diagram: Four stacked/connected blocks — Device at bottom (foundation), System above it (middleware), Application at top (user-facing), with Cross Domain as horizontal connectors between all layers. Arrows show bidirectional data flow: capture→process→store→transmit→present.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "mm-17",
+          "question": "Explain the JPEG compression process steps in detail with example.",
+          "answer": "JPEG Compression Process: (1) Color Space Conversion — convert RGB to YCbCr (luminance Y, chrominance Cb, Cr). Human eyes are less sensitive to color detail than brightness. (2) Chroma Subsampling — reduce Cb,Cr resolution (typically 4:2:0 — half horizontal and vertical resolution). Y kept at full resolution. (3) Block Splitting — divide image into 8×8 pixel blocks. Each block processed independently. (4) Discrete Cosine Transform (DCT) — transform spatial domain to frequency domain. Each 8×8 block becomes 64 DCT coefficients. Low frequencies (top-left) contain most visual information; high frequencies (bottom-right) contain fine details. (5) Quantization — divide each DCT coefficient by a quantization table value and round to integer. This is the lossy step — discards less important high-frequency information. Higher compression = larger quantization values = more loss. (6) Zig-Zag Scanning — reorder 64 coefficients into 1D sequence grouping zeros together (many high-frequency coefficients become zero after quantization). (7) Run-Length Encoding (RLE) — encode sequences of zeros efficiently. (8) Huffman Coding — entropy coding assigns shorter codes to frequent values. Final compressed bitstream. Example: A 640×480 photo. Original RGB = 640×480×3 = 921,600 bytes. After JPEG quality 75: ~50,000 bytes (18:1 compression). Visual quality remains excellent because discarded high-frequency data is barely perceptible.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "mm-16",
+          "question": "What do you mean by Huffman coding? Explain the Huffman coding process with example.",
+          "answer": "Huffman Coding: Lossless entropy compression technique that assigns variable-length codes to symbols based on frequency. More frequent symbols get shorter codes; less frequent get longer codes. No code is a prefix of another (prefix-free property), enabling unambiguous decoding. Process: (1) Frequency Analysis — count occurrence of each symbol in data. Example: 'MISSISSIPPI' — M:1, I:4, S:4, P:2. (2) Build Min-Heap — create leaf nodes for each symbol with frequency as weight. (3) Merge Nodes — repeatedly extract two nodes with smallest frequencies, create parent node with sum of frequencies, and reinsert. Continue until one tree remains. (4) Assign Codes — label left branches '0', right branches '1'. Code for each symbol = path from root to leaf. Example tree: Root(11) → I(4)+S(4) and P(2)+M(1). After full construction: I=00, S=01, P=10, M=11 (simplified; actual tree may differ). (5) Encode Data — replace each symbol with its code. 'MISSISSIPPI' → codes. Average bits per symbol < fixed-length (would need 2 bits for 4 symbols). Compression ratio depends on frequency distribution — more skewed = better compression. Huffman is optimal among prefix codes for given frequency distribution. Used in JPEG, PNG, ZIP, MP3.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "mm-04",
+          "question": "Explain the properties of multimedia computing.",
+          "answer": "Properties/Characteristics of Multimedia Systems: (1) Computer Controlled — multimedia systems must be managed by computers for integration, synchronization, and interactivity. Manual coordination is insufficient for complex media. (2) Integrated — combines multiple media types (text, graphics, audio, video, animation) into unified presentation. Not just separate elements side by side, but cohesive whole. (3) Digitally Represented — all information stored and processed in digital form (binary). Enables copying, editing, compression, transmission without generational loss. (4) Interactive — users can control navigation, pace, and content flow. Non-linear access rather than passive consumption. Supports hypermedia links. (5) Media Combination — handles diverse media with different characteristics: static (text, images) vs dynamic (video, audio), discrete vs continuous, time-dependent vs time-independent. (6) Independence — each medium can be created, edited, and stored independently before integration. (7) Real-time Requirements — audio/video need timely delivery (continuous media). Jitter and latency must be controlled. (8) Synchronization — temporal and spatial relationships between media must be maintained. Lip-sync, subtitle timing, animation frames.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "mm-09",
+          "question": "Difference between bitmap and vector graphics.",
+          "answer": "Bitmap (Raster) vs Vector Graphics: Bitmap: (1) Composed of pixel grid — each pixel has color value. (2) Resolution-dependent — quality degrades when scaled up (pixelation). (3) File size depends on dimensions and color depth. Large for high-res images. (4) Best for photographs and complex images with subtle color gradations. (5) Common formats: BMP, JPEG, PNG, GIF, TIFF. (6) Editing affects individual pixels — destructive scaling. Vector: (1) Composed of mathematical objects — lines, curves, shapes defined by equations (points, control points, paths). (2) Resolution-independent — scales to any size without quality loss. (3) File size depends on complexity (number of objects), not dimensions. Often smaller than bitmaps for simple graphics. (4) Best for logos, icons, illustrations, diagrams, text, line art. (5) Common formats: SVG, AI, EPS, PDF, WMF. (6) Editing modifies mathematical definitions — non-destructive. Comparison: Bitmap = pixel mosaic (photo-realistic, fixed resolution); Vector = mathematical drawing (scalable, geometric). Hybrid: Some formats (PDF, EPS) can contain both.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "mm-13",
+          "question": "Explain the computer based animation.",
+          "answer": "Computer-Based Animation: Creating motion and change using computer software. Types: (1) Frame Animation — create individual frames (like traditional animation) and play sequentially. Used in GIF, sprite animation. (2) Keyframe Animation — animator defines key poses/positions; computer interpolates (tweens) between them. Most common method. Example: define ball at top and bottom; computer generates in-between positions. (3) Procedural Animation — algorithms generate motion based on rules/physics. Example: particle systems, fluid simulation, cloth dynamics. (4) Motion Capture — record real actor movements with sensors/cameras; apply to 3D characters. (5) Scripted Animation — write code to control object properties over time. Process: (1) Storyboarding — plan sequence visually. (2) Modeling — create 3D characters/objects. (3) Rigging — add skeletal structure for deformation. (4) Animation — set keyframes or apply mocap. (5) Rendering — compute final frames with lighting, textures. (6) Compositing — combine layers, add effects. Tools: Blender (free), Maya, 3ds Max, After Effects, Animate. Applications: films, games, ads, simulations, UI transitions.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "mm-07",
+          "question": "How is speech generated? Describe.",
+          "answer": "Speech Generation (TTS - Text-to-Speech): (1) Text Analysis — normalize text (expand abbreviations, numbers, dates), tokenize into words/sentences, perform part-of-speech tagging and morphological analysis. (2) Linguistic Analysis — convert words to phonemes using pronunciation dictionary or grapheme-to-phoneme rules. Handle homographs (read vs read) via context. (3) Prosody Generation — determine intonation, stress, rhythm, and timing. Uses punctuation, syntax, and semantic analysis. Markup languages like SSML allow explicit control. (4) Waveform Synthesis — generate actual sound wave. Methods: (a) Concatenative — join pre-recorded diphone/phone segments from human voice database. Natural but requires large storage. (b) Parametric/Statistical — use mathematical models (LPC, formant synthesis) or neural networks (WaveNet, Tacotron) to generate speech from parameters. Smaller footprint, can create novel voices. (5) Post-processing — apply filtering, normalization, and effects. Output as audio file or real-time stream. Quality metrics: naturalness (MOS score), intelligibility, speaking rate appropriateness. Applications: virtual assistants, navigation systems, accessibility tools, automated call centers, language learning.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "mm-22",
+          "question": "What are the multimedia interface components?",
+          "answer": "Multimedia Interface Components: (1) Text Display — fonts, sizes, colors, scrolling, hyperlinks. Must be readable against multimedia backgrounds. (2) Graphics/Images — buttons, icons, backgrounds, thumbnails. Need fast loading and smooth rendering. (3) Audio Controls — play/pause, volume, mute, progress bar, playlist. Visual feedback for audio state. (4) Video Player — screen area, transport controls (play, pause, seek, fullscreen), timeline/scrubber, quality selector. (5) Animation Elements — transitions, loading indicators, animated menus, visual feedback for actions. (6) Navigation Controls — menus, breadcrumbs, hyperlinks, search bars, bookmarks for non-linear exploration. (7) Input Mechanisms — keyboard, mouse, touch, voice, gesture recognition, stylus. Must support multiple modalities. (8) Timing/Synchronization Controls — playback speed, loop settings, chapter markers, subtitle toggle. (9) Spatial Controls — zoom, pan, rotate for 3D/VR content. (10) Feedback Systems — progress bars, buffering indicators, error messages, confirmation dialogs. (11) Accessibility Features — captions, audio descriptions, keyboard shortcuts, screen reader compatibility, high-contrast modes. (12) Social/Sharing Components — comment sections, rating systems, share buttons, collaborative annotation tools.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "mm-15",
+          "question": "Explain the animation language.",
+          "answer": "Animation Languages: Formal notations for describing animation sequences and behaviors. Types: (1) Linear List Notations — simple sequential description of frames and actions. Example: frame 1-10: ball moves left; frame 11-20: ball bounces. Easy to understand but limited expressiveness. (2) General-Purpose Programming Languages — use standard languages (C, Python, JavaScript) with animation libraries. Full programming power: loops, conditionals, functions. Example: p5.js, Processing, OpenFrameworks. (3) Graphical Languages — visual programming where nodes represent objects/operations and connections represent data flow. Example: Blender node editor, Houdini, Max/MSP. Non-programmers can create complex animations. (4) Declarative/Markup Languages — describe animation via tags and attributes. Example: SMIL (Synchronized Multimedia Integration Language) — XML-based timing and animation for web. CSS animations and transitions. (5) Specialized Animation Scripting — built into animation software. Example: Maya MEL, Blender Python API, After Effects Expressions. Control rigging, physics, rendering parameters. Key concepts across languages: keyframes, interpolation curves (linear, ease-in, ease-out, bezier), timelines, layers, triggers, events, and state machines.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "mm-21",
+          "question": "Explain the abstraction levels of programming.",
+          "answer": "Abstraction Levels of Programming (general computing context): (1) Machine/Assembly Level — direct hardware control via CPU instructions and registers. Fastest but least portable and hardest to write. (2) System/Kernel Level — OS interfaces, memory management, process scheduling, device I/O. C language typical. (3) Library/Framework Level — reusable components for common tasks (graphics, networking, databases). APIs abstract system complexity. (4) Application Level — end-user programs combining libraries into specific functionality. Higher-level languages (Java, C#, Python). (5) Scripting/Configuration Level — automate and customize without full programming. Shell scripts, batch files, config files. In Multimedia specifically: (1) Hardware Abstraction — DirectX, OpenGL drivers manage GPU. (2) Media Framework — GStreamer, DirectShow handle format parsing, codec selection. (3) Authoring Tools — Adobe Premiere, Unity provide visual interfaces. (4) Domain-Specific Languages — shader languages (GLSL, HLSL), audio DSP patches. Higher abstraction = faster development, easier maintenance, but less control over performance. Lower abstraction = maximum optimization, hardware-specific features, but complex and error-prone.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "mm-23",
+          "question": "Explain the application of multimedia in media integration.",
+          "answer": "Applications of Multimedia in Media Integration: Media integration combines multiple media types into unified, coherent presentations. Applications: (1) Interactive E-books — text integrated with audio narration, video clips, 3D models, and interactive quizzes. Example: iBooks with embedded media. (2) Digital Storytelling — narratives combining video, photos, music, voiceover, and text overlays. Example: documentary films, interactive journalism (NYT Snow Fall). (3) Learning Management Systems — courses with synchronized video lectures, downloadable PDFs, discussion forums, and live quizzes. Moodle, Canvas integrate diverse media. (4) Digital Signage — displays combining news tickers (text), advertisements (video), weather graphics, and social media feeds in unified layout. (5) Social Media Platforms — posts integrating text, images, short videos, live streams, audio clips, and reactions. TikTok, Instagram are media integration platforms. (6) Telemedicine — patient records integrating X-rays (images), ultrasound video, doctor's notes (text), and audio consultations. (7) Smart Homes — control panels integrating security camera feeds, weather displays, music playback, and lighting controls. (8) Museums and Exhibitions — touchscreens combining artifact photos, historical videos, audio guides, and 3D reconstructions.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "mm-08",
+          "question": "Explain the digital image representation with [text incomplete in original].",
+          "answer": "Digital Image Representation: Images are represented as grids of pixels (picture elements), where each pixel stores color/brightness information. (1) Raster Representation — 2D array of pixels. Each pixel has numerical value(s): Grayscale — single value (0-255 for 8-bit, 0-65535 for 16-bit). Color — multiple channels: RGB (Red, Green, Blue, each 0-255), CMYK (Cyan, Magenta, Yellow, Black for print), YCbCr (luminance + chrominance for video). (2) Bit Depth — number of bits per pixel. 1-bit: black/white. 8-bit: 256 grays or colors (indexed). 24-bit: 16.7 million colors (true color). 32-bit: 24-bit + 8-bit alpha (transparency). (3) Resolution — dimensions in pixels (width × height) and physical density (PPI/DPI). Higher resolution = more detail but larger file size. (4) Color Models — define how pixel values map to perceived colors: RGB for displays, CMYK for print, HSV for editing, YUV for video. (5) File Organization — header (metadata: dimensions, format, compression) + pixel data (raw or compressed). (6) Vector Representation — alternative to raster; uses geometric primitives (points, lines, curves, polygons) with mathematical descriptions. Resolution-independent. [Note: Original question text was truncated. Answer covers core digital image representation concepts comprehensively.]",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "mockPapers": [
+    {
+      "id": "mock-mm-1",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "mm-01",
+          "question": "Explain the global structure of multimedia system with a neat block diagram. Describe the function of each domain.",
+          "answer": "Global Structure of Multimedia: Four domains — (1) Device Domain: physical hardware (cameras, microphones, monitors, speakers, storage, networks). Handles capture and presentation. (2) System Domain: OS, drivers, codecs, file systems. Manages resources, synchronization, and data flow. (3) Application Domain: user-facing software (editors, players, browsers, games). Implements specific functionality. (4) Cross Domain: APIs, standards, middleware enabling interoperability. Block diagram: Pyramid/stack showing layers with bidirectional arrows. Device at base, System above, Application at top, Cross Domain connecting horizontally.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "mm-17",
+          "question": "Explain the JPEG compression process with all steps. Why is DCT used in JPEG?",
+          "answer": "JPEG Steps: (1) Color conversion RGB→YCbCr. (2) Chroma subsampling 4:2:0. (3) 8×8 block splitting. (4) DCT transforms spatial to frequency domain. (5) Quantization (lossy) using quantization tables. (6) Zig-zag scanning. (7) Run-length encoding of zeros. (8) Huffman entropy coding. DCT is used because: it concentrates energy in few low-frequency coefficients, enabling efficient quantization and compression. High frequencies (fine details) can be aggressively quantized with minimal perceptual loss.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "mm-11",
+          "question": "Explain RGB, CMYK, and HSV color models with their applications. Compare additive and subtractive color mixing.",
+          "answer": "RGB: Additive, Red+Green+Blue light. 0-255 per channel. 16.7M colors. For displays. CMYK: Subtractive, Cyan+Magenta+Yellow+Black ink. Absorbs light. For printing. HSV: Hue (0-360°), Saturation, Value. User-friendly. For image editing. Additive: combining light makes brighter (RGB). Subtractive: combining pigment makes darker (CMYK). Applications: RGB for screens, CMYK for print, HSV for color pickers.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "mm-19",
+          "question": "Differentiate between lossless and lossy compression with examples. When would you use each?",
+          "answer": "Lossless: no data lost, perfect reconstruction. Examples: PNG, GIF, ZIP, FLAC. Use for: text, medical images, executables, archival. Lossy: discards data, irreversible. Higher compression. Examples: JPEG, MP3, MPEG, AAC. Use for: photos, video, audio streaming, web where size matters more than perfect fidelity. Trade-off: lossless preserves quality; lossy maximizes compression.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "mm-09",
+          "question": "Compare bitmap and vector graphics. Give two file formats for each and their best use cases.",
+          "answer": "Bitmap: pixel grid, resolution-dependent, scaling degrades quality. Formats: JPEG (photos), PNG (transparency). Vector: mathematical objects, resolution-independent, scalable. Formats: SVG (web icons), AI (print design). Use bitmap for photos; vector for logos, illustrations, diagrams.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "mm-16",
+          "question": "What is Huffman coding? Build a Huffman tree for symbols A,B,C,D with frequencies 40,25,20,15 and assign codes.",
+          "answer": "Huffman Coding: Prefix-free variable-length codes based on frequency. Build tree: merge D(15)+C(20)=35; merge B(25)+35=60; merge A(40)+60=100. Codes (example): A=0, B=10, C=110, D=111. Average bits = (40×1 + 25×2 + 20×3 + 15×3)/100 = 1.95 bits/symbol vs 2 bits fixed. Compression improves with skewed frequencies.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "mm-07",
+          "question": "Describe the process of speech generation in multimedia systems. What is the difference between concatenative and parametric synthesis?",
+          "answer": "Speech Generation: Text→Linguistic analysis→Prosody→Waveform synthesis→Output. Concatenative: joins pre-recorded speech segments. Natural sound, large database needed. Parametric: generates speech using mathematical models of vocal tract. Smaller footprint, less natural but flexible. Concatenative is used in high-quality TTS; parametric in embedded/low-resource systems.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "mm-02",
+          "question": "List the stages of multimedia application development life cycle. What happens in the testing phase?",
+          "answer": "Stages: Planning, Content Collection, Storyboarding/Design, Development/Authoring, Testing, Deployment, Maintenance. Testing phase: verify functionality (all features work), usability (user-friendly), compatibility (cross-device), performance (load times, smooth playback), accessibility, and security. Bug fixing and iteration before release.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "mm-14",
+          "question": "Explain three methods of controlling animation with examples.",
+          "answer": "(1) Full Explicit Control: animator sets every frame. Example: traditional hand-drawn animation. (2) Procedural Control: algorithms generate motion. Example: physics simulation of bouncing ball. (3) Constraint-Based: set goals, system finds path. Example: inverse kinematics — place hand, arm angles calculated automatically. (4) Motion Capture: record real movement. Example: Gollum in Lord of the Rings.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "mm-18",
+          "question": "How does MPEG differ from JPEG? Explain I-frame, P-frame, and B-frame in MPEG.",
+          "answer": "JPEG: single image, spatial compression only (DCT+quantization). MPEG: video sequence, spatial + temporal compression. I-frame: intra-coded, full image (like JPEG). P-frame: predicted from previous I/P frame, stores motion vectors and differences. B-frame: bidirectional predicted from past and future I/P frames, highest compression. GOP structure: I-B-B-P-B-B-P... MPEG achieves much higher compression by exploiting temporal redundancy between frames.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "mm-20",
+          "question": "What are the key design issues for audio user interfaces? Discuss volume control and synchronization.",
+          "answer": "Design Issues: (1) Audio Quality — sufficient sampling rate and bit depth. (2) Volume Control — consistent levels, user-adjustable, no sudden changes. (3) Synchronization — align audio with visuals (lip-sync <40ms tolerance). (4) Feedback Clarity — distinct audio cues. (5) Accessibility — visual alternatives for hearing-impaired. (6) Context Awareness — adapt to environment. (7) Cognitive Load — avoid overwhelming users. (8) Low Latency — critical for real-time apps.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "mm-23",
+          "question": "Discuss any three applications of multimedia in video with examples.",
+          "answer": "(1) Video-on-Demand: Netflix, YouTube streaming compressed video over internet. (2) Video Conferencing: Zoom, Teams with low-latency encoding. (3) Interactive Video: Educational content with embedded quizzes and branching paths. (4) Digital Video Editing: Premiere, Final Cut Pro combining clips, effects, audio. (5) VR Video: 360° immersive experiences. (6) Video Surveillance: CCTV with motion detection and AI analysis.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "patternAnalysis": {
+    "guaranteed": [
+      "mm-17",
+      "mm-19",
+      "mm-11"
+    ],
+    "likely": [
+      "mm-01",
+      "mm-02",
+      "mm-07",
+      "mm-23",
+      "mm-13",
+      "mm-16"
+    ],
+    "wildcards": [
+      "mm-03",
+      "mm-04",
+      "mm-09",
+      "mm-10",
+      "mm-14",
+      "mm-15",
+      "mm-20",
+      "mm-21",
+      "mm-22",
+      "mm-08",
+      "mm-12",
+      "mm-18"
+    ],
+    "priorityOrder": [
+      "mm-17",
+      "mm-19",
+      "mm-11",
+      "mm-01",
+      "mm-02",
+      "mm-07",
+      "mm-23",
+      "mm-16",
+      "mm-13",
+      "mm-09",
+      "mm-10",
+      "mm-14",
+      "mm-21",
+      "mm-03",
+      "mm-04",
+      "mm-20",
+      "mm-15",
+      "mm-22",
+      "mm-08",
+      "mm-12",
+      "mm-18",
+      "mm-05",
+      "mm-06"
+    ],
+    "notes": "⚠️ LIMITED DATA WARNING: Only 2 past paper years (2081, 2080) available. Pattern analysis is less reliable than other subjects. Section A (10-mark, attempt 2 of 3) consistently tests: Global Structure/Abstraction Levels, JPEG/MPEG/Compression, and Color Models. Section B (5-mark, attempt 8 of 9) covers: Properties/Characteristics, Bitmap vs Vector, Speech Generation, Animation, Huffman Coding, Lossless vs Lossy, UI Design, and Applications. JPEG compression appeared both years — nearly guaranteed. Color models and lossless/lossy also appeared both years. With only 2 years of data, mock papers and priority order rely heavily on syllabus weight and educated inference. Students should focus on Unit 1 (Introduction), Unit 5 (Compression), and Unit 3 (Image/Graphics) as highest-yield areas."
+  }
+}

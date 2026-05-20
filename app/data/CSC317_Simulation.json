@@ -1,0 +1,1230 @@
+{
+  "subject": "Simulation and Modeling",
+  "code": "CSC317",
+  "topics": [
+    {
+      "id": "sim-01",
+      "name": "System and System Environment, Components of System",
+      "unit": "Unit 1",
+      "priority": "low",
+      "appearedIn": []
+    },
+    {
+      "id": "sim-02",
+      "name": "Discrete and Continuous System",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-03",
+      "name": "System Simulation, Types of Model (Static/Dynamic, Physical/Mathematical)",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-04",
+      "name": "Advantages, Disadvantages, Limitations, and Application Areas",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "Model",
+          "questionNumbers": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-05",
+      "name": "Phases in Simulation Study",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-06",
+      "name": "Continuous System Models and Analog/Digital Computers",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-07",
+      "name": "Discrete Event Simulation and Arrival Processes (Poisson)",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-08",
+      "name": "Monte Carlo Simulation",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-09",
+      "name": "Feedback Systems",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            9
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-10",
+      "name": "Queuing System Characteristics and Kendall's Notation",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            9,
+            10,
+            12
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-11",
+      "name": "Measurement of Queueing System Performance",
+      "unit": "Unit 3",
+      "priority": "low",
+      "appearedIn": []
+    },
+    {
+      "id": "sim-12",
+      "name": "Markov Chains",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            9
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-13",
+      "name": "Random Numbers Properties and Pseudo-Random Numbers",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-14",
+      "name": "Generation of Random Numbers (Congruential Methods)",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-15",
+      "name": "Tests for Randomness (Uniformity, K-S, Poker, Auto-correlation)",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            3,
+            12
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-16",
+      "name": "Verification, Validation, Calibration, and Accreditation",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            7,
+            8
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-17",
+      "name": "Estimation Methods and Confidence Intervals",
+      "unit": "Unit 7",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            4,
+            12
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            9
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            8,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-18",
+      "name": "Simulation Run Statistics and Elimination of Initial Bias",
+      "unit": "Unit 7",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2078",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sim-19",
+      "name": "Simulation Languages: GPSS and Tools",
+      "unit": "Unit 8",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            11,
+            12
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "year": "2081",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why is it necessary to analyze the simulation output. Explain different estimation method which are used in simulation output analysis.",
+          "answer": "Analysis of simulation output is necessary because simulation models use random inputs (pseudo-random numbers), causing the output to be a random variable. A single simulation run provides only one sample observation, which is insufficient to determine the true system performance. Output analysis uses statistical techniques to interpret these results, estimate true performance metrics, and establish confidence intervals, ensuring the conclusions drawn are statistically valid rather than just noise.\nEstimation Methods:\n1. Point Estimation: Provides a single value as an estimate of the population parameter. For example, using the sample mean (average waiting time of all customers) to estimate the true population mean. It does not provide information on the precision of the estimate.\n2. Interval Estimation (Confidence Intervals): Provides a range of values within which the true population parameter is expected to fall with a certain level of confidence (e.g., 95%). It accounts for sampling variability. Calculated using the sample mean, standard deviation, and a theoretical distribution (like Student's t-distribution for unknown variance).",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-19",
+          "question": "Consider that a machine tool in a manufacturing shop is turning out parts at the rate of two every 5 minutes. As they are finished, the parts go to an inspector, who takes 5±2 minutes to examine each one and reject about 15% of the parts. Now develop a block diagram and write the code for simulating the above problem using GPSS, and also explain the function of each block used in the block diagram in detail.",
+          "answer": "GPSS Code and Block Descriptions:\n1. `GENERATE 2.5` - Creates parts. Since 2 parts are generated every 5 minutes, the mean inter-arrival time is 5/2 = 2.5 minutes.\n2. `SEIZE INSP` - The part attempts to capture the inspector (a facility). If busy, the part waits.\n3. `ADVANCE 5,2` - Represents the inspection time. The part occupies the inspector for a uniformly distributed time between 3 and 7 minutes (5 ± 2).\n4. `RELEASE INSP` - The part frees the inspector facility, allowing the next part to be inspected.\n5. `TRANSFER .15,,REJ` - Probabilistic branching. 15% of parts are sent to the block labeled 'REJ', and 85% proceed to the next sequential block.\n6. `TERMINATE 1` - Represents accepted parts leaving the system. Reduces the termination counter by 1.\n7. `REJ TERMINATE 1` - Represents rejected parts leaving the system. Reduces the termination counter by 1.\n8. `START 100` - Control statement to run the simulation until 100 parts are processed.\n\nBlock Diagram Description: A flow of sequential rectangular/custom blocks connecting GENERATE to SEIZE, to ADVANCE, to RELEASE, to a TRANSFER block. The TRANSFER block splits the path: one path goes directly to a TERMINATE block (accept), and the other (15% probability) routes to a separate TERMINATE block labeled REJ.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-15",
+          "question": "Explain the independence and uniformity property of random number. For the following sample of random numbers, perform test for independence using K-S test. (D0.05,10 = 0.409) 0.35, 0.77, 0.12, 0.33, 0.88, 0.45, 0.19, 0.25, 0.91, 0.54",
+          "answer": "Properties of Random Numbers:\n1. Uniformity: The numbers must be uniformly distributed in the interval [0, 1]. This means that the probability of a random number falling into any sub-interval of [0, 1] is proportional to the length of that sub-interval. The expected value is 0.5.\n2. Independence: The current value of a random number must not have any correlation or relationship with past or future values. The occurrence of one number should not predict the occurrence of another.\n\nK-S Test for Uniformity (Note: K-S tests for uniformity, not independence, despite the question wording):\nStep 1: Sort the N=10 numbers in ascending order (R_i):\n0.12, 0.19, 0.25, 0.33, 0.35, 0.45, 0.54, 0.77, 0.88, 0.91.\nStep 2: Calculate i/N, (i-1)/N, D+, and D- for each i from 1 to 10.\nD+ = i/N - R_i\nD- = R_i - (i-1)/N\nRow 1 (0.12): D+ = 0.1 - 0.12 = -0.02. D- = 0.12 - 0 = 0.12.\nRow 2 (0.19): D+ = 0.2 - 0.19 = 0.01. D- = 0.19 - 0.1 = 0.09.\nRow 3 (0.25): D+ = 0.3 - 0.25 = 0.05. D- = 0.25 - 0.2 = 0.05.\nRow 4 (0.33): D+ = 0.4 - 0.33 = 0.07. D- = 0.33 - 0.3 = 0.03.\nRow 5 (0.35): D+ = 0.5 - 0.35 = 0.15. D- = 0.35 - 0.4 = -0.05.\nRow 6 (0.45): D+ = 0.6 - 0.45 = 0.15. D- = 0.45 - 0.5 = -0.05.\nRow 7 (0.54): D+ = 0.7 - 0.54 = 0.16. D- = 0.54 - 0.6 = -0.06.\nRow 8 (0.77): D+ = 0.8 - 0.77 = 0.03. D- = 0.77 - 0.7 = 0.07.\nRow 9 (0.88): D+ = 0.9 - 0.88 = 0.02. D- = 0.88 - 0.8 = 0.08.\nRow 10 (0.91): D+ = 1.0 - 0.91 = 0.09. D- = 0.91 - 0.9 = 0.01.\nStep 3: Find Max D+ and Max D-.\nMax D+ = 0.16. Max D- = 0.12.\nStep 4: Calculate D = max(D+, D-) = max(0.16, 0.12) = 0.16.\nStep 5: Compare D with critical value D_0.05,10 = 0.409.\nSince 0.16 < 0.409, we fail to reject the null hypothesis. The random numbers are uniformly distributed.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-03",
+          "question": "Difference between static physical and dynamic physical models.",
+          "answer": "Physical models are tangible representations of a system.\n- Static Physical Model: Represents a system at a specific point in time. It does not change its state or characteristics over time. Its primary purpose is to show the physical structure, spatial relationships, or scale of the original system. Example: An architectural scale model of a building or a tabletop map.\n- Dynamic Physical Model: Represents a system that evolves or changes state over time. These models incorporate motion, forces, or flow, allowing the study of the system's behavior under changing conditions. Example: A wind tunnel model testing the aerodynamics of a car, or a physical scale model of a river studying water flow and erosion.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-05",
+          "question": "Describe different phases of simulation study with help of flowchart.",
+          "answer": "A simulation study follows a structured life cycle:\n1. Problem Formulation: Clearly defining the problem and overall objectives.\n2. Setting Objectives and Project Plan: Determining what questions the simulation will answer and resource allocation.\n3. Model Conceptualization: Abstracting the real-world system into mathematical/logical relationships.\n4. Data Collection: Gathering real-world data to estimate parameters and input distributions.\n5. Model Translation: Coding the conceptual model into a simulation language (e.g., GPSS, Arena).\n6. Verification: Ensuring the computer program executes exactly as intended (debugging).\n7. Validation: Ensuring the model accurately represents the real-world system.\n8. Experimental Design: Deciding which alternatives to simulate, length of runs, and number of replications.\n9. Production Runs & Analysis: Executing the model and using statistical tools to estimate performance measures.\n10. Documentation & Reporting: Recording assumptions, logic, and results for future use.\n11. Implementation: Using the results to make decisions in the real system.\n(The flowchart connects these sequentially with iterative feedback loops, particularly from Validation back to Data Collection or Conceptualization).",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-12",
+          "question": "Explain markov chain with suitable example. What are different application areas of markov chain?",
+          "answer": "Markov Chain: A stochastic mathematical model describing a sequence of possible events where the probability of each event depends only on the state attained in the previous event (Memoryless property / Markov property). It is defined by a set of states and transition probabilities between those states.\nExample: Weather prediction. If states are Sunny (S) and Rainy (R). If today is Sunny, there is an 80% chance tomorrow is Sunny and 20% Rainy. If today is Rainy, there is a 60% chance tomorrow is Rainy and 40% Sunny. The future weather depends only on today's weather, not on the weather from last week.\nApplication Areas: \n1. Queueing theory and network traffic modeling.\n2. PageRank algorithm (Google) for ranking web pages.\n3. Economics and finance (predicting stock market trends).\n4. Genetics and bioinformatics (DNA sequence analysis).\n5. Natural language processing (speech recognition, predictive text).",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-16",
+          "question": "Explain iterative process of calibrating a simulation model.",
+          "answer": "Calibration is the iterative process of comparing the simulation model's output to the real-world system's data and adjusting the model parameters until the model's behavior matches the real system within an acceptable margin of error.\nThe iterative process involves:\n1. Execute the initial model and generate output data.\n2. Compare the output with historical/empirical data from the real system using statistical tests (e.g., t-tests, ANOVA).\n3. Identify discrepancies or large variances.\n4. Adjust model parameters, structural assumptions, or input distributions to correct the discrepancies.\n5. Rerun the model with the adjusted parameters.\n6. Repeat the comparison. This cycle continues iteratively until the model's output validates against the real-world data, proving it is a reliable surrogate for decision-making.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-16",
+          "question": "Describe the process of model building, verification and validation in detail with example.",
+          "answer": "Model Building: The process of abstracting a real-world system into a conceptual and then a computerized model. It involves defining system boundaries, identifying entities, attributes, activities, and collecting data. Example: Building a model of a bank, identifying tellers (resources), customers (entities), and service times (distributions).\nVerification (Building the model right): The process of ensuring that the computer program correctly implements the conceptual model without logic or syntax errors. It is essentially debugging. Example: Running the bank model with a single customer to ensure the logic correctly routes them to the teller and records their wait time without crashing.\nValidation (Building the right model): The process of ensuring the model is an accurate representation of the real-world system. It determines if the model can be used to make decisions. Example: Comparing the average queue length generated by the bank simulation to the actual measured queue length in the real bank over a month. If they match statistically, the model is valid.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-10",
+          "question": "Define traffic intensity and server utilization. Write down the Kendall's notation for queuing system with example.",
+          "answer": "Traffic Intensity ($u$ or $\\rho$): A measure of the average occupancy of a server or resource. For a single-server system, it is the ratio of the arrival rate ($\\lambda$) to the service rate ($\\mu$). Formula: $\\rho = \\lambda / \\mu$. It indicates the expected load on the system.\nServer Utilization: The proportion of time the server is busy. In a single-server system where $\\lambda < \\mu$, utilization equals traffic intensity. If $\\rho > 1$, the queue grows infinitely.\nKendall's Notation: A standard system to describe and classify queuing models. Format: A / B / c / N / K / D.\nWhere: A = Arrival distribution, B = Service distribution, c = Number of parallel servers, N = System capacity (max queue + service), K = Calling population size, D = Queue discipline.\nExample: M/M/1/$\\infty$/$\\infty$/FCFS indicates a system with Markovian (Poisson) arrivals, Markovian (Exponential) service times, 1 server, infinite capacity, infinite population, and First-Come-First-Served discipline.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-10",
+          "question": "Define traffic intensity and server utilization. Write down the Kendall's notation for queuing system with example.",
+          "answer": "[UNCERTAIN: This question is a duplicate of Q9 in the original paper text. The answer is identical to Q9].\nTraffic Intensity: Ratio of arrival rate to service rate ($\\rho = \\lambda / \\mu$).\nServer Utilization: The fraction of time servers are busy.\nKendall's Notation: A/B/c/N/K/D (Arrival/Service/Servers/Capacity/Population/Discipline).\nExample: M/M/1 denotes Poisson arrivals, Exponential service, 1 server.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-06",
+          "question": "What is analog computer? Explain with suitable example.",
+          "answer": "Analog Computer: A type of computer that uses continuous physical phenomena such as electrical, mechanical, or hydraulic quantities to model the problem being solved. Instead of operating on discrete numerical digits (like 1s and 0s in digital computers), it operates on continuous variables, representing variables by physical quantities like voltage or pressure.\nExample: An electronic analog computer used to simulate a car's suspension system. The physical components of the car (mass, springs, shock absorbers) are mapped to electronic components (inductors, capacitors, resistors). The voltage represents the position of the car chassis, and the current represents velocity. By measuring the voltage over time, engineers can simulate how the suspension reacts to bumps without building a physical prototype.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sim-10",
+          "question": "Write short notes: Queuing discipline",
+          "answer": "Queuing Discipline: The logical rule or policy that determines the order in which waiting customers (entities) are selected from the queue to receive service. Common disciplines include:\n1. FCFS (First-Come, First-Served): Standard queue, served in order of arrival.\n2. LCFS (Last-Come, First-Served): Stack-like, newest arrival served first.\n3. Priority: Entities with higher priority (e.g., emergency patients) bypass those with lower priority.\n4. SIRO (Service in Random Order): Entities selected randomly.\n5. Round Robin: Entities receive a time slice of service; if not finished, they return to the queue.",
+          "marks": 2
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sim-14",
+          "question": "Write short notes: Random variate",
+          "answer": "Random Variate: A particular outcome or generated value of a random variable following a specific probability distribution (e.g., Exponential, Normal, Poisson). While \"random numbers\" typically refer to values uniformly distributed between 0 and 1 (U(0,1)), a \"random variate\" is generated by transforming those uniform random numbers to match a desired theoretical distribution representing real-world stochastic processes (like arrival times or service times). Techniques for generation include Inverse Transform, Convolution, and Acceptance-Rejection methods.",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "year": "2080",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-03",
+          "question": "Why model of a system is built? What is static model? Differentiate between static and dynamic mathematical models in simulation.",
+          "answer": "Why a model is built: Models are built as surrogates for real-world systems because experimenting with the real system might be too dangerous, expensive, time-consuming, or physically impossible (e.g., the system doesn't exist yet). Models allow analysts to understand system behavior, test \"what-if\" scenarios, and optimize performance in a controlled environment.\nStatic Model: A model that represents a system at a particular point in time. Time plays no role in a static model. Examples include Monte Carlo simulations for evaluating integrals or evaluating the risk of an investment portfolio on a specific day.\nStatic vs Dynamic Mathematical Models:\n- Static Mathematical Model: Equations relate variables independently of time. The output depends only on the current inputs. (e.g., $E = mc^2$, or algebraic cost equations).\n- Dynamic Mathematical Model: Represents a system that evolves over time. It typically involves differential or difference equations where the state of the system at time $t$ depends on its state at time $t-1$. It accounts for time-dependent behaviors like delays, accumulation, and rates of change.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-19",
+          "question": "What is storage in GPSS? Describe the blocks associated to storage in GPSS. A machine tool in a manufacturing shop is turning out parts at the rate of one every 5 minutes. As they are finished the parts go on an inspector who takes 10±3 minutes to examine each one and rejects 10% of the parts. Represent the system in GPSS using the concept of facility and run the simulation for 500 parts.",
+          "answer": "Storage in GPSS: An entity used to represent a resource that has a capacity greater than one (e.g., a parking lot, a pool of identical workers). Multiple transactions can occupy a storage simultaneously up to its defined capacity.\nBlocks associated with Storage:\n1. `ENTER`: A transaction attempts to take a specified number of units from the storage. If unavailable, it waits.\n2. `LEAVE`: A transaction returns units to the storage, making them available for waiting transactions.\n3. `STORAGE`: A definition statement used to set the maximum capacity of the storage entity.\n\nGPSS Code for problem (using Facility as requested):\n1. `GENERATE 5,0` - Parts arrive exactly 1 every 5 mins.\n2. `SEIZE INSP` - Part captures the single inspector facility.\n3. `ADVANCE 10,3` - Inspection takes uniformly 7 to 13 mins.\n4. `RELEASE INSP` - Part frees the inspector.\n5. `TRANSFER .1,,REJ` - 10% branch to REJ, 90% go to next block.\n6. `TERMINATE 1` - Accepted parts leave (decrement counter by 1).\n7. `REJ TERMINATE 1` - Rejected parts leave (decrement counter by 1).\n8. `START 500` - Run until 500 parts are completely processed.\nNote: Since arrival is faster (5m) than service (10m), the queue for the inspector will grow infinitely unless a QUEUE block is added, though not strictly requested by the prompt.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-15",
+          "question": "What are the two main properties of random numbers? Test whether the 3rd, 7th, 11th, and so on numbers in the sequence in the following random number sample are auto-correlated. (Zα=0.05 and Z0.025=1.96) 0.12 0.01 0.23 0.28 0.89 0.31 0.64 0.28 0.83 0.93 0.99 0.15 0.33 0.35 0.91 0.41 0.60 0.27 0.75 0.88 0.68 0.49 0.05 0.43 0.95 0.58 0.19 0.36 0.69 0.87",
+          "answer": "Two main properties of random numbers: \n1. Uniformity (values are equally likely to appear in [0,1]).\n2. Independence (the current value is not correlated with past or future values).\n\nAuto-correlation Test:\nSequence N=30. Start index $i=3$. Lag $m=4$ (since we check 3rd, 7th, 11th, diff is 4). \nWe evaluate the sequence: $R_3, R_7, R_{11}, R_{15}, R_{19}, R_{23}, R_{27}$.\nValues: 0.23, 0.64, 0.99, 0.91, 0.75, 0.05, 0.19.\nFind M (largest integer such that $i + mM \\le N$): $3 + 4M \\le 30 \\Rightarrow 4M \\le 27 \\Rightarrow M=6$.\nCalculate estimator $\\hat{\\rho}_{im}$:\n$\\hat{\\rho}_{34} = \\frac{1}{M+1} \\left[ \\sum_{k=0}^{M-1} R_{i+km} R_{i+(k+1)m} \\right] - 0.25$\nSum of products = (0.23 * 0.64) + (0.64 * 0.99) + (0.99 * 0.91) + (0.91 * 0.75) + (0.75 * 0.05) + (0.05 * 0.19) \n= 0.1472 + 0.6336 + 0.9009 + 0.6825 + 0.0375 + 0.0095 = 2.4112.\n$\\hat{\\rho}_{34} = \\frac{2.4112}{6+1} - 0.25 = \\frac{2.4112}{7} - 0.25 = 0.3444 - 0.25 = 0.0944$.\nCalculate Standard Deviation $\\sigma_{\\hat{\\rho}}$:\n$\\sigma_{\\hat{\\rho}} = \\frac{\\sqrt{13M + 7}}{12(M+1)} = \\frac{\\sqrt{13(6) + 7}}{12(7)} = \\frac{\\sqrt{85}}{84} = \\frac{9.2195}{84} = 0.1097$.\nCalculate Test Statistic $Z_0$:\n$Z_0 = \\frac{\\hat{\\rho}_{34}}{\\sigma_{\\hat{\\rho}}} = \\frac{0.0944}{0.1097} = 0.86$.\nCompare with Critical Value: Since $-Z_{0.025} < Z_0 < Z_{0.025}$ ($-1.96 < 0.86 < 1.96$), we fail to reject the null hypothesis. There is no significant auto-correlation.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-12",
+          "question": "Explain Markov chain with suitable example.",
+          "answer": "Markov Chain: A type of stochastic process that models a sequence of random variables (states) where the probability of moving to the next state depends solely on the current state, and not on the previous history of states. This is known as the Memoryless property or Markov property. A Markov chain is defined by its state space and its Transition Probability Matrix, which details the probability of moving from state $i$ to state $j$.\nExample: A simple model of user behavior on a website. The states are Page A, Page B, and Exit. \nIf a user is on Page A, there is a 50% chance they go to Page B, 20% they stay on A, and 30% they Exit.\nIf they are on Page B, there is a 40% chance they go back to A, 10% stay on B, and 50% they Exit.\nThe next page visited depends entirely on the current page, completely ignoring how the user arrived at the current page.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-05",
+          "question": "What are steps involved in simulation study? Explain.",
+          "answer": "Steps in a Simulation Study:\n1. Problem Formulation: Clearly define the issue to be solved.\n2. Setting Objectives: Determine the goals and what the simulation is expected to achieve.\n3. Model Conceptualization: Abstract the real system into logical/mathematical relationships.\n4. Data Collection: Gather empirical data for input parameters and distributions.\n5. Model Translation: Code the model using a simulation language or software.\n6. Verification: Debug the code to ensure the model logic operates as intended.\n7. Validation: Compare model output to real-world data to ensure accuracy.\n8. Experimental Design: Plan the scenarios, run lengths, and replications to be executed.\n9. Execution and Output Analysis: Run the model and use statistical methods to analyze the results.\n10. Documentation and Implementation: Report findings and apply results to the real-world system.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-14",
+          "question": "Generate 10 random integers using Linear congruential method where m=1000, a=19, c=6 and X0=13.",
+          "answer": "Linear Congruential Method formula: $X_{n} = (a \\cdot X_{n-1} + c) \\mod m$\nGiven: $m = 1000, a = 19, c = 6, X_0 = 13$.\n1. $X_1 = (19 \\cdot 13 + 6) \\mod 1000 = (247 + 6) \\mod 1000 = 253$.\n2. $X_2 = (19 \\cdot 253 + 6) \\mod 1000 = (4807 + 6) \\mod 1000 = 4813 \\mod 1000 = 813$.\n3. $X_3 = (19 \\cdot 813 + 6) \\mod 1000 = (15447 + 6) \\mod 1000 = 15453 \\mod 1000 = 453$.\n4. $X_4 = (19 \\cdot 453 + 6) \\mod 1000 = (8607 + 6) \\mod 1000 = 8613 \\mod 1000 = 613$.\n5. $X_5 = (19 \\cdot 613 + 6) \\mod 1000 = (11647 + 6) \\mod 1000 = 11653 \\mod 1000 = 653$.\n6. $X_6 = (19 \\cdot 653 + 6) \\mod 1000 = (12407 + 6) \\mod 1000 = 12413 \\mod 1000 = 413$.\n7. $X_7 = (19 \\cdot 413 + 6) \\mod 1000 = (7847 + 6) \\mod 1000 = 7853 \\mod 1000 = 853$.\n8. $X_8 = (19 \\cdot 853 + 6) \\mod 1000 = (16207 + 6) \\mod 1000 = 16213 \\mod 1000 = 213$.\n9. $X_9 = (19 \\cdot 213 + 6) \\mod 1000 = (4047 + 6) \\mod 1000 = 4053 \\mod 1000 = 53$.\n10. $X_{10} = (19 \\cdot 53 + 6) \\mod 1000 = (1007 + 6) \\mod 1000 = 1013 \\mod 1000 = 13$.\nThe 10 random integers are: 253, 813, 453, 613, 653, 413, 853, 213, 53, 13.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Explain different estimation methods which are used in simulation output analysis.",
+          "answer": "Estimation methods in output analysis are used to draw inferences about system performance based on simulation data.\n1. Point Estimation: Using a single sample statistic to estimate a population parameter. For example, using the sample mean ($\\bar{X}$) of customer waiting times from one simulation run to estimate the true expected waiting time ($\\mu$). It does not provide a measure of error or confidence.\n2. Interval Estimation (Confidence Intervals): Provides a range $[L, U]$ that is highly likely to contain the true population parameter. It accounts for the variance in the simulation output. It is constructed using the point estimate, the standard error, and a critical value from a distribution (usually Student's t-distribution for independent replications). A 95% confidence interval means we are 95% confident the true mean falls within that range, giving decision-makers a clear view of the estimate's precision.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-16",
+          "question": "Define verification and validation. Explain the process of model verification in brief.",
+          "answer": "Verification: The process of determining whether the computer implementation of the simulation model (the code) correctly represents the conceptual model. It ensures the model is built right (no bugs, correct logic).\nValidation: The process of determining whether the simulation model is an accurate representation of the real-world system for the specific objectives of the study. It ensures the right model is built.\nProcess of Model Verification:\n1. Modular Testing: Code and debug the simulation in small sub-modules before integrating them.\n2. Code Review: Having someone other than the original programmer check the code logic.\n3. Trace Analysis: Printing out the state variables and entity movements step-by-step during a simulation run to trace the exact logic flow and ensure it matches expectations.\n4. Degenerate Tests: Running the model under extreme or simplified conditions (e.g., zero arrival rate, infinite service rate) to see if it behaves as logically expected.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-09",
+          "question": "What is feedback system? Explain with example.",
+          "answer": "Feedback System: A dynamic system wherein a portion of the output is returned (fed back) to the input to control, modify, or maintain the system's future behavior. Feedback loops are crucial for systems that need to maintain stability (homeostasis) or follow a specific trajectory.\nTypes:\n- Negative Feedback: Reduces the discrepancy between current state and a desired state, promoting stability.\n- Positive Feedback: Amplifies changes, driving the system away from equilibrium.\nExample: A thermostat controlling a room's temperature (Negative Feedback). The desired temperature is the input. The actual temperature is the output. A sensor measures the output and feeds it back to compare with the input. If the actual temperature falls below the desired setting, the heater turns on. Once it reaches the target, the heater turns off. The output directly controls the future input state.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-10",
+          "question": "What is calling population? Explain arrival and service process in a queue.",
+          "answer": "Calling Population: The pool of potential customers or entities that may require service from the queuing system. It can be finite (e.g., 5 machines requiring repair by a mechanic) or infinite (e.g., cars arriving at a toll booth). Infinite populations are easier to model as the arrival rate is independent of the number of entities already in the system.\nArrival Process: Describes how customers enter the queuing system over time. It is defined by the inter-arrival times (time between consecutive arrivals). These are usually modeled as random variables following a probability distribution, most commonly the Exponential distribution (which implies a Poisson arrival process).\nService Process: Describes how long it takes to serve a customer once they reach the server. It is defined by service times, which are also modeled as random variables (often Exponential, Normal, or Constant). It also dictates whether there are single or multiple servers and whether they operate in parallel or series.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-08",
+          "question": "Explain Monte Carlo simulation method with example.",
+          "answer": "Monte Carlo Simulation: A computational technique that uses repeated random sampling to estimate numerical results, typically for complex mathematical, physical, or financial problems where deterministic analytic solutions are difficult or impossible. It handles static models with stochastic (random) elements.\nProcess: Define a domain of possible inputs, generate inputs randomly from a probability distribution over the domain, perform deterministic computations on the inputs, and aggregate the results.\nExample: Estimating the value of $\\pi$. Imagine a circle inscribed inside a square. The ratio of the circle's area to the square's area is $\\pi/4$. Generate thousands of random coordinate points $(x,y)$ uniformly distributed within the square. Count how many fall inside the circle ($x^2 + y^2 \\le r^2$). The ratio of points inside the circle to total points, multiplied by 4, yields an estimate of $\\pi$. The more iterations, the closer the estimate.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sim-07",
+          "question": "Write short notes on: a. Non-stationary poisson process",
+          "answer": "Non-Stationary Poisson Process (NSPP): A Poisson arrival process where the arrival rate $\\lambda$ is not constant but varies as a function of time, $\\lambda(t)$. Real-world systems rarely have constant arrival rates throughout a day; for example, restaurant arrivals peak during lunch and dinner, or highway traffic peaks during rush hours. NSPP accurately models these time-dependent arrival patterns, often generated in simulations using a technique called \"thinning\" or by piecewise-constant rates.",
+          "marks": 2
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sim-15",
+          "question": "Write short notes on: b. Poker test",
+          "answer": "Poker Test: A statistical test used to check the independence property of generated random numbers. It analyzes groups of consecutive random digits (often groups of 3, 4, or 5) and categorizes them similarly to poker hands (e.g., all different, one pair, three of a kind). It then compares the observed frequency of each \"hand\" against the theoretical expected probability of that hand occurring in a truly random sequence using a Chi-Square goodness-of-fit test. If the frequencies deviate significantly, the random number generator lacks independence.",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "year": "2079",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-19",
+          "question": "What is transaction in GPSS? Explain about facility in GPSS. Customers arrive at Joey Barbershop one every 15±3 minutes and it takes Joey 18±2 minutes to cut hair of a customer. Create a GPSS model with block diagram for the Barbershop using the concept of facility and run the simulation for 9 hours.",
+          "answer": "Transaction in GPSS: The dynamic entities that move through the simulation model representing units of traffic, such as customers in a bank, parts in a factory, or packets in a network. They are created by GENERATE blocks, move from block to block, and are destroyed by TERMINATE blocks.\nFacility in GPSS: An entity that represents a single-server resource that can be occupied by only one transaction at a time. If a transaction attempts to SEIZE a busy facility, it automatically waits in an implicit queue until the facility is RELEASEd.\n\nGPSS Code for Joey Barbershop:\nTime unit = 1 minute. 9 hours = 540 minutes.\n1. `GENERATE 15,3` - Customers arrive uniformly between 12 and 18 mins.\n2. `SEIZE JOEY` - Customer requests Joey (the facility).\n3. `ADVANCE 18,2` - Haircut takes uniformly between 16 and 20 mins.\n4. `RELEASE JOEY` - Customer frees Joey.\n5. `TERMINATE 0` - Customer leaves (does not decrement counter).\n6. `GENERATE 540` - Timer transaction arrives at exactly 540 mins.\n7. `TERMINATE 1` - Timer transaction ends simulation run.\n8. `START 1` - Start the simulation requiring 1 termination.\n\nBlock Diagram Description: A flow of rectangular blocks. A main stream: GENERATE -> SEIZE -> ADVANCE -> RELEASE -> TERMINATE. A secondary, separate stream for the timer: GENERATE -> TERMINATE.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-06",
+          "question": "Why accuracy of analog computer is low? Explain analog computer with suitable example. Differentiate between analog and digital computer.",
+          "answer": "Why accuracy is low: Analog computers use continuous physical quantities (like voltage) to represent data. Their accuracy is limited by the precision of the physical components (resistors, capacitors), susceptibility to environmental noise, temperature variations, and the physical limits of measuring continuous signals.\nAnalog Computer: Solves problems by modeling them with physical or electrical systems governed by the same mathematical equations as the problem. Example: Using an electrical circuit with inductors and capacitors to simulate the mechanical oscillation of a spring-mass system. Voltage represents position, current represents velocity.\nAnalog vs Digital Computer:\n1. Data Representation: Analog uses continuous physical quantities; Digital uses discrete binary numbers (0s and 1s).\n2. Accuracy: Analog has low/moderate accuracy due to physical constraints; Digital has virtually unlimited accuracy depending on bit depth.\n3. Speed: Analog solves complex differential equations instantly as the circuit settles; Digital solves sequentially, requiring many clock cycles.\n4. Programming: Analog requires physically rewiring components (patch panels); Digital uses software code stored in memory.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-15",
+          "question": "Define and develop a Poker test for four-digit random numbers. A sequence of 1,000 random numbers, each of four digits has been generated. The analysis of the numbers reveals that in 525 numbers all four digits are different, 419 contain exactly one pair of like digits, 47 contain two pairs, 9 have three digits of a kind and 7 contain all like digits. Use Poker test to determine whether these numbers are independent. (Critical value of chi-square for a=0.05 and N=4 is 9.49).",
+          "answer": "Poker Test for 4-digit numbers: Tests independence by analyzing combinations of digits. A 4-digit number has 5 possible \"hands\": All different (ABCD), One pair (AABC), Two pairs (AABB), Three of a kind (AAAB), and Four of a kind (AAAA). We compare observed frequencies with expected theoretical probabilities using a Chi-Square test.\nExpected Probabilities:\nP(ABCD) = (10 * 9 * 8 * 7) / 10000 = 0.504.\nP(AABC) = C(4,2) * (10 * 9 * 8) / 10000 = 6 * 720 / 10000 = 0.432.\nP(AABB) = (C(4,2)/2) * (10 * 9) / 10000 = 3 * 90 / 10000 = 0.027.\nP(AAAB) = C(4,3) * (10 * 9) / 10000 = 4 * 90 / 10000 = 0.036.\nP(AAAA) = 10 / 10000 = 0.001.\nGiven N = 1000. Expected Frequencies (E_i = N * P_i):\nE_ABCD = 504; E_AABC = 432; E_AABB = 27; E_AAAB = 36; E_AAAA = 1.\nObserved Frequencies (O_i) (Total sum = 1007, assuming a slight typo in question, we proceed with calculation):\nO_ABCD = 525; O_AABC = 419; O_AABB = 47; O_AAAB = 9; O_AAAA = 7.\nCalculate Chi-Square (X^2) = $\\sum \\frac{(O_i - E_i)^2}{E_i}$:\nABCD: $(525 - 504)^2 / 504 = 441 / 504 = 0.875$\nAABC: $(419 - 432)^2 / 432 = 169 / 432 = 0.391$\nAABB: $(47 - 27)^2 / 27 = 400 / 27 = 14.815$\nAAAB: $(9 - 36)^2 / 36 = 729 / 36 = 20.25$\nAAAA: $(7 - 1)^2 / 1 = 36 / 1 = 36.0$\nTotal X^2 = 0.875 + 0.391 + 14.815 + 20.25 + 36.0 = 72.331.\nSince calculated X^2 (72.331) > Critical Value (9.49), we reject the null hypothesis. The numbers are NOT independent.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why Confidence interval is needed in the analysis of simulation output. How can we establish a confidence interval?",
+          "answer": "Why Needed: A simulation run only produces a single point estimate (like average wait time) based on a specific sequence of random numbers. Because inputs are stochastic, outputs are stochastic. A point estimate provides no information about its accuracy or variance. A confidence interval is needed to provide a bounded range indicating how precise the estimate is, quantifying the uncertainty, and stating with a specified probability (e.g., 95%) that the true system parameter falls within that range.\nHow to Establish: \n1. Run $n$ independent replications of the simulation using different random number seeds.\n2. Calculate the performance measure for each replication ($Y_1, Y_2, ..., Y_n$).\n3. Calculate the sample mean ($\\bar{Y}$) and sample standard deviation ($S$).\n4. Select a confidence level ($1-\\alpha$, usually 95%, so $\\alpha=0.05$).\n5. Find the critical value from the Student's t-distribution: $t_{\\alpha/2, n-1}$.\n6. Calculate the confidence interval bounds: $\\bar{Y} \\pm t_{\\alpha/2, n-1} \\frac{S}{\\sqrt{n}}$.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-08",
+          "question": "Explain the Monte Carlo simulation method with example.",
+          "answer": "Monte Carlo Simulation: A mathematical technique used to model risk and uncertainty in complex systems by running a model many times using randomly generated values for uncertain variables. It relies on repeated random sampling to obtain numerical results for static problems (time plays no role).\nExample: Calculating the area of an irregular shape inside a known bounding box (like a 10x10 square of area 100). You randomly throw thousands of \"darts\" (generate random X,Y coordinates) inside the box. You count how many darts land inside the irregular shape. If 30% of the darts land inside the shape, the estimated area of the shape is 30% of the bounding box area (30). Accuracy increases with the number of random darts thrown.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-14",
+          "question": "Generate ten 3 digit random integers and corresponding random variables using Multiplicative Congruential method where a=7, and X0=22.",
+          "answer": "Multiplicative Congruential Method formula: $X_{n} = (a \\cdot X_{n-1}) \\mod m$. Random variable $R_n = X_n / m$.\nSince 3-digit random integers are requested, we set modulus $m = 1000$.\nGiven: $m = 1000, a = 7, X_0 = 22$.\n1. $X_1 = (7 \\cdot 22) \\mod 1000 = 154$. $R_1 = 0.154$\n2. $X_2 = (7 \\cdot 154) \\mod 1000 = 1078 \\mod 1000 = 78$. $R_2 = 0.078$\n3. $X_3 = (7 \\cdot 78) \\mod 1000 = 546$. $R_3 = 0.546$\n4. $X_4 = (7 \\cdot 546) \\mod 1000 = 3822 \\mod 1000 = 822$. $R_4 = 0.822$\n5. $X_5 = (7 \\cdot 822) \\mod 1000 = 5754 \\mod 1000 = 754$. $R_5 = 0.754$\n6. $X_6 = (7 \\cdot 754) \\mod 1000 = 5278 \\mod 1000 = 278$. $R_6 = 0.278$\n7. $X_7 = (7 \\cdot 278) \\mod 1000 = 1946 \\mod 1000 = 946$. $R_7 = 0.946$\n8. $X_8 = (7 \\cdot 946) \\mod 1000 = 6622 \\mod 1000 = 622$. $R_8 = 0.622$\n9. $X_9 = (7 \\cdot 622) \\mod 1000 = 4354 \\mod 1000 = 354$. $R_9 = 0.354$\n10. $X_{10} = (7 \\cdot 354) \\mod 1000 = 2478 \\mod 1000 = 478$. $R_{10} = 0.478$\nRandom integers: 154, 78, 546, 822, 754, 278, 946, 622, 354, 478.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-16",
+          "question": "\"Building a model right\" and \"Building a right model\". Are both statements same? Discuss the importance of V&V.",
+          "answer": "No, the statements are not the same; they represent two distinct phases of model evaluation.\n- \"Building a model right\" refers to Verification. It means ensuring the computer programming and implementation correctly execute the logic of the conceptual model without bugs.\n- \"Building the right model\" refers to Validation. It means ensuring the conceptual model is an accurate representation of the real-world system and correctly addresses the problem at hand.\nImportance of V&V (Verification and Validation): \nV&V are crucial because simulation results are often used to make high-stakes financial, operational, or safety decisions. If a model is unverified (has bugs), it produces garbage output. If it is unvalidated (wrong assumptions), it solves the wrong problem flawlessly. Rigorous V&V establishes credibility, ensuring stakeholders trust the simulation results enough to base real-world implementations on them.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-02",
+          "question": "Differentiate between discrete and continuous system.",
+          "answer": "Discrete System: A system where state variables change instantaneously at distinct, separated points in time. Time can be viewed as jumping from one event to the next. \nExample: A bank. The number of customers in the queue (state variable) only changes exactly when a customer arrives or departs.\nContinuous System: A system where state variables change smoothly and continuously over time. Time flows constantly, and variables are tracked continuously using differential equations.\nExample: An airplane's flight. The altitude, fuel level, and velocity (state variables) change continuously every fraction of a second during the flight.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-12",
+          "question": "What is markov chain? Explain with example.",
+          "answer": "Markov Chain: A mathematical system that transitions from one state to another within a finite number of possible states. It is a memoryless process, meaning the probability of transitioning to any particular state depends solely on the current state and not on the sequence of events that preceded it.\nExample: Modeling customer brand switching. States: Buys Coke (C), Buys Pepsi (P). \nTransition rules: If a customer buys Coke today, there is a 90% chance they buy Coke next time and 10% they switch to Pepsi. If they buy Pepsi today, there is an 80% chance they buy Pepsi next time and 20% they switch to Coke. Next purchase depends only on the current purchase, ignoring all history before it.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-10",
+          "question": "Explain basic characteristics of Queueing System.",
+          "answer": "Basic Characteristics of a Queuing System:\n1. Calling Population: The source of customers (finite or infinite).\n2. Arrival Process: How customers arrive, modeled by inter-arrival time distributions (e.g., Poisson/Exponential).\n3. Queue Behavior/Discipline: How the queue handles customers (e.g., balking, reneging, jockeying) and the order of service (FCFS, LCFS, Priority).\n4. Queue Capacity: Maximum number of customers the waiting area can hold (finite or infinite).\n5. Service Process: The time required to serve a customer, modeled by probability distributions (e.g., Exponential, Normal).\n6. Service Mechanism: Number of servers and their arrangement (single, multiple parallel, sequential network).",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-03",
+          "question": "Describe dynamic physical model in detail with the help of suitable example.",
+          "answer": "Dynamic Physical Model: A physical (tangible, 3D) representation of a system that changes its state over time or is subjected to varying physical forces to simulate real-world operations. Unlike static models (like architectural scale models), dynamic models are active and used to study motion, flow, stress, and behavioral responses under changing conditions.\nExample: A scale model of an airplane placed in a wind tunnel. Engineers blow air over the model at varying speeds and angles (changing conditions over time) to simulate flight. Sensors on the model measure lift, drag, and turbulence dynamics. This helps analysts observe how the real airplane will behave dynamically in the air before building the full-scale version.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sim-17",
+          "question": "Write short notes: a. Hypothesis testing",
+          "answer": "Hypothesis Testing: A statistical method used in simulation to make inferences about population parameters or validate model behavior. It involves stating a null hypothesis ($H_0$, e.g., the model's mean output equals the real system's mean) and an alternative hypothesis ($H_1$). Sample data from simulation runs is used to calculate a test statistic (like a t-score or Chi-square). If the statistic falls in the rejection region defined by the significance level ($\\alpha$), $H_0$ is rejected. It is extensively used in random number testing and model validation.",
+          "marks": 2
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sim-07",
+          "question": "Write short notes: b. Stationary poisson process",
+          "answer": "Stationary Poisson Process: A common mathematical model for the arrival of entities into a queueing system. It assumes that events (arrivals) occur continuously and independently at a constant average rate, $\\lambda$, over time. The key property is that the time between consecutive arrivals (inter-arrival time) follows an Exponential distribution with mean $1/\\lambda$. Because the rate $\\lambda$ does not change regardless of the time of day, it is \"stationary.\"",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "year": "2078",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-10",
+          "question": "Define queuing system. Explain the Kendall's notation for queuing system. What are the various performance measures in single server queuing System? Explain which of them determine system stability and how?",
+          "answer": "Queuing System: A system where customers (entities) arrive, wait in a line (queue) if resources are busy, receive service from one or more servers, and then depart.\nKendall's Notation: A standard format A/B/c/N/K/D to describe queues. \nA = Arrival distribution (M for Markov/Poisson, D for Deterministic, G for General).\nB = Service time distribution.\nc = Number of parallel servers.\nN = System capacity (max allowed in queue + service).\nK = Calling population size.\nD = Queue discipline (FCFS, LCFS, etc.). (N, K, D are often omitted if infinite/FCFS).\nPerformance Measures in single server:\n1. $L_q$: Average number of customers in queue.\n2. $L$: Average number in system.\n3. $W_q$: Average waiting time in queue.\n4. $W$: Average time spent in system.\n5. $\\rho$: Server utilization (traffic intensity).\nSystem Stability: Determined by Traffic Intensity $\\rho = \\lambda / \\mu$ (where $\\lambda$ is arrival rate, $\\mu$ is service rate). For a single server with infinite capacity to be stable, $\\rho < 1$ (arrival rate must be less than service rate). If $\\rho \\ge 1$, customers arrive faster than they are served, and the queue length $L_q$ will grow infinitely over time, meaning the system is unstable.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-15",
+          "question": "Define true random numbers and pseudo random numbers with its properties. The sequence of numbers 0.64, 0.50, 0.25, 0.58, 0.72, 0.90 has been generated. Use KS Test with Da=0.050=>0.512 to determine if the hypothesis that they are uniformly distributed on interval [0, 1] can be rejected.",
+          "answer": "True Random Numbers: Generated from unpredictable physical phenomena (radioactive decay, atmospheric noise). Non-deterministic and non-repeatable.\nPseudo-Random Numbers: Generated by deterministic mathematical algorithms. They appear random but are entirely predictable if the initial seed is known. Properties required for simulation: Uniformity (evenly distributed in [0,1]), Independence (no correlation), long period (sequence doesn't repeat quickly), and computational efficiency.\n\nK-S Test Calculation (N=6):\n1. Sort numbers (R_i): 0.25, 0.50, 0.58, 0.64, 0.72, 0.90.\n2. Calculate D+ and D- for each i (1 to 6):\ni=1: R1=0.25. i/N=0.167. (i-1)/N=0. D+ = 0.167 - 0.25 = -0.083. D- = 0.25 - 0 = 0.25.\ni=2: R2=0.50. i/N=0.333. (i-1)/N=0.167. D+ = 0.333 - 0.50 = -0.167. D- = 0.50 - 0.167 = 0.333.\ni=3: R3=0.58. i/N=0.500. (i-1)/N=0.333. D+ = 0.500 - 0.58 = -0.08. D- = 0.58 - 0.333 = 0.247.\ni=4: R4=0.64. i/N=0.667. (i-1)/N=0.500. D+ = 0.667 - 0.64 = 0.027. D- = 0.64 - 0.500 = 0.14.\ni=5: R5=0.72. i/N=0.833. (i-1)/N=0.667. D+ = 0.833 - 0.72 = 0.113. D- = 0.72 - 0.667 = 0.053.\ni=6: R6=0.90. i/N=1.000. (i-1)/N=0.833. D+ = 1.000 - 0.90 = 0.10. D- = 0.90 - 0.833 = 0.067.\n3. Find max values: Max D+ = 0.113. Max D- = 0.333.\n4. D = max(D+, D-) = 0.333.\n5. Compare with critical value D_0.05 = 0.512. Since 0.333 < 0.512, we fail to reject the null hypothesis. The sequence is uniformly distributed.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-03",
+          "question": "What do you understand by dynamic mathematical model? Explain with example. Differentiate it with static mathematical model.",
+          "answer": "Dynamic Mathematical Model: A mathematical representation of a system where variables change over time. Time is an independent variable, and the model typically uses differential equations or difference equations to compute how the system's state progresses from one moment to the next. \nExample: Modeling the population growth of a city over decades, where Population(t) = Population(t-1) + Births - Deaths. The state continuously updates based on previous time steps.\n\nDifferentiation:\n- Time Dependence: Static models evaluate a system at a specific snapshot in time (time-independent). Dynamic models explicitly track state changes over time (time-dependent).\n- Equations: Static models use algebraic equations. Dynamic models use differential/difference equations.\n- Use Case: Static models are used for risk analysis or structural limits (e.g., Monte Carlo estimating an integral). Dynamic models are used to study processes, delays, accumulations, and transient behaviors (e.g., queueing networks, weather forecasting).",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-05",
+          "question": "Describe the phases in simulation.",
+          "answer": "1. Problem Formulation: Identifying the specific issue to investigate.\n2. Setting Objectives: Defining what questions the simulation will answer.\n3. Conceptual Modeling: Creating a logical/mathematical flowchart of the system.\n4. Data Collection: Gathering real-world data for input parameters.\n5. Translation: Coding the conceptual model into simulation software.\n6. Verification: Debugging the code to ensure logical correctness.\n7. Validation: Ensuring the model accurately mimics the real system.\n8. Experimental Design: Deciding scenarios and number of runs.\n9. Execution & Analysis: Running the model and performing statistical analysis on output.\n10. Documentation & Implementation: Reporting results and applying findings.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-07",
+          "question": "Explain the concept of discrete event simulation. Explain Poisson's arrival pattern.",
+          "answer": "Discrete Event Simulation (DES): A simulation paradigm that models the operation of a system as a discrete sequence of events in time. Each event occurs at a particular instant in time and marks a change of state in the system (e.g., a customer arriving, or a service finishing). Between consecutive events, no change in the system is assumed to occur; thus, the simulation clock jumps directly to the time of the next event.\nPoisson's Arrival Pattern: A common mathematical model for random, independent arrivals in a DES. If arrivals follow a Poisson process, the number of arrivals in a fixed time interval follows a Poisson distribution. Consequently, the time between successive arrivals (inter-arrival time) follows an Exponential distribution. It implies a memoryless arrival process, typical of independent customers arriving at a store or calls at a call center.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-08",
+          "question": "Explain Monte Carlo simulation method with an example.",
+          "answer": "Monte Carlo Simulation: A computational technique that relies on repeated random sampling to obtain numerical results for complex, static problems involving uncertainty. It is used when exact analytical mathematical solutions are impossible or too difficult to compute.\nExample: Predicting the total cost of a construction project. The project has 3 phases, each with an estimated cost range (e.g., Phase 1 costs between $10k and $20k). A Monte Carlo simulation will run thousands of scenarios. In each scenario, it picks a random cost for each phase based on their probability distributions and sums them. The output is a probability distribution of the total project cost, allowing planners to say, \"We are 90% confident the project will cost less than $45k.\"",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-16",
+          "question": "Define the terms verification, calibration, validation and accreditation of models.",
+          "answer": "Verification: Ensuring the computer code operates exactly as the conceptual model intended. It is about building the model right (debugging).\nCalibration: The iterative process of adjusting model parameters and constants so that the model's output closely matches empirical data from the real-world system.\nValidation: The process of determining that the overall model provides an accurate and faithful representation of the real system, ensuring the right model was built for the intended purpose.\nAccreditation: The formal certification by an authoritative body (or management) that a validated model is acceptable for use for a specific purpose. It is a management decision rather than a technical one.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-14",
+          "question": "Use Multiplicative congruential method to generate a sequence of random numbers with X=7, a=11, m=16.",
+          "answer": "Multiplicative Congruential Method: $X_{n} = (a \\cdot X_{n-1}) \\mod m$.\nGiven: Initial seed $X_0 = 7$, multiplier $a = 11$, modulus $m = 16$.\nSequence generation:\n1. $X_1 = (11 \\cdot 7) \\mod 16 = 77 \\mod 16$. Since $16 \\cdot 4 = 64$, $77 - 64 = 13$.\n2. $X_2 = (11 \\cdot 13) \\mod 16 = 143 \\mod 16$. Since $16 \\cdot 8 = 128$, $143 - 128 = 15$.\n3. $X_3 = (11 \\cdot 15) \\mod 16 = 165 \\mod 16$. Since $16 \\cdot 10 = 160$, $165 - 160 = 5$.\n4. $X_4 = (11 \\cdot 5) \\mod 16 = 55 \\mod 16$. Since $16 \\cdot 3 = 48$, $55 - 48 = 7$.\nBecause $X_4$ returns to the seed value 7, the sequence will now repeat. The generated sequence is 13, 15, 5, 7. (Period is 4).",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why is estimation methods used in simulation? Explain.",
+          "answer": "Estimation methods are used in simulation because the output of a stochastic simulation is a random variable, not a definitive answer. A single run provides a sample performance measure (like average wait time), which is just a point estimate.\nWe use estimation methods (specifically Interval Estimation) to construct Confidence Intervals around this point estimate. This accounts for the variance and sampling error inherent in pseudo-random numbers. By estimating a range rather than a single number, analysts can confidently state that the true expected performance of the system lies within that interval with a specified probability (e.g., 95%). This is critical for reliable decision-making.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-18",
+          "question": "Explain the importance of elimination of initial bias during simulation.",
+          "answer": "Initial bias (or transient state bias) occurs when a simulation starts in an \"empty and idle\" state that is not representative of its normal operating conditions. For example, a factory simulation starting with 0 inventory and idle machines will show unusually fast processing times early on, skewing the overall averages.\nEliminating initial bias is important to ensure the simulation output reflects the long-run, steady-state behavior of the system. This is typically done by implementing a \"warm-up period\" where the simulation runs for a certain amount of time to reach equilibrium, and the statistical data collected during this initial period is discarded. Only data collected after the warm-up period is used for output analysis.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-19",
+          "question": "Workers come to a supply store at the rate of one every 6 (±) 2 minutes. Their requisitions are processed by one of the two clerks who take 8 (±) 2 minutes for each requisition. The requisitions are then passed to a single storekeeper who fills them one at a time, taking 6 (±) 3 minutes for each. Draw GPSS Block diagram to simulate the above problem for 100 requisitions.",
+          "answer": "GPSS Block Diagram Description:\n1. `GENERATE 6,2` - Creates worker transactions every 4 to 8 minutes.\n2. `QUEUE CLERKQ` - Worker enters the queue for clerks.\n3. `ENTER CLERKS` - Worker attempts to capture one of the two clerks (CLERKS is a Storage defined with capacity 2: `CLERKS STORAGE 2`).\n4. `DEPART CLERKQ` - Worker leaves the clerk queue.\n5. `ADVANCE 8,2` - Processing takes 6 to 10 minutes.\n6. `LEAVE CLERKS` - Worker frees the clerk storage.\n7. `QUEUE STOREQ` - Worker enters queue for the storekeeper.\n8. `SEIZE STOREKEEPER` - Worker captures the single storekeeper (a Facility).\n9. `DEPART STOREQ` - Worker leaves the storekeeper queue.\n10. `ADVANCE 6,3` - Filling takes 3 to 9 minutes.\n11. `RELEASE STOREKEEPER` - Worker frees the storekeeper.\n12. `TERMINATE 1` - Finished requisition leaves the system, decrementing counter by 1.\n13. `START 100` - Run simulation until exactly 100 requisitions terminate.\n(The visual diagram consists of these blocks connected sequentially).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sim-06",
+          "question": "Write short notes on (any two): a. Digital analog simulator",
+          "answer": "Digital Analog Simulator: A software program running on a digital computer that is designed to mimic the continuous processing style and programming interface of an analog computer. It allows users to write block-oriented models (representing integrators, multipliers, adders) using continuous differential equations. Examples include early languages like CSMP (Continuous System Modeling Program). It combines the continuous modeling logic of analog systems with the high precision and memory of digital computers.",
+          "marks": 2
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sim-19",
+          "question": "Write short notes on (any two): b. Simulation tools",
+          "answer": "Simulation Tools: Software packages and languages specifically designed to facilitate the rapid development and execution of simulation models. They provide built-in functions for random number generation, queue management, statistical collection, and time-advancement. They range from general-purpose simulation languages (like GPSS, SIMAN) to high-level visual simulators (like Arena, AnyLogic, Promodel) which use drag-and-drop graphical interfaces, making simulation accessible to non-programmers.",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "year": "Model",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-10",
+          "question": "What is queuing system? Explain the elements of queuing system with example.",
+          "answer": "Queuing System: A system designed to model waiting lines. It involves entities (customers) arriving for service, waiting if the service is busy, receiving service, and then departing.\nElements of a Queuing System:\n1. Calling Population: The source of arrivals. Can be finite (e.g., 5 machines to repair) or infinite (e.g., internet users accessing a server).\n2. Arrival Process: How customers arrive, modeled by inter-arrival times (e.g., Poisson arrivals).\n3. Queue (Waiting Line): Where customers wait before service. Defined by its capacity (finite/infinite) and discipline (e.g., FCFS, Priority).\n4. Service Mechanism: Includes the service time distribution (e.g., Exponential) and the number of parallel servers (single or multiple).\n5. System Exit: How customers leave after service.\nExample: A supermarket checkout. The calling population is shoppers in the store. The arrival process is shoppers reaching the registers. The queue is the line of carts. The service mechanism is the cashier scanning items (service time) and there may be multiple registers (multiple servers).",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-15",
+          "question": "What are the properties of random number? The sequence of numbers 0.54, 0.73, 0.98, 0.11 and 0.68 has been generated. Use the Kolmogorov Smirnov test with level of significance (a) 0.05 to determine if the hypothesis that the numbers are uniformly distributed on the interval 0 to 1 can be rejected. (Note that the value of D for α=0.05 and N=5 is 0.565).",
+          "answer": "Properties of Random Numbers: \n1. Uniformity: Values are evenly distributed in the interval [0,1].\n2. Independence: No correlation between successive values.\n\nK-S Test Calculation (N=5):\n1. Sort numbers (R_i): 0.11, 0.54, 0.68, 0.73, 0.98.\n2. Calculate i/N, (i-1)/N, D+, and D- for i=1 to 5.\ni=1: R1=0.11, i/N=0.2, (i-1)/N=0. D+ = 0.2 - 0.11 = 0.09. D- = 0.11 - 0 = 0.11.\ni=2: R2=0.54, i/N=0.4, (i-1)/N=0.2. D+ = 0.4 - 0.54 = -0.14. D- = 0.54 - 0.2 = 0.34.\ni=3: R3=0.68, i/N=0.6, (i-1)/N=0.4. D+ = 0.6 - 0.68 = -0.08. D- = 0.68 - 0.4 = 0.28.\ni=4: R4=0.73, i/N=0.8, (i-1)/N=0.6. D+ = 0.8 - 0.73 = 0.07. D- = 0.73 - 0.6 = 0.13.\ni=5: R5=0.98, i/N=1.0, (i-1)/N=0.8. D+ = 1.0 - 0.98 = 0.02. D- = 0.98 - 0.8 = 0.18.\n3. Find max: Max D+ = 0.09. Max D- = 0.34.\n4. Calculate D = max(D+, D-) = 0.34.\n5. Compare with critical value D = 0.565. Since 0.34 < 0.565, we fail to reject the null hypothesis. The sequence is uniformly distributed.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-05",
+          "question": "What is a system modeling? What are the steps involved in system modeling.",
+          "answer": "System Modeling: The process of developing a logical, mathematical, or physical representation (surrogate) of a real-world system. This model is used to understand system behavior, analyze performance, and test alternative scenarios without disrupting the actual system.\nSteps involved:\n1. Problem Formulation: Defining the problem and scope.\n2. Setting Objectives: Determining goals and performance metrics.\n3. Model Conceptualization: Abstracting the real system into flowchart/mathematical logic.\n4. Data Collection: Gathering data for inputs and parameters.\n5. Model Translation: Coding the model into simulation software.\n6. Verification: Debugging the computer model.\n7. Validation: Ensuring the model accurately reflects real-world behavior.\n8. Experimental Design: Planning the simulation runs.\n9. Execution & Output Analysis: Running the simulation and analyzing statistical results.\n10. Implementation: Applying the findings to the real system.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-04",
+          "question": "What are the application areas of simulation?",
+          "answer": "Application Areas of Simulation:\n1. Manufacturing Systems: Optimizing assembly lines, inventory management, and facility layout.\n2. Healthcare: Modeling patient flow in emergency rooms, scheduling operating rooms, and bed capacity planning.\n3. Transportation and Logistics: Traffic flow analysis, supply chain optimization, and airport runway scheduling.\n4. Computer and Communication Networks: Designing network topologies, analyzing packet routing, and evaluating protocol performance.\n5. Military and Defense: Flight simulators for training, wargaming, and logistics planning.\n6. Finance: Risk analysis using Monte Carlo, pricing derivatives, and portfolio management.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-06",
+          "question": "Differentiate between analog and digital computer.",
+          "answer": "Analog Computer: Uses continuous physical quantities (voltage, current, pressure) to represent data and solve problems. It is highly suited for solving complex differential equations in real-time but has limited accuracy due to physical constraints and environmental noise. Programming requires physically rewiring components.\nDigital Computer: Uses discrete binary digits (0s and 1s) to represent data. It solves problems sequentially using logic gates. It offers extremely high accuracy, vast memory storage, and flexibility, as programming is done via software rather than hardware modifications. It is slower at parallel equation solving compared to analog but dominates modern computing.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-12",
+          "question": "Explain Markov chain with suitable example.",
+          "answer": "Markov Chain: A stochastic process consisting of a finite number of states, where the transition from one state to the next depends entirely on the current state, completely independent of the past history (memoryless property).\nExample: Predicting stock market trends. The states are Bull market (B), Bear market (R), and Stagnant (S). \nIf today is Bull, tomorrow is 60% Bull, 20% Bear, 20% Stagnant.\nIf today is Bear, tomorrow is 10% Bull, 70% Bear, 20% Stagnant. \nIf today is Stagnant, tomorrow is 30% Bull, 30% Bear, 40% Stagnant.\nThe state of tomorrow's market is calculated using only today's state and these transition probabilities.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-19",
+          "question": "Why is GPSS called transaction flow oriented language?",
+          "answer": "GPSS (General Purpose Simulation System) is called a transaction-flow oriented language because its entire worldview centers around \"transactions\" (dynamic entities) flowing through a network of \"blocks\" (static entities/instructions).\nIn GPSS, the modeler describes the path an entity takes through the system. Transactions are generated, move into queues, seize facilities, advance time (delay for service), release resources, and eventually terminate. The execution of the simulation simply tracks these transactions as they flow from block to block, triggering state changes. This is contrasted with event-oriented languages where the modeler must explicitly write the logic for every discrete event and schedule them on a calendar.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why confidence interval is needed in the analysis of simulation output? How can we establish a confidence interval?",
+          "answer": "Why Needed: Simulation outputs are random variables because they use pseudo-random numbers as inputs. A single run gives a point estimate (e.g., average wait time = 5 mins) but provides no indication of the error or variance. A confidence interval is needed to provide a bounded range, expressing the statistical confidence (e.g., 95%) that the true population mean lies within that range.\nHow to Establish: Run the simulation $n$ independent times (replications) to get $n$ sample outputs ($Y_1...Y_n$). Calculate the sample mean ($\\bar{Y}$) and sample standard deviation ($S$). Use the Student's t-distribution to find the critical value $t_{\\alpha/2, n-1}$. Construct the interval: $\\bar{Y} \\pm t_{\\alpha/2, n-1} (S / \\sqrt{n})$.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-08",
+          "question": "Explain Monte Carlo simulation.",
+          "answer": "Monte Carlo simulation is a mathematical technique that uses repeated random sampling to estimate numerical outcomes for static problems involving uncertainty or risk. It does not model time.\nIt is widely used in physics, finance, and engineering. The process involves defining the domain of possible inputs, generating random inputs based on probability distributions, performing deterministic calculations on these inputs, and aggregating the results to build a probability distribution of the possible outcomes. It is famously used for evaluating complex integrals, project cost estimation, and determining the likelihood of different portfolio returns.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-16",
+          "question": "What is three step approach for validation of simulation models?",
+          "answer": "The Naylor and Finger three-step approach is a widely accepted methodology for validating simulation models:\n1. Build a model with high face validity: Ensure the model's logic, structure, and assumptions appear reasonable to subject matter experts and system users.\n2. Validate model assumptions: Test the theoretical and empirical assumptions underlying the model. This involves statistically fitting input data to probability distributions and checking the structural relationships in the model.\n3. Compare model input-output transformations to the real system: Run the simulation using historical input data from the real system and statistically compare the simulation's output data to the historical output data of the real system (e.g., using t-tests or Turing tests).",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why confidence interval is needed in the analysis of simulation output? How can we establish a confidence interval?",
+          "answer": "[UNCERTAIN: This question is a duplicate of Q8 in the original paper text. The answer is identical to Q8].\nConfidence intervals are needed because simulation outputs are stochastic. A point estimate lacks error measurement. A confidence interval provides a range indicating precision. It is established by running independent replications, calculating sample mean and standard deviation, and using the t-distribution to define the bounds: $\\bar{Y} \\pm t_{\\alpha/2, n-1} (S / \\sqrt{n})$.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sim-07",
+          "question": "Write short notes on: Non-Stationary Poisson process",
+          "answer": "Non-Stationary Poisson Process (NSPP): An arrival process where the arrival rate ($\\lambda$) varies over time, $\\lambda(t)$. Real-world systems like call centers or rush-hour traffic have peak and off-peak periods, making a constant rate unrealistic. NSPP models this time-dependent arrival behavior accurately, usually handled in simulations via thinning (acceptance-rejection method).",
+          "marks": 2
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sim-09",
+          "question": "Write short notes on: Feedback system",
+          "answer": "Feedback System: A system where the output is fed back into the input to influence future behavior. Negative feedback systems use this to maintain stability and reduce discrepancies from a target (like a thermostat). Positive feedback systems amplify changes, leading to exponential growth or collapse. Feedback is essential for continuous system modeling.",
+          "marks": 2
+        }
+      ]
+    }
+  ],
+  "mockPapers": [
+    {
+      "id": "mock-sim-1",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sim-05",
+          "question": "Explain the phases of a simulation study in detail. Why is the problem formulation phase critical?",
+          "answer": "Phases of Simulation Study: (1) Problem Formulation (define issue). (2) Setting Objectives & Plan (what to answer). (3) Model Conceptualization (logical structure). (4) Data Collection (input parameters). (5) Model Translation (coding). (6) Verification (debugging code). (7) Validation (checking accuracy vs real world). (8) Experimental Design (scenarios). (9) Execution & Analysis (running and statistics). (10) Documentation & Implementation.\nProblem formulation is critical because solving the wrong problem flawlessly is useless. If boundaries and objectives are not correctly set initially, the entire model will be misdirected, wasting time and resources.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sim-15",
+          "question": "A sequence of 5 random numbers generated are 0.44, 0.81, 0.14, 0.05, 0.93. Perform K-S test to check for uniformity at alpha=0.05. (Critical value D=0.565).",
+          "answer": "Sort numbers (R_i): 0.05, 0.14, 0.44, 0.81, 0.93. N=5.\ni=1: R1=0.05. i/N=0.2, (i-1)/N=0. D+ = 0.2-0.05=0.15. D- = 0.05-0=0.05.\ni=2: R2=0.14. i/N=0.4, (i-1)/N=0.2. D+ = 0.4-0.14=0.26. D- = 0.14-0.2=-0.06.\ni=3: R3=0.44. i/N=0.6, (i-1)/N=0.4. D+ = 0.6-0.44=0.16. D- = 0.44-0.4=0.04.\ni=4: R4=0.81. i/N=0.8, (i-1)/N=0.6. D+ = 0.8-0.81=-0.01. D- = 0.81-0.6=0.21.\ni=5: R5=0.93. i/N=1.0, (i-1)/N=0.8. D+ = 1.0-0.93=0.07. D- = 0.93-0.8=0.13.\nMax D+ = 0.26. Max D- = 0.21. \nD = max(0.26, 0.21) = 0.26. \nCompare with D_critical = 0.565. Since 0.26 < 0.565, we fail to reject the hypothesis. The numbers are uniform.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sim-19",
+          "question": "Cars arrive at a car wash every 10±5 minutes. The wash facility takes 8±2 minutes to clean a car. Draw a GPSS block diagram and write the code for simulating 50 cars. Also explain what happens if arrival rate exceeds service rate.",
+          "answer": "GPSS Code:\n1. `GENERATE 10,5` (Cars arrive 5 to 15 mins)\n2. `QUEUE WASHQ` (Enter queue)\n3. `SEIZE WASHER` (Capture facility)\n4. `DEPART WASHQ` (Leave queue)\n5. `ADVANCE 8,2` (Wash takes 6 to 10 mins)\n6. `RELEASE WASHER` (Free facility)\n7. `TERMINATE 1` (Car leaves, counter -1)\n8. `START 50` (Run for 50 cars)\nBlock diagram: Sequential chain of GENERATE, QUEUE, SEIZE, DEPART, ADVANCE, RELEASE, TERMINATE blocks.\nIf arrival rate exceeds service rate (e.g., arrive every 5 mins, serve every 8 mins), the traffic intensity $\\rho > 1$. The system becomes unstable, and the queue (WASHQ) will grow infinitely long over time.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sim-03",
+          "question": "Differentiate between static physical and dynamic physical models.",
+          "answer": "Static Physical Model: A physical representation at a specific point in time. It does not change state. Used to study spatial relationships, geometry, and structure (e.g., an architectural model of a house). \nDynamic Physical Model: A physical representation that evolves over time or reacts to physical forces. Used to study behavior under changing conditions (e.g., a scale airplane in a wind tunnel reacting to airflow).",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sim-06",
+          "question": "What is an analog computer? Why is its accuracy generally lower than a digital computer?",
+          "answer": "Analog Computer: Uses continuous physical quantities (voltage, resistance) to model and solve continuous equations. \nAccuracy is lower because continuous electrical components are subject to environmental noise, temperature variations, component wear, and physical measurement limits. Digital computers use discrete binary logic (0s and 1s), where accuracy is determined mathematically by the number of bits used, immune to physical signal degradation.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sim-10",
+          "question": "Explain Kendall's notation M/M/c/N/K/D.",
+          "answer": "Kendall's Notation classifies queuing systems:\nM = Markovian (Poisson) Arrival process (Exponential inter-arrival times).\nM = Markovian (Exponential) Service time distribution.\nc = Number of parallel servers.\nN = Maximum system capacity (queue + service). Defaults to infinite.\nK = Size of calling population. Defaults to infinite.\nD = Queue discipline (e.g., FCFS, LCFS). Defaults to FCFS.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sim-12",
+          "question": "Define Markov Chain and the memoryless property.",
+          "answer": "Markov Chain: A mathematical system that undergoes transitions from one state to another on a state space. \nMemoryless Property: The fundamental characteristic where the probability of moving to the next state depends only on the current state, and completely ignores the sequence of events that preceded it. Future predictions rely solely on the present state.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sim-16",
+          "question": "Differentiate between verification and validation.",
+          "answer": "Verification: \"Building the model right.\" Ensuring the computer code correctly executes the conceptual model's logic without bugs or syntax errors.\nValidation: \"Building the right model.\" Ensuring the conceptual model is an accurate representation of the real-world system and correctly addresses the study's objectives. Validated by comparing model output to historical system data.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sim-17",
+          "question": "Why are estimation methods and confidence intervals used in simulation output?",
+          "answer": "Simulations use pseudo-random numbers, making their outputs random variables. A single run provides a point estimate which has unknown variance. Confidence intervals are used to bound this estimate, providing a range of values that likely contains the true system parameter with a specified probability (e.g., 95%). This quantifies the uncertainty and allows decision-makers to assess the reliability of the simulation results.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sim-08",
+          "question": "Explain the Monte Carlo method with an application example.",
+          "answer": "Monte Carlo Method: A technique using repeated random sampling to solve static numerical problems that involve uncertainty or are mathematically intractable.\nExample: Financial risk analysis. To estimate the future value of a stock portfolio, a Monte Carlo simulation generates thousands of random market scenarios based on historical volatility. The results produce a probability distribution of possible portfolio values, rather than a single deterministic prediction.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sim-14",
+          "question": "Generate 4 random numbers using Multiplicative Congruential method: X0=3, a=5, m=8.",
+          "answer": "Formula: $X_n = (a \\cdot X_{n-1}) \\mod m$. Seed X0=3, a=5, m=8.\n1. X1 = (5 * 3) mod 8 = 15 mod 8 = 7.\n2. X2 = (5 * 7) mod 8 = 35 mod 8 = 3.\n3. X3 = (5 * 3) mod 8 = 15 mod 8 = 7.\n4. X4 = (5 * 7) mod 8 = 35 mod 8 = 3.\nThe sequence oscillates: 7, 3, 7, 3. The random numbers (R=X/m) are 0.875, 0.375, 0.875, 0.375.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "sim-18",
+          "question": "What is initial bias in simulation and how is it eliminated?",
+          "answer": "Initial bias occurs when a simulation begins in an \"empty and idle\" state that does not reflect steady-state operations (e.g., zero queue, idle servers). This skews early output data.\nElimination: It is eliminated by implementing a \"warm-up period.\" The simulation is run for a specific duration until it reaches equilibrium, and all statistical data collected during this transient warmup phase is deleted. Data collection only begins after steady state is achieved.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "patternAnalysis": {
+    "guaranteed": [
+      "sim-15",
+      "sim-16",
+      "sim-19",
+      "sim-10",
+      "sim-03",
+      "sim-05",
+      "sim-17"
+    ],
+    "likely": [
+      "sim-06",
+      "sim-07",
+      "sim-08",
+      "sim-12",
+      "sim-13",
+      "sim-14"
+    ],
+    "wildcards": [
+      "sim-02",
+      "sim-04",
+      "sim-09",
+      "sim-18"
+    ],
+    "priorityOrder": [
+      "sim-15",
+      "sim-19",
+      "sim-16",
+      "sim-10",
+      "sim-17",
+      "sim-03",
+      "sim-05",
+      "sim-14",
+      "sim-06",
+      "sim-07",
+      "sim-08",
+      "sim-12",
+      "sim-13",
+      "sim-09",
+      "sim-18",
+      "sim-02",
+      "sim-04"
+    ],
+    "notes": "Section A (10-mark, attempt 2 of 3) consistently features a GPSS coding/block diagram problem (sim-19), a random number statistical test (K-S test or Auto-correlation/Poker) (sim-15), and theoretical questions on modeling or queuing. Section B (5-mark, attempt 8 of 9) covers a wide spread: Verification/Validation/Calibration (sim-16) is guaranteed. Kendall's notation and queuing characteristics (sim-10) appear every year. Markov Chains (sim-12), Monte Carlo (sim-08), and Random Number Generation via LCM (sim-14) are highly likely. Output analysis (Estimation/Confidence Intervals) (sim-17) is tested heavily in both sections. Students must master GPSS basics, K-S test math, and the definitions of V&V."
+  }
+}

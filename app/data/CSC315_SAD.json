@@ -1,0 +1,1368 @@
+{
+  "subject": "System Analysis and Design",
+  "code": "CSC315",
+  "topics": [
+    {
+      "id": "sad-01",
+      "name": "Systems Development Environment and SDLC",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-02",
+      "name": "Waterfall SDLC and Problems",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-03",
+      "name": "Prototyping Model",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-04",
+      "name": "Agile Development",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-05",
+      "name": "CASE Tools",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-06",
+      "name": "Project Management and Skills",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-07",
+      "name": "Project Planning and Scheduling (PERT/Network)",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            12
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-08",
+      "name": "Feasibility Study (Economic/Schedule/Technical)",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-09",
+      "name": "Project Initiation and Planning",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-10",
+      "name": "Corporate Strategic Planning",
+      "unit": "Unit 2",
+      "priority": "low",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            5
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-11",
+      "name": "System Requirements Determination",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            7
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-12",
+      "name": "JAD and Contemporary Methods",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-13",
+      "name": "Data Flow Diagrams (DFD)",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-14",
+      "name": "Decision Tables and Trees",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-15",
+      "name": "Conceptual Data Modeling and ER Diagrams",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-16",
+      "name": "Normalization (1NF, 2NF, 3NF)",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            8
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-17",
+      "name": "Logical vs Physical Database Design",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            9
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            9
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-18",
+      "name": "Forms and Reports Design",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-19",
+      "name": "Interface and Dialogue Design",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-20",
+      "name": "System Implementation",
+      "unit": "Unit 5",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2078",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-21",
+      "name": "System Maintenance",
+      "unit": "Unit 5",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-22",
+      "name": "Testing: Black Box and White Box",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            1
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            10
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-23",
+      "name": "UML: Use Case Diagram",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-24",
+      "name": "UML: Class Diagram",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [
+            3
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-25",
+      "name": "Structural and Behavioral Diagrams",
+      "unit": "Unit 6",
+      "priority": "low",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-26",
+      "name": "Disruptive Technologies",
+      "unit": "Unit 3",
+      "priority": "low",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-27",
+      "name": "Payback Period and NPV Calculations",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [
+            11
+          ]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [
+            2
+          ]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad-28",
+      "name": "Object-Oriented vs Structured Development",
+      "unit": "Unit 6",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "year": "2081",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-03",
+          "question": "Explain prototyping model with a neat diagram. List out its advantages and disadvantages.",
+          "answer": "Prototyping Model: Build a preliminary version (prototype) of the system quickly to demonstrate concepts and gather user feedback. Types: Throwaway (discarded after feedback) and Evolutionary (refined into final system). Phases: Requirements gathering → Quick design → Build prototype → User evaluation → Refinement → Final system development. Advantages: (1) Better user involvement and feedback, (2) Reduced risk of requirement misunderstanding, (3) Early detection of design flaws, (4) Faster delivery of working model. Disadvantages: (1) Users may confuse prototype with final system, (2) Insufficient analysis may lead to poor design, (3) Prototype may become the final system without proper quality control, (4) Scope creep due to continuous changes.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-14",
+          "question": "Draw a reduced decision table for the following scenario: An applicant has to fill up the form to participate in a music competition. The applicant's age should be greater than 18 years and nationality has to be Nepalese for being selected for the competition. The applicant will be provided a registration number after paying Rs.5000 as an entry fee. The applicant has to play an instrument for three minutes else will be disqualified. The experts will provide points on the basis of some criteria. The applicant having the highest point will be declared winner and will get a cash prize of Rs.1,00,000 and all the qualified applicants will get a gift hamper.",
+          "answer": "Conditions: Age>18 (Y/N), Nationality=Nepalese (Y/N), Paid Rs.5000 (Y/N), Played 3 min (Y/N). Actions: Reject, Provide Reg No, Disqualify, Award Points, Winner Prize, Gift Hamper. Reduced Decision Table (consolidated rules): Rule 1: Age=N or Nationality≠Nepal → Reject. Rule 2: Age=Y, Nepal=Y, Paid=N → Reject. Rule 3: Age=Y, Nepal=Y, Paid=Y, Play=N → Disqualify. Rule 4: Age=Y, Nepal=Y, Paid=Y, Play=Y, Not Highest → Reg No + Gift Hamper. Rule 5: Age=Y, Nepal=Y, Paid=Y, Play=Y, Highest Points → Reg No + Winner Prize + Gift Hamper. The table reduces from 16 to 5 rules by combining mutually exclusive conditions.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-22",
+          "question": "Differentiate between black box and white box testing. Explain the testing process.",
+          "answer": "Black Box Testing: Tests functionality without knowing internal code structure. Focuses on inputs and expected outputs. Techniques: equivalence partitioning, boundary value analysis, decision table testing. White Box Testing: Tests internal logic and code structure. Requires knowledge of code. Techniques: statement coverage, branch coverage, path coverage, condition coverage. Testing Process: (1) Test Planning — define scope and strategy. (2) Test Design — create test cases. (3) Test Execution — run tests and log results. (4) Defect Tracking — report and fix bugs. (5) Test Reporting — summarize results and coverage. (6) Test Closure — evaluate exit criteria and sign off.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-06",
+          "question": "Briefly explain different phases of project management.",
+          "answer": "Project Management Phases: (1) Initiation — define project scope, objectives, stakeholders; create project charter. (2) Planning — develop detailed plan: schedule (Gantt charts, PERT), budget, resource allocation, risk management. (3) Execution — coordinate people and resources, manage teams, implement project plan. (4) Monitoring/Controlling — track progress against plan, manage changes, ensure quality, report status. (5) Closure — finalize all activities, hand over deliverables, document lessons learned, release resources. Each phase requires specific skills: leadership, communication, negotiation, problem-solving, and technical knowledge.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-05",
+          "question": "How can CASE tool help in developing product? Explain with respect to different phases of SDLC.",
+          "answer": "CASE (Computer-Aided Software Engineering) Tools automate and support SDLC activities. Requirements: Tools for requirements gathering, prototyping, and modeling (ER diagrams, DFDs). Analysis: Data dictionary, process modeling, simulation tools. Design: Screen generators, code generators, database design tools. Implementation: Code editors, compilers, debuggers, version control. Testing: Test case generators, coverage analyzers, defect tracking. Maintenance: Reverse engineering tools, documentation generators, impact analysis. Benefits: Improved productivity, better documentation, reduced errors, faster development, easier maintenance, enhanced communication among team members.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-23",
+          "question": "Draw use case diagram and class diagram for the following scenario: The admin and user has to log in to the patient record system. The user can see details of its records but will not be able to make changes. The changes will be controlled by admin. The admin has authority to generate reports and send it to doctors and users.",
+          "answer": "Use Case Diagram: Actors: User, Admin, Doctor. Use Cases: Login (shared by User and Admin), View Records (User), Modify Records (Admin), Generate Reports (Admin), Send Reports (Admin → Doctor, Admin → User). Relationships: Admin extends User (admin inherits login). Include: Login included in all operations. Class Diagram: Classes: PatientRecordSystem, User (attributes: userID, password; methods: login(), viewRecords()), Admin (extends User; methods: modifyRecords(), generateReports(), sendReport()), Doctor (attributes: doctorID; methods: receiveReport()), Report (attributes: reportID, content, date; methods: generate(), send()). Associations: Admin creates Report, Admin sends Report to Doctor and User.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-19",
+          "question": "How do you think effective interfaces can be designed? Explain.",
+          "answer": "Effective Interface Design Principles: (1) Consistency — uniform layout, colors, fonts, and navigation across all screens. (2) Simplicity — minimize cognitive load; avoid clutter. (3) Feedback — provide immediate response to user actions. (4) Forgiveness — allow undo, confirm destructive actions. (5) Accessibility — support diverse users (screen readers, keyboard navigation). (6) Affordance — controls should suggest their function. (7) Visibility of system status — keep users informed. (8) Match between system and real world — use familiar metaphors. (9) User control — allow users to initiate and control actions. (10) Aesthetic and minimalist design — every element should serve a purpose.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-16",
+          "question": "List the advantages of Normalization. Explain 2NF with an example.",
+          "answer": "Advantages of Normalization: (1) Eliminates data redundancy and inconsistency. (2) Prevents update, insert, and delete anomalies. (3) Improves data integrity. (4) Optimizes storage space. (5) Makes database maintenance easier. 2NF (Second Normal Form): A relation is in 2NF if it is in 1NF and every non-key attribute is fully functionally dependent on the primary key (no partial dependency). Example: StudentCourse(StudentID, CourseID, StudentName, CourseName, Grade) — PK=(StudentID, CourseID). StudentName depends only on StudentID (partial dependency). CourseName depends only on CourseID (partial dependency). Decompose to: Student(StudentID, StudentName), Course(CourseID, CourseName), Enrollment(StudentID, CourseID, Grade). All relations now in 2NF.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-26",
+          "question": "Explain how disruptive technologies can be used in determining requirement.",
+          "answer": "Disruptive Technologies: Technologies that displace established ones, creating new markets and value networks. Examples: Cloud computing, AI/ML, IoT, Blockchain, Mobile computing. In Requirements Determination: (1) Stakeholders may not know what's possible — introducing disruptive tech reveals new requirements. (2) Prototyping with new tech helps users envision future capabilities. (3) Competitive analysis — what disruptive tech are competitors using? (4) Brainstorming sessions focused on emerging tech. (5) Proof-of-concept demonstrations to elicit hidden needs. (6) Trend analysis and technology forecasting to anticipate future requirements. Disruptive tech shifts the conversation from 'what do you want now' to 'what could you do with this capability'.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-17",
+          "question": "Difference between process modeling and data modeling. How do you think data modeling plays an important role?",
+          "answer": "Process Modeling: Represents how data moves and transforms through the system. Focuses on activities, processes, and data flows. Tools: DFDs, flowcharts, BPMN. Data Modeling: Represents the structure of data and relationships between data entities. Focuses on what data is stored and how it relates. Tools: ER diagrams, class diagrams, relational schemas. Importance of Data Modeling: (1) Foundation for database design — ensures data integrity and efficiency. (2) Communication tool — helps stakeholders understand data requirements. (3) Reduces redundancy through normalization. (4) Supports system integration by defining data interfaces. (5) Enables scalability and performance optimization. (6) Critical for data-driven decision making and reporting.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sad-27",
+          "question": "An initial investment of Rs.1,00,000 is required to start a company. The cash flow-in is Rs.40,000 per year. Assuming interest rate as 10%, calculate the discounted payback period. (use Net Present Value)",
+          "answer": "Discounted Payback Period calculation at 10% discount rate: Year 0: -100,000. Year 1: 40,000 / (1.10)¹ = 36,364; cumulative = -63,636. Year 2: 40,000 / (1.10)² = 33,058; cumulative = -30,578. Year 3: 40,000 / (1.10)³ = 30,053; cumulative = -525. Year 4: 40,000 / (1.10)⁴ = 27,321; cumulative = +26,796. Payback occurs in year 4. Fraction = 525 / 27,321 = 0.019. Discounted Payback Period = 3.02 years ≈ 3 years and 1 week. NPV at year 4 = 26,796 (positive, so investment is viable).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "sad-07",
+          "question": "Write short notes on: PERT",
+          "answer": "PERT (Program Evaluation and Review Technique): Network-based project management method for planning and scheduling. Uses three time estimates for each activity: Optimistic (O), Most Likely (M), Pessimistic (P). Expected time tₑ = (O + 4M + P) / 6. Variance σ² = ((P - O) / 6)². Steps: (1) Identify activities and dependencies. (2) Draw network diagram (AOA or AON). (3) Calculate expected times and variances. (4) Determine critical path — longest path with zero slack. (5) Calculate probability of completing by deadline using normal distribution. PERT handles uncertainty better than CPM and is used for R&D projects with uncertain durations.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2080",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-01",
+          "question": "What activities are at the heart of systems development process? List and explain some of the problems with the traditional waterfall SDLC. Explain Agile development in detail.",
+          "answer": "Heart of Systems Development: Requirements gathering, analysis, design, implementation, testing, deployment, and maintenance. Waterfall Problems: (1) Inflexible — no iteration, hard to go back. (2) Late discovery of errors — testing at end. (3) Poor user involvement — users see product only at end. (4) Requirements must be fully known upfront — unrealistic. (5) Long delivery time — no working software until end. (6) High risk and uncertainty. Agile Development: Iterative, incremental approach emphasizing: (1) Individuals and interactions over processes/tools. (2) Working software over comprehensive documentation. (3) Customer collaboration over contract negotiation. (4) Responding to change over following a plan. Methods: Scrum (sprints, daily standups, retrospectives), Kanban (visual workflow, WIP limits), XP (pair programming, TDD, continuous integration). Agile delivers working software frequently (weeks rather than months) and welcomes changing requirements.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-13",
+          "question": "What do you mean by balancing DFDs? Draw context diagram and data flow diagrams for an online movie rental system that allows its users to watch movies.",
+          "answer": "Balancing DFDs: Ensuring that inputs and outputs at one level match those at the next level. A process at level n must have the same data flows entering and leaving as its decomposed subprocesses at level n+1. No data should appear or disappear unexpectedly. Context Diagram (Level 0): One process 'Online Movie Rental System'. External entities: User, Payment Gateway, Content Provider. Data flows: User → System (Login, Search, Rent Request, Watch Request); System → User (Movie List, Confirmation, Streaming Content); System ↔ Payment Gateway (Payment Details, Payment Confirmation); System ↔ Content Provider (Movie Catalog, License Agreement). Level 1 DFD: Decompose into: (1) User Authentication, (2) Movie Search/Browse, (3) Rental Processing, (4) Payment Handling, (5) Streaming Service, (6) User Account Management. Show data stores: User DB, Movie Catalog DB, Rental History DB, Payment Transaction DB.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-17",
+          "question": "Explain physical database design. Why is physical database design important? Differentiate logical database design with physical database design.",
+          "answer": "Physical Database Design: Defines how data is actually stored on storage devices. Decisions: file organization (heap, sequential, indexed, hashed), indexing strategies (B-tree, bitmap), partitioning, denormalization for performance, RAID configuration, storage allocation, compression. Importance: (1) Directly impacts query performance and response time. (2) Determines storage efficiency and scalability. (3) Affects backup, recovery, and availability. (4) Influences concurrency control and transaction throughput. Logical vs Physical: Logical — WHAT data is stored, relationships, constraints, normalization (ER diagrams, relational schemas). Physical — HOW data is stored, access paths, storage structures, performance tuning. Logical is DBMS-independent; physical is DBMS-specific.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-06",
+          "question": "Describe different activities performed by the project manager during project management.",
+          "answer": "Project Manager Activities: (1) Planning — define scope, create WBS, estimate resources/time/cost, develop schedule (Gantt, PERT), risk management plan. (2) Organizing — build team, assign roles, establish communication channels, procure resources. (3) Leading — motivate team, resolve conflicts, communicate with stakeholders, make decisions. (4) Controlling — monitor progress against baseline, manage changes, control quality, manage risks, report status. (5) Closing — finalize deliverables, conduct lessons learned, release resources, archive documentation. Key skills: Leadership, communication, negotiation, problem-solving, time management, technical knowledge, and emotional intelligence.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-10",
+          "question": "Describe the steps involved in corporate strategic planning.",
+          "answer": "Corporate Strategic Planning Steps: (1) Define Mission and Vision — organization's purpose and long-term aspirations. (2) Environmental Scanning — analyze external opportunities/threats (PEST: Political, Economic, Social, Technological) and internal strengths/weaknesses (SWOT analysis). (3) Set Strategic Objectives — specific, measurable, achievable goals aligned with mission. (4) Formulate Strategies — corporate (what businesses to be in), business (how to compete), functional (how departments support business strategy). (5) Strategy Implementation — allocate resources, design organizational structure, establish policies. (6) Evaluation and Control — monitor performance using KPIs, balanced scorecard, feedback loops. Adjust strategies based on results. IS planning aligns IT investments with corporate strategy.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-08",
+          "question": "Define feasibility study. Explain economic and schedule feasibility in detail.",
+          "answer": "Feasibility Study: Assessment of whether a proposed system is viable and worth pursuing. Types: Economic, Technical, Operational, Schedule, Legal. Economic Feasibility: Cost-benefit analysis. Tangible costs (hardware, software, personnel, training) vs intangible costs (disruption, learning curve). Benefits: tangible (reduced labor, increased sales) and intangible (improved decision making, customer satisfaction). Methods: NPV, ROI, payback period, break-even analysis. Schedule Feasibility: Can the project be completed within the required timeframe? Tools: Gantt charts, PERT/CPM, critical path analysis. Assess resource availability, dependencies, and constraints. If deadline is unrealistic, propose alternatives: phased delivery, additional resources, or scope reduction.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-11",
+          "question": "List traditional methods for determining system requirements. Explain advantages and pitfalls of observing workers to determine system requirements.",
+          "answer": "Traditional Methods: (1) Interviews — structured, unstructured, group. (2) Questionnaires/Surveys — for large, dispersed user groups. (3) Document Analysis — review existing forms, reports, procedures. (4) Observation — watch users perform tasks. (5) Joint Application Design (JAD) — structured group sessions. Observing Workers — Advantages: (1) See actual work practices vs stated practices. (2) Discover informal procedures and workarounds. (3) Understand physical environment and constraints. (4) Identify bottlenecks and inefficiencies. Pitfalls: (1) Hawthorne effect — workers change behavior when observed. (2) Time-consuming and expensive. (3) Observer bias in interpretation. (4) May miss cognitive processes (decision-making). (5) Workers may feel threatened or resist. (6) Difficult to observe rare or exception cases.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-15",
+          "question": "Draw ER diagram to store data about students, programs, and courses at your university.",
+          "answer": "ER Diagram Entities: Student (studentID PK, name, email, enrollmentDate), Program (programID PK, programName, duration, department), Course (courseID PK, courseName, credits, semester). Relationships: Student enrolls_in Program (Many-to-One: many students in one program). Program offers Course (Many-to-Many: one program has many courses, one course in many programs) → associative entity ProgramCourse(programID, courseID, semesterOffered, year). Student registers_for Course (Many-to-Many) → associative entity Registration(studentID, courseID, grade, registrationDate). Instructor teaches Course (Many-to-Many) → Teaches(instructorID, courseID, year, semester). Attributes: Student has address (composite: street, city, zip), phone (multi-valued). Diagram notation: rectangles for entities, diamonds for relationships, ovals for attributes, double lines for total participation.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-18",
+          "question": "Describe several methods for interacting with the system.",
+          "answer": "Interaction Methods: (1) Command Line Interface (CLI) — text commands, efficient for experts, low resource usage. (2) Menu-Driven Interface — hierarchical menus, easy for novices, limited flexibility. (3) Form-Based Interface — structured data entry, validation, clear layout. (4) Graphical User Interface (GUI) — windows, icons, menus, pointers (WIMP), visual and intuitive. (5) Natural Language Interface — speech/text, AI-powered, conversational. (6) Touch Interface — gestures, direct manipulation, mobile/tablet optimized. (7) Voice User Interface (VUI) — hands-free, accessibility benefit. (8) Virtual/Augmented Reality — immersive 3D interaction. Selection depends on: user expertise, task complexity, device constraints, accessibility needs, and context of use.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-21",
+          "question": "What are the major activities of system maintenance?",
+          "answer": "System Maintenance Activities: (1) Corrective Maintenance — fix bugs, errors, and defects discovered after deployment. (2) Adaptive Maintenance — modify system to work in changed environment (new OS, hardware, regulations). (3) Perfective Maintenance — enhance functionality, performance, or usability based on user feedback. (4) Preventive Maintenance — proactively address potential issues before they cause failures (refactoring, documentation updates). Process: Receive change request → Analyze impact → Design modification → Implement change → Test thoroughly → Deploy → Update documentation. Maintenance consumes 60-80% of total system lifecycle cost. Good design, documentation, and modularity reduce maintenance burden.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sad-24",
+          "question": "Explain class diagram with a suitable example.",
+          "answer": "Class Diagram: UML structural diagram showing classes, their attributes, methods, and relationships. Notation: rectangle divided into name, attributes, operations. Relationships: Association (line), Aggregation (hollow diamond — whole/part, independent), Composition (filled diamond — whole/part, dependent), Inheritance (hollow triangle arrow), Dependency (dashed arrow). Example: University System. Classes: Student (attributes: studentID, name; methods: enroll(), drop()), Course (attributes: courseID, title, credits; methods: addStudent(), removeStudent()), Instructor (attributes: instructorID, name; methods: assignCourse()). Relationships: Student enrolls_in Course (many-to-many association). Instructor teaches Course (one-to-many). Department contains Course (composition — course cannot exist without department).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sad-07",
+          "question": "Write short notes on: a. Network Diagram",
+          "answer": "Network Diagram: Visual representation of project tasks and their dependencies. Types: Activity-on-Arrow (AOA) — arrows represent activities, nodes represent events. Activity-on-Node (AON) — nodes represent activities, arrows show dependencies. Used in CPM/PERT for: (1) Identifying critical path — longest path determining minimum project duration. (2) Calculating slack/float — time an activity can be delayed without affecting project. (3) Resource leveling — optimizing resource allocation. (4) What-if analysis — impact of delays. Key terms: ES (Early Start), EF (Early Finish), LS (Late Start), LF (Late Finish), TF (Total Float = LS-ES or LF-EF).",
+          "marks": 3
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sad-25",
+          "question": "Write short notes on: b. Structural and Behavioral Diagrams",
+          "answer": "Structural Diagrams (UML): Show static structure of system. Types: Class Diagram, Component Diagram, Deployment Diagram, Object Diagram, Package Diagram, Composite Structure Diagram, Profile Diagram. Behavioral Diagrams: Show dynamic behavior and interactions. Types: Use Case Diagram, Activity Diagram, Sequence Diagram, Communication Diagram, State Machine Diagram, Interaction Overview Diagram, Timing Diagram. Structural focuses on 'what exists'; behavioral focuses on 'what happens'. Both are needed for complete system specification. Class and use case are most commonly used in SAD.",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "year": "2079",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-22",
+          "question": "Differentiate between black box and white box testing. Explain different stages of testing.",
+          "answer": "Black Box Testing: Tests functionality without internal code knowledge. Techniques: equivalence partitioning, boundary value analysis, decision tables, state transition testing, use case testing. White Box Testing: Tests internal structure and logic. Techniques: statement coverage, branch coverage, path coverage, condition coverage, MC/DC. Testing Stages: (1) Unit Testing — individual modules by developers. (2) Integration Testing — combined modules, top-down, bottom-up, sandwich. (3) System Testing — complete system against requirements. (4) Acceptance Testing — user validation, alpha (developer site), beta (user site). (5) Regression Testing — ensure changes don't break existing functionality. Each stage has specific objectives, entry/exit criteria, and deliverables.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-13",
+          "question": "Why do we use DFD? Draw context diagram and data flow diagrams of a retail clothing store in a mall that sells different clothes to its customers.",
+          "answer": "Why DFD: (1) Visual representation of data movement and transformation. (2) Understand system boundaries and interfaces. (3) Identify processes, data stores, and external entities. (4) Communicate with stakeholders. (5) Basis for system design. (6) Validate requirements completeness. Context Diagram (Level 0): Process 'Retail Clothing Store'. External entities: Customer, Supplier, Mall Management, Bank. Data flows: Customer → Store (Order, Payment); Store → Customer (Clothes, Receipt, Invoice); Supplier → Store (Inventory, Shipment); Store → Supplier (Purchase Order, Payment); Store ↔ Bank (Payment Processing); Store → Mall Management (Sales Report, Rent). Level 1 DFD: Decompose into: (1) Sales Processing, (2) Inventory Management, (3) Payment Processing, (4) Customer Management, (5) Reporting. Data stores: Customer DB, Inventory DB, Sales Transaction DB, Supplier DB.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-28",
+          "question": "Compare structured development with object-oriented development. Explain use case diagram and class diagram with suitable example.",
+          "answer": "Structured vs OO Development: Structured — process-oriented, top-down functional decomposition, data and functions separate, DFDs and structure charts. OO — object-oriented, bottom-up, data and functions encapsulated in objects, inheritance and polymorphism, UML diagrams. Use Case Diagram Example: Online Banking System. Actors: Customer, Bank Admin. Use Cases: Login, Check Balance, Transfer Funds, Pay Bills, View Statement, Manage Account, Generate Report. Relationships: Customer uses Login, Check Balance, Transfer Funds, Pay Bills, View Statement. Admin uses Manage Account, Generate Report. Include: Login included in all transactions. Extend: Transfer Funds extends to International Transfer. Class Diagram Example: Bank Account (attributes: accountNo, balance; methods: deposit(), withdraw()), Customer (attributes: customerID, name; methods: openAccount()), Transaction (attributes: transactionID, amount, date; methods: process()). Inheritance: SavingsAccount and CheckingAccount extend BankAccount.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-06",
+          "question": "Explain common skills of a project manager. Which skill do you think is most important?",
+          "answer": "Project Manager Skills: (1) Leadership — inspire, motivate, direct team. (2) Communication — clear verbal/written, active listening, presentation. (3) Negotiation — with stakeholders, vendors, team members. (4) Problem-Solving — analytical thinking, creativity, decision-making under pressure. (5) Time Management — prioritize, delegate, meet deadlines. (6) Technical Knowledge — understand domain and technology. (7) Risk Management — identify, assess, mitigate risks. (8) Budget Management — cost estimation, control, forecasting. (9) Conflict Resolution — mediate disputes, find win-win solutions. (10) Emotional Intelligence — self-awareness, empathy, relationship management. Most Important: Communication — because projects fail more often due to miscommunication than technical issues. PM spends 90% of time communicating.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-10",
+          "question": "Describe the project identification and selection process.",
+          "answer": "Project Identification and Selection: (1) Identify Potential Projects — from business problems, opportunities, directives (market demand, legal requirement, technological advancement, organizational need). (2) Classify and Rank Projects — using scoring models, cost-benefit analysis, strategic alignment. (3) Select Projects — based on available resources, risk, strategic fit, and expected value. Methods: Top-down (senior management identifies) vs Bottom-up (departmental requests). Tools: Portfolio management, weighted scoring models, NPV analysis. Criteria: Strategic alignment, feasibility, risk level, resource availability, time to value. Output: Baseline project plan with scope, schedule, budget, and success criteria.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-09",
+          "question": "List and describe the steps in the project initiation and planning process.",
+          "answer": "Project Initiation and Planning Steps: (1) Establish Project Initiation Team — identify key stakeholders and core team. (2) Establish Relationship with Customer — understand needs, expectations, constraints. (3) Establish Project Initiation Plan — high-level scope, objectives, approach. (4) Establish Management Procedures — communication, reporting, change control, risk management. (5) Establish Project Management Environment — tools, standards, templates. (6) Develop Project Charter — formal authorization, sponsor sign-off. (7) Describe Project Scope — boundaries, inclusions, exclusions. (8) Establish Project Baseline Plan — detailed WBS, schedule, budget, resources, quality plan, risk register. (9) Review Baseline Plan — stakeholder approval. (10) Launch Project — kickoff meeting, team mobilization.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-12",
+          "question": "Explain Joint Application Design in brief. How is it better than traditional information gathering techniques?",
+          "answer": "JAD (Joint Application Design): Structured group workshop bringing together users, managers, developers, and facilitators to define requirements collectively. Facilitator leads structured sessions using structured techniques (brainstorming, consensus building, prototyping). Duration: typically 3-5 intensive days. Better than Traditional: (1) Faster — compressed time frame vs weeks of interviews. (2) Higher quality — diverse perspectives, immediate conflict resolution. (3) Better buy-in — stakeholders feel ownership. (4) Reduced errors — real-time validation and consensus. (5) Prototyping integrated — visual confirmation of understanding. (6) Documentation produced during session — no transcription delays. Challenges: Requires skilled facilitator, scheduling difficulties with key stakeholders, can be expensive, may not work for geographically dispersed teams.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-15",
+          "question": "What is conceptual data modeling? Explain conceptual data modeling with suitable example.",
+          "answer": "Conceptual Data Modeling: High-level representation of data requirements independent of implementation details. Focuses on entities, relationships, and attributes without considering DBMS or physical storage. Purpose: (1) Communicate data requirements to stakeholders. (2) Foundation for logical and physical design. (3) Ensure completeness and consistency of data. (4) Identify business rules. Example: University Library System. Entities: Book (ISBN, title, author, publisher), Member (memberID, name, email, address), Loan (loanID, loanDate, dueDate, returnDate). Relationships: Member borrows Book (many-to-many via Loan). Book belongs_to Category (many-to-one). Member reserves Book (many-to-many). Constraints: A member can borrow max 5 books. Loan period is 14 days. ER diagram shows entities as rectangles, relationships as diamonds, attributes as ovals.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-18",
+          "question": "Compare form with report. Explain the process of designing forms and reports.",
+          "answer": "Form vs Report: Form — input mechanism, interactive, used for data entry and modification. Report — output mechanism, read-only, used for information display and decision-making. Forms have validation, navigation, action buttons. Reports have grouping, sorting, summaries, charts. Designing Forms and Reports: (1) Understand Purpose — what task/user needs. (2) Gather Content — fields, data sources, calculations. (3) Layout Design — grid-based, logical flow, visual hierarchy. (4) Select Controls — text boxes, dropdowns, checkboxes, radio buttons. (5) Define Navigation — tab order, shortcuts, menus. (6) Apply Standards — fonts, colors, alignment, consistency. (7) Validate Design — usability testing, accessibility check. (8) Prototype and Refine — iterative improvement based on feedback. Principles: Clarity, consistency, efficiency, forgiveness, aesthetics.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-21",
+          "question": "Define system maintenance. Explain the process of maintaining information systems in detail.",
+          "answer": "System Maintenance: Modification of a system after delivery to correct faults, improve performance, or adapt to changed environment. Process: (1) Request Change — user submits change request (CR). (2) Evaluate Request — assess feasibility, impact, cost, priority. (3) Design Modification — plan changes to code, data, documentation. (4) Implement Change — modify programs, databases, interfaces. (5) Test Changes — unit test, integration test, regression test. (6) Deploy — release to production with rollback plan. (7) Update Documentation — user manuals, technical docs, training materials. (8) Review — post-implementation review, lessons learned. Types: Corrective (fix bugs), Adaptive (environment changes), Perfective (enhancements), Preventive (proactive improvements). Maintenance is the longest and most expensive phase of SDLC.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": "a",
+          "topic": "sad-05",
+          "question": "Write short notes on: a. CASE tools",
+          "answer": "CASE Tools: Software that automates or supports software development activities. Categories: Upper CASE — requirements, analysis, design (ER tools, DFD tools, UML modeling). Lower CASE — coding, testing, maintenance (code generators, debuggers, test tools). Integrated CASE (I-CASE) — covers full lifecycle. Benefits: Improved productivity (30-40% faster), better documentation quality, reduced errors through automation, enhanced team communication, easier maintenance through reverse engineering. Examples: Rational Rose, Visio, Enterprise Architect, Visual Paradigm, ERwin. Challenges: High initial cost, learning curve, integration with existing tools, may produce rigid designs.",
+          "marks": 3
+        },
+        {
+          "number": 11,
+          "part": "b",
+          "topic": "sad-09",
+          "question": "Write short notes on: b. Baseline project plan",
+          "answer": "Baseline Project Plan: Approved version of project plan used as reference for performance measurement and change control. Components: Scope statement, WBS, schedule (Gantt/PERT), budget, resource plan, risk register, quality plan, communication plan, change control process. Purpose: (1) Provides benchmark for tracking progress. (2) Basis for earned value management. (3) Reference for scope change evaluation. (4) Communication tool for stakeholders. (5) Contractual reference for external projects. Once baselined, changes require formal change control process. Any deviation from baseline triggers analysis and corrective action.",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "year": "2078",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-01",
+          "question": "What is system development life cycle (SDLC)? Explain each phase of SDLC in detail.",
+          "answer": "SDLC: Structured process for developing information systems. Phases: (1) Planning — feasibility study, project scope, resource allocation, project plan. (2) Analysis — gather requirements, study current system, define problem, create logical models (DFDs, ER diagrams). (3) Design — logical design (data models, process models), physical design (hardware, software, network, database schema), UI design, security design. (4) Implementation — coding, testing (unit, integration, system, acceptance), data migration, training, documentation. (5) Maintenance — corrective, adaptive, perfective, preventive maintenance. Each phase has deliverables, reviews, and approval gates. Modern SDLCs include iterative models (Agile, Spiral, RAD) alongside traditional Waterfall.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-27",
+          "question": "Assume monetary benefits of an information system of $70,000 the first year and increasing benefits of $10,000 a year for the next four years, one-time development costs of $90,000, and recurring costs of $40,000 per year over the duration of the system's life. The discount rate for the company was 11 percent. Using a five-year time horizon, calculate the net present value of these costs and benefits. Also, calculate the overall return on investment and then present a breakeven analysis. At what point does breakeven occur?",
+          "answer": "NPV Calculation at 11%: Year 0: -90,000 (development). Year 1: (70,000-40,000)/(1.11) = 30,000/1.11 = 27,027. Year 2: (80,000-40,000)/(1.11)² = 40,000/1.2321 = 32,465. Year 3: (90,000-40,000)/(1.11)³ = 50,000/1.3676 = 36,561. Year 4: (100,000-40,000)/(1.11)⁴ = 60,000/1.5181 = 39,523. Year 5: (110,000-40,000)/(1.11)⁵ = 70,000/1.6851 = 41,541. Total PV benefits = 177,117. NPV = 177,117 - 90,000 = 87,117. ROI = (Total Benefits - Total Costs) / Total Costs × 100 = (350,000 - 290,000) / 290,000 × 100 = 20.69%. Breakeven: Cumulative NPV turns positive between year 2 and 3. Year 1 cumulative: -62,973. Year 2: -30,508. Year 3: +6,053. Breakeven occurs early in year 3.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-15",
+          "question": "What is conceptual data model? How do you gather information for conceptual data modeling? Draw an ER diagram for a retail store in a mall which sells different items to its customers.",
+          "answer": "Conceptual Data Model: High-level, implementation-independent representation of data requirements showing entities, relationships, and attributes. Information Gathering: (1) Interview stakeholders — understand business processes and data needs. (2) Analyze existing documents — forms, reports, databases. (3) Observe business operations — identify entities and relationships in practice. (4) Review business rules — constraints and policies. (5) Brainstorming sessions with domain experts. ER Diagram for Retail Store: Entities: Customer (customerID, name, phone, email), Item (itemID, name, price, category), Sale (saleID, date, totalAmount), Employee (employeeID, name, position). Relationships: Customer makes Sale (one-to-many). Sale contains Item (many-to-many via SaleItem with quantity). Employee processes Sale (one-to-many). Store (storeID, location, mallName) stocks Item (many-to-many with stockQuantity). Primary keys underlined. Cardinality shown near relationship lines.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-01",
+          "question": "What is system analysis and design? Why is it important for developing information systems?",
+          "answer": "System Analysis: Study of current system to understand problems, identify requirements, and define scope of new system. Techniques: interviews, observation, document analysis, prototyping. System Design: Creation of architecture and specifications for new system based on requirements. Includes: database design, UI design, process design, security design. Importance: (1) Ensures system meets actual business needs — not assumed needs. (2) Reduces development risk — early detection of issues. (3) Improves quality — structured approach produces reliable systems. (4) Controls cost and schedule — planning prevents overruns. (5) Facilitates communication — common language between technical and business teams. (6) Enables scalability — proper design supports growth. (7) Ensures maintainability — good design reduces long-term costs. Without SAD, systems often fail to deliver value, exceed budget, or become unmaintainable.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-05",
+          "question": "Why do we need CASE tool during system development? What are different components of CASE tool?",
+          "answer": "Need for CASE Tools: (1) Complexity management — handle large, complex systems. (2) Productivity — automate repetitive tasks. (3) Quality — enforce standards, reduce errors. (4) Communication — visual models improve understanding. (5) Documentation — auto-generate from models. (6) Traceability — link requirements to design to code. (7) Reusability — component libraries. Components: Central Repository — stores all project artifacts with version control. Diagramming Tools — DFD, ER, UML, flowchart editors. Dictionary — data definitions, business rules. Code Generators — produce code from design models. Documentation Generators — create reports and manuals. Analysis Tools — consistency checking, model validation. Project Management — scheduling, resource tracking. Reverse Engineering — derive models from existing code. Testing Tools — test case generation, coverage analysis.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-06",
+          "question": "What is project management? Explain some activities and skills of a project manager.",
+          "answer": "Project Management: Application of knowledge, skills, tools, and techniques to project activities to meet requirements. Activities: (1) Initiating — define project, obtain authorization. (2) Planning — develop detailed project management plan. (3) Executing — coordinate people and resources. (4) Monitoring/Controlling — measure progress, manage changes. (5) Closing — finalize all activities. Skills: Leadership — vision, motivation, team building. Communication — listening, presenting, negotiating. Technical — domain and tool expertise. Business — understanding organizational strategy. Problem-solving — analytical and creative thinking. Time management — prioritization, scheduling. Risk management — identification, mitigation. Conflict resolution — mediation, diplomacy. Emotional intelligence — self-awareness, empathy.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-09",
+          "question": "Explain the process of initiating and planning information system development project in brief.",
+          "answer": "Initiating: (1) Identify business problem or opportunity. (2) Define project scope and objectives. (3) Identify stakeholders and form project team. (4) Conduct feasibility study (technical, economic, operational, schedule). (5) Develop project charter — formal authorization. (6) Appoint project manager. Planning: (1) Define detailed requirements. (2) Create WBS — decompose deliverables. (3) Estimate time, cost, resources. (4) Develop schedule (Gantt, PERT, critical path). (5) Plan budget and funding. (6) Identify risks and mitigation strategies. (7) Define quality standards and metrics. (8) Plan communication — who, what, when, how. (9) Plan procurement if needed. (10) Develop baseline project plan — integrated, approved reference. (11) Obtain stakeholder sign-off.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-03",
+          "question": "How can you use prototyping for determining system requirements? Compare throwaway with evolutionary prototyping.",
+          "answer": "Prototyping for Requirements: Build quick, working models to elicit and validate requirements. Users interact with prototype, provide feedback, requirements become clear iteratively. Types: Throwaway (Rapid Prototyping) — build quick, discard after feedback, then build real system. Used when requirements unclear. Fast, cheap, focused on exploration. Evolutionary — prototype refined incrementally into final system. Used when requirements evolve. More time-consuming but produces deliverable system. Comparison: Throwaway: quick, cheap, disposable, good for exploration, may use different tools. Evolutionary: slower, more investment, becomes final system, requires robust architecture from start, good for stable but complex requirements. Both improve user involvement and reduce requirement misunderstanding.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-17",
+          "question": "What is the purpose of database design? Compare logical design with physical design.",
+          "answer": "Purpose of Database Design: (1) Organize data efficiently — reduce redundancy, ensure integrity. (2) Support business operations — enable transactions, queries, reports. (3) Ensure data security and privacy. (4) Optimize performance — fast access, minimal storage. (5) Facilitate maintenance and evolution. (6) Enable integration with other systems. Logical vs Physical: Logical — WHAT data: entities, attributes, relationships, keys, constraints, normalization (3NF/BCNF). Independent of DBMS. Represented by ER diagrams, relational schemas. Physical — HOW data is stored: file organization, indexing, partitioning, clustering, denormalization, storage devices, RAID, backup strategy. DBMS-specific. Logical answers 'what'; physical answers 'how' and 'where'. Both are essential — poor logical design causes data anomalies; poor physical design causes performance issues.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-22",
+          "question": "What is testing? Explain any four different testing techniques.",
+          "answer": "Testing: Process of executing software to find defects and verify it meets requirements. Four Techniques: (1) Unit Testing — test individual modules/functions in isolation. Developers perform using test frameworks (JUnit, pytest). Uses stubs and drivers. (2) Integration Testing — test combined modules. Approaches: top-down (test high-level first, use stubs), bottom-up (test low-level first, use drivers), sandwich (hybrid). (3) System Testing — test complete system against requirements. Types: functional, performance, security, usability, compatibility. (4) Acceptance Testing — user validation. Alpha (controlled environment, developer site), Beta (real environment, user site), UAT (User Acceptance Testing). Other techniques: regression, stress, load, recovery, security penetration testing.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sad-24",
+          "question": "What is class diagram? Explain class diagram with a suitable example.",
+          "answer": "Class Diagram: UML structural diagram showing static structure of system — classes, attributes, operations, and relationships. Elements: Class (name, attributes, methods), Interface, Package. Relationships: Association (uses), Aggregation (has-a, weak), Composition (has-a, strong), Inheritance (is-a), Dependency (uses temporarily). Multiplicity: 1, 0..1, *, 1..*. Example: Hospital System. Classes: Patient (patientID, name, dob; methods: register(), scheduleAppointment()), Doctor (doctorID, specialty; methods: diagnose(), prescribe()), Appointment (appointmentID, date, time; methods: confirm(), cancel()), MedicalRecord (recordID, diagnosis, treatment; methods: update(), view()). Relationships: Patient has MedicalRecord (1:1 composition). Doctor has Appointment (1:*). Patient makes Appointment (*:* via Appointment). Inheritance: Surgeon extends Doctor (adds operationSchedule).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": "a",
+          "topic": "sad-04",
+          "question": "Write short notes on: a. Agile development",
+          "answer": "Agile Development: Iterative, incremental approach emphasizing flexibility, collaboration, and customer satisfaction. Manifesto values: (1) Individuals and interactions over processes and tools. (2) Working software over comprehensive documentation. (3) Customer collaboration over contract negotiation. (4) Responding to change over following a plan. Principles: Deliver working software frequently, welcome changing requirements, business and developers work together daily, face-to-face conversation, motivated individuals, sustainable pace, technical excellence, simplicity, self-organizing teams, reflection and adjustment. Methods: Scrum (sprints, roles: Product Owner, Scrum Master, Team; ceremonies: sprint planning, daily standup, review, retrospective), Kanban (visualize workflow, limit WIP), Extreme Programming (XP) — pair programming, TDD, continuous integration, refactoring.",
+          "marks": 3
+        },
+        {
+          "number": 12,
+          "part": "b",
+          "topic": "sad-14",
+          "question": "Write short notes on: b. Decision table",
+          "answer": "Decision Table: Tabular representation of complex business rules and logic. Structure: Conditions (top half) and Actions (bottom half). Rules (columns) show combinations of condition values and corresponding actions. Types: Limited entry (Y/N/—), Extended entry (multiple values). Reduction: Combine rules with identical actions and don't-care conditions to minimize table size. Advantages: (1) Complete coverage — all combinations considered. (2) Easy to verify completeness and consistency. (3) Compact representation of complex logic. (4) Bridges communication gap between analysts and business users. (5) Basis for test case generation. Example: Loan approval — conditions: Income>50K, CreditScore>700, Employed>2yrs. Actions: Approve, Reject, Review Manually.",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "year": "Model",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-01",
+          "question": "Explain the modern approach to system analysis and design.",
+          "answer": "Modern Approach to SAD: Emphasizes iterative, user-centered, and flexible methodologies. Key aspects: (1) User Involvement — continuous collaboration through prototyping, JAD, and agile ceremonies. (2) Iterative Development — build in small increments, get feedback, refine. (3) Model-Driven — use visual models (UML, DFDs, ER diagrams) as primary deliverables. (4) Reuse — leverage existing components, frameworks, and patterns. (5) Architecture-Centric — design robust, scalable architecture early. (6) Risk-Driven — identify and mitigate risks throughout. (7) Quality Focus — build quality in through testing, reviews, and standards. (8) Change Management — embrace and manage change rather than resist. Contrasts with traditional waterfall's rigid sequential approach. Modern methods: Agile, RAD, Spiral, DevOps, Lean. Tools: CASE, version control, CI/CD, collaborative platforms.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-13",
+          "question": "Draw a DFD diagram of Mess Management System up to level 2.",
+          "answer": "Context Diagram (Level 0): Process 'Mess Management System'. External entities: Student, Mess Staff, Admin, Supplier, Bank. Data flows: Student → System (Meal Request, Payment, Feedback); System → Student (Meal Token, Bill, Menu); Staff → System (Attendance, Inventory Report); System → Staff (Work Schedule); Admin → System (Policies, Rates); System → Admin (Reports, Financial Summary); Supplier → System (Invoice, Delivery); System → Supplier (Purchase Order, Payment). Level 1 DFD: Decompose into: (1) Meal Planning, (2) Attendance Tracking, (3) Billing, (4) Inventory Management, (5) Feedback Processing, (6) Reporting. Level 2 (Meal Planning): Sub-processes: Menu Creation, Nutritional Analysis, Portion Calculation, Schedule Generation. Data stores: Menu DB, Student Preference DB, Nutrition DB, Attendance DB.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-14",
+          "question": "A bank has the following policy on deposit. On same deposit for a period of Rs.50,000 and above for five years or above the interest rate is 15%. On same deposit for a period less than 5 years it is 12%. On deposit below Rs.50,000 the interest is 10% regardless of period of deposit. Write the above process using: Structured English, A Decision Table.",
+          "answer": "Structured English: IF deposit_amount >= 50,000 THEN IF period >= 5 years THEN interest_rate = 15% ELSE interest_rate = 12% ENDIF ELSE interest_rate = 10% ENDIF. Decision Table: Conditions: C1: Amount≥50,000 (Y/N), C2: Period≥5 years (Y/N/-). Actions: A1: Rate=15%, A2: Rate=12%, A3: Rate=10%. Rules: R1: Y,Y → A1. R2: Y,N → A2. R3: N,- → A3. R4: N,Y → A3 (redundant, combined with R3). Reduced to 3 rules. The decision table clearly shows all condition combinations and corresponding actions, making the logic unambiguous and complete.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-19",
+          "question": "Describe five methods of interacting with a system in detail.",
+          "answer": "Five Interaction Methods: (1) Command Line Interface (CLI) — text-based, commands typed by user. Advantages: fast for experts, scriptable, low resource. Example: Linux terminal, DOS. (2) Menu-Driven — hierarchical menus, user selects options. Advantages: easy for novices, error prevention. Example: ATM machines, BIOS setup. (3) Form-Based — structured fields for data entry. Advantages: validation, organized, familiar. Example: Web forms, database entry screens. (4) Graphical User Interface (GUI) — windows, icons, buttons, menus. Advantages: intuitive, visual feedback, multi-tasking. Example: Windows, macOS, mobile apps. (5) Natural Language — speech or text conversation. Advantages: hands-free, accessible, intuitive. Example: Siri, Alexa, ChatGPT. Selection criteria: user expertise, task complexity, device type, accessibility needs, and context.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-01",
+          "question": "Define information system. What are the typical components of an information system?",
+          "answer": "Information System: Organized combination of people, hardware, software, communication networks, data resources, and policies that stores, retrieves, transforms, and disseminates information in an organization. Components: (1) Hardware — computers, servers, networking equipment, storage devices, input/output devices. (2) Software — system software (OS, DBMS), application software (ERP, CRM), utilities. (3) Data — raw facts organized into meaningful information. Database management ensures integrity and accessibility. (4) Procedures — policies, rules, methods for operating the system. (5) People — users, IT staff, managers, developers. Human element is critical for success. (6) Networks — communication infrastructure for data transfer (LAN, WAN, Internet). (7) Feedback — output returned to appropriate people for evaluation and adjustment. These components work together to support decision-making, operations, and competitive advantage.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-17",
+          "question": "Differentiate between logical database design and physical database design.",
+          "answer": "Logical Database Design: WHAT data is stored and how it relates. Focus: entities, attributes, relationships, keys, constraints, normalization (3NF/BCNF). Output: ER diagrams, relational schemas, data dictionary. DBMS-independent. Concerned with data integrity, redundancy elimination, and business rules. Physical Database Design: HOW and WHERE data is physically stored. Focus: file organization (heap, sequential, indexed, hashed), indexing strategies (B-tree, bitmap, hash), partitioning, clustering, denormalization for performance, RAID levels, storage allocation, compression, backup strategy. Output: DDL scripts, storage parameters, performance tuning plans. DBMS-specific. Concerned with query performance, storage efficiency, scalability, and availability. Logical comes first; physical implements the logical design optimally for the target environment.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-20",
+          "question": "What do you mean by system implementation? Discuss the steps for system implementation.",
+          "answer": "System Implementation: Process of converting system design into operational system. Steps: (1) Coding — write programs according to design specifications. Follow coding standards, conduct code reviews. (2) Testing — unit, integration, system, acceptance testing. Use test plans, cases, and data. (3) Data Conversion — migrate data from old system. Cleanse, transform, validate. (4) Documentation — user manuals, technical documentation, training materials, online help. (5) Training — train end users and operators. Methods: classroom, hands-on, e-learning, train-the-trainer. (6) Installation — deploy system. Strategies: direct cutover (immediate), parallel (old and new run together), phased (module by module), pilot (one location first). (7) Support — help desk, troubleshooting, maintenance planning. (8) Evaluation — assess against objectives, gather feedback, plan improvements. Success depends on careful planning, stakeholder communication, and risk management.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-06",
+          "question": "Who is a system analyst? List and explain the skills of a system analyst.",
+          "answer": "System Analyst: Professional who analyzes business problems, designs information system solutions, and acts as bridge between business users and technical developers. Skills: (1) Analytical — break complex problems into components, identify patterns, logical reasoning. (2) Technical — understand hardware, software, databases, networks, programming concepts. (3) Communication — interview, present, write reports, facilitate meetings, active listening. (4) Interpersonal — build relationships, negotiate, resolve conflicts, work in teams. (5) Business Knowledge — understand organizational operations, industry trends, competitive landscape. (6) Project Management — plan, schedule, budget, manage resources and risks. (7) Problem-Solving — creative thinking, identify root causes, propose effective solutions. (8) Attention to Detail — catch inconsistencies, ensure completeness. (9) Adaptability — learn new technologies, adjust to changing requirements. (10) Ethics — maintain confidentiality, professional standards.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-27",
+          "question": "A system costs Rs.2,00,000 to install and Rs.10,000 per month as recurring expenses. The benefit per year is Rs.1,50,000. Assuming an interest rate of 15%, what is the payback period of the investment?",
+          "answer": "Given: Initial = Rs.2,00,000. Monthly recurring = Rs.10,000 → Annual recurring = Rs.1,20,000. Annual benefit = Rs.1,50,000. Net annual benefit = 1,50,000 - 1,20,000 = Rs.30,000. Simple payback (ignoring discount): 2,00,000 / 30,000 = 6.67 years. Discounted Payback at 15%: Year 1: 30,000/1.15 = 26,087; cumulative = -173,913. Year 2: 30,000/1.15² = 22,684; cumulative = -151,229. Year 3: 30,000/1.15³ = 19,725; cumulative = -131,504. Year 4: 30,000/1.15⁴ = 17,152; cumulative = -114,352. Year 5: 30,000/1.15⁵ = 14,915; cumulative = -99,437. Year 6: 30,000/1.15⁶ = 12,970; cumulative = -86,467. Year 7: 30,000/1.15⁷ = 11,278; cumulative = -75,189. Year 8: 30,000/1.15⁸ = 9,807; cumulative = -65,382. Year 9: 30,000/1.15⁹ = 8,528; cumulative = -56,854. Year 10: 30,000/1.15¹⁰ = 7,416; cumulative = -49,438. Payback exceeds 10 years — investment is not attractive at 15% discount rate with these numbers. [Note: If benefit is gross (before expenses), net is 30K/year; payback is very long. If benefit is net (already after expenses), payback = 2,00,000/1,50,000 = 1.33 years simple, ~1.5 years discounted. Clarification needed on whether benefit is gross or net.]",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-10",
+          "question": "What are the steps involved in corporate strategic planning?",
+          "answer": "Corporate Strategic Planning Steps: (1) Define Mission and Vision — organization's purpose, values, and long-term aspirations. (2) Environmental Analysis — external scan (PEST: Political, Economic, Social, Technological; Porter's Five Forces) and internal scan (resources, capabilities, core competencies). (3) SWOT Analysis — Strengths, Weaknesses, Opportunities, Threats. (4) Set Strategic Objectives — SMART goals aligned with mission (Specific, Measurable, Achievable, Relevant, Time-bound). (5) Formulate Strategies — Corporate (portfolio), Business (competitive advantage: cost leadership, differentiation, focus), Functional (departmental support). (6) Strategy Implementation — resource allocation, organizational design, policy development, change management. (7) Evaluation and Control — KPIs, balanced scorecard, benchmarking, feedback loops. (8) Strategic Adjustment — adapt to changing environment. IS planning ensures IT investments support corporate strategy.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sad-08",
+          "question": "Define feasibility study. Explain different categories of feasibility study.",
+          "answer": "Feasibility Study: Assessment of whether a proposed system is viable, beneficial, and achievable before committing resources. Categories: (1) Economic Feasibility — cost-benefit analysis. Costs: development, hardware, software, training, maintenance. Benefits: tangible (reduced labor, increased revenue) and intangible (improved decision-making, customer satisfaction). Methods: NPV, ROI, payback period, break-even analysis. (2) Technical Feasibility — can we build it? Assess technology availability, expertise, compatibility, scalability, reliability. (3) Operational Feasibility — will it work in our environment? Assess user acceptance, organizational readiness, workflow impact, training needs. (4) Schedule Feasibility — can we complete it on time? Assess resource availability, dependencies, critical path. (5) Legal/Ethical Feasibility — compliance with laws, regulations, standards, ethical considerations. All five must be satisfied for project approval.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "sad-23",
+          "question": "What is Use Case Modeling? Explain with an example.",
+          "answer": "Use Case Modeling: UML technique to capture functional requirements from user perspective. Shows interactions between actors (external entities) and system (use cases). Components: Actor (stick figure — person, organization, or system), Use Case (oval — system function), System Boundary (rectangle), Relationships (association, include, extend, generalization). Example: Online Shopping System. Actors: Customer, Admin, Payment Gateway. Use Cases: Browse Products, Add to Cart, Checkout, Make Payment, Track Order, Manage Inventory, Generate Reports. Relationships: Customer uses Browse, Add to Cart, Checkout, Track Order. Checkout includes Make Payment (mandatory). Checkout extends Apply Discount (optional, condition-based). Admin uses Manage Inventory, Generate Reports. Benefits: User-centric, easy to understand, basis for test cases, identifies system scope and boundaries.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "mockPapers": [
+    {
+      "id": "mock-sad-1",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "sad-01",
+          "question": "Explain the SDLC phases with a neat diagram. Compare waterfall and agile models.",
+          "answer": "SDLC Phases: (1) Planning — feasibility, scope, resources. (2) Analysis — requirements gathering, current system study. (3) Design — logical and physical design, architecture, UI. (4) Implementation — coding, testing, data migration. (5) Maintenance — corrective, adaptive, perfective. Waterfall vs Agile: Waterfall is sequential, rigid, document-heavy, requirements fixed upfront, testing at end. Agile is iterative, flexible, working software over docs, requirements evolve, continuous testing and feedback. Waterfall suits stable requirements; Agile suits changing, complex projects.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "sad-13",
+          "question": "Draw a DFD up to level 2 for an online examination system.",
+          "answer": "Context Diagram: Process 'Online Examination System'. External entities: Student, Instructor, Admin. Data flows: Student → System (Registration, Login, Exam Request, Answers); System → Student (Schedule, Questions, Results); Instructor → System (Question Bank, Evaluation Criteria); System → Instructor (Reports, Analytics); Admin → System (Policies, User Management); System → Admin (System Logs, Audit Reports). Level 1: (1) User Management, (2) Exam Scheduling, (3) Question Management, (4) Exam Delivery, (5) Answer Evaluation, (6) Result Processing, (7) Reporting. Level 2 (Exam Delivery): Sub-processes: Authentication, Load Questions, Timer Management, Answer Capture, Auto-Save, Submit Exam.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "sad-22",
+          "question": "Explain the different levels of testing with suitable examples.",
+          "answer": "Testing Levels: (1) Unit Testing — test individual functions/modules. Example: Test a login function with valid/invalid credentials. (2) Integration Testing — test combined modules. Example: Test login + session management together. Top-down (stubs), bottom-up (drivers), sandwich. (3) System Testing — test complete system against requirements. Example: End-to-end exam scheduling, delivery, and grading. (4) Acceptance Testing — user validation. Alpha (developer site, controlled), Beta (user site, real environment), UAT (formal user sign-off). (5) Regression Testing — re-test after changes. Example: Verify existing features still work after adding new payment gateway.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "sad-15",
+          "question": "Draw an ER diagram for a hospital management system showing at least 4 entities with relationships and cardinalities.",
+          "answer": "Entities: Patient (patientID, name, dob, bloodGroup), Doctor (doctorID, name, specialty, experience), Appointment (appointmentID, date, time, status), MedicalRecord (recordID, diagnosis, prescription, date), Department (deptID, deptName, location). Relationships: Patient has MedicalRecord (1:1 composition). Doctor works_in Department (N:1). Patient makes Appointment with Doctor (M:N via Appointment with attributes date, time, status). Doctor creates MedicalRecord for Patient (1:N). Nurse (nurseID, name) assists Doctor (M:N). Cardinalities shown with crow's foot notation. Primary keys underlined. Weak entity: MedicalRecord depends on Patient existence.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "sad-16",
+          "question": "Explain 3NF with an example. Why is normalization important?",
+          "answer": "3NF (Third Normal Form): A relation is in 3NF if it is in 2NF and has no transitive dependencies (non-key attributes depend only on primary key, not on other non-key attributes). Example: Employee(empID, empName, deptID, deptName, deptLocation). empID → deptID → deptName (transitive). Decompose to: Employee(empID, empName, deptID), Department(deptID, deptName, deptLocation). Now both in 3NF. Importance: (1) Eliminates redundancy — data stored once. (2) Prevents anomalies — update, insert, delete anomalies avoided. (3) Improves integrity — consistent data. (4) Optimizes storage. (5) Simplifies maintenance. (6) Better query performance for OLTP systems.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "sad-08",
+          "question": "Calculate NPV and ROI for a project with initial cost Rs.5,00,000, annual net benefit Rs.1,50,000 for 5 years, discount rate 12%.",
+          "answer": "NPV at 12%: Year 0: -5,00,000. Year 1: 1,50,000/1.12 = 1,33,929. Year 2: 1,50,000/1.12² = 1,19,579. Year 3: 1,50,000/1.12³ = 1,06,767. Year 4: 1,50,000/1.12⁴ = 95,328. Year 5: 1,50,000/1.12⁵ = 85,114. Total PV = 5,40,717. NPV = 5,40,717 - 5,00,000 = 40,717. Total benefits = 7,50,000. Total costs = 5,00,000. ROI = (7,50,000 - 5,00,000)/5,00,000 × 100 = 50%. NPV positive and ROI > 0 indicate project is financially viable.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "sad-05",
+          "question": "What are CASE tools? Explain upper CASE and lower CASE with examples.",
+          "answer": "CASE Tools: Software that automates or supports software development lifecycle activities. Upper CASE: Support analysis and design phases. Examples: Rational Rose (UML modeling), ERwin (ER diagrams), Visio (flowcharts, DFDs), Visual Paradigm. Functions: requirements management, modeling, simulation, consistency checking. Lower CASE: Support implementation and maintenance. Examples: Eclipse, Visual Studio (IDEs), JUnit (testing), Git (version control), SonarQube (code quality). Functions: code generation, debugging, testing, documentation, reverse engineering. I-CASE (Integrated): Covers full lifecycle. Benefits: 30-40% productivity gain, improved quality, better documentation, enhanced communication, easier maintenance.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "sad-19",
+          "question": "Explain the principles of good user interface design with examples.",
+          "answer": "UI Design Principles: (1) Consistency — same colors, fonts, layouts, navigation across screens. Example: All buttons same color and position. (2) Simplicity — minimize elements, clear hierarchy. Example: Google homepage. (3) Feedback — immediate response to actions. Example: Button press animation, loading spinner. (4) Forgiveness — undo, confirm destructive actions. Example: 'Are you sure?' dialog before delete. (5) Accessibility — screen readers, keyboard nav, color contrast. Example: Alt text for images. (6) Visibility of status — show system state. Example: Progress bars, notifications. (7) Match to real world — familiar metaphors. Example: Trash can for delete, folder for files. (8) User control — allow escape, undo, customization. (9) Aesthetic design — pleasing visuals enhance usability. (10) Help and documentation — searchable, contextual help.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "sad-23",
+          "question": "Draw a use case diagram for a library management system.",
+          "answer": "Actors: Librarian, Member, System Admin. Use Cases: Login (shared), Search Book, Borrow Book, Return Book, Reserve Book, Pay Fine, Add Book (Librarian), Remove Book (Librarian), Generate Report (Librarian), Manage Members (Admin), Backup System (Admin). Relationships: Member uses Search, Borrow, Return, Reserve, Pay Fine. Borrow includes Check Availability. Borrow extends Pay Fine (if overdue). Librarian uses Add, Remove, Generate Report. Admin uses Manage Members, Backup. Login is included in all use cases. System Boundary encloses all use cases. Associations connect actors to their use cases.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "sad-21",
+          "question": "Differentiate between corrective and adaptive maintenance with examples.",
+          "answer": "Corrective Maintenance: Fixes bugs, errors, and defects discovered after deployment. Reactive. Example: Fix calculation error in payroll system, patch security vulnerability. Adaptive Maintenance: Modifies system to work in changed environment. Proactive response to external changes. Example: Update system for new tax regulations, migrate to new OS version, support new hardware. Corrective addresses 'what is wrong'; adaptive addresses 'what has changed'. Both are essential — corrective ensures reliability, adaptive ensures longevity. Together with perfective (enhancements) and preventive (proactive improvements), they constitute the four types of software maintenance.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "sad-11",
+          "question": "Explain JAD as a requirements gathering technique. What are its advantages over traditional interviews?",
+          "answer": "JAD (Joint Application Design): Structured workshop bringing users, managers, developers, and a facilitator together for intensive requirements sessions. Typically 3-5 days. Process: Planning (agenda, participants), Session (facilitated discussions, prototyping, consensus building), Documentation (immediate capture of decisions). Advantages over Interviews: (1) Speed — days vs weeks. (2) Quality — diverse perspectives, immediate conflict resolution. (3) Buy-in — stakeholders feel ownership. (4) Reduced errors — real-time validation. (5) Prototyping integrated — visual confirmation. (6) Documentation produced during session. Challenges: Needs skilled facilitator, scheduling key stakeholders, can be expensive, may not suit dispersed teams. Best for complex systems with multiple stakeholder groups.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "sad-24",
+          "question": "Explain aggregation and composition with class diagram examples.",
+          "answer": "Aggregation (Weak 'has-a'): Whole can exist without parts. Hollow diamond on whole side. Example: University has Departments. If university closes, departments may continue independently. Class diagram: University (1) —◇ (0..*) Department. Composition (Strong 'has-a'): Whole cannot exist without parts. Filled diamond on whole side. Parts destroyed with whole. Example: House has Rooms. If house demolished, rooms destroyed. Class diagram: House (1) —◆ (1..*) Room. Another example: Car (composition) has Engine, Wheels — car scrapped, parts discarded. Car (aggregation) has Passengers — passengers exist after leaving car. Multiplicity shows how many parts belong to whole.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "patternAnalysis": {
+    "guaranteed": [
+      "sad-01",
+      "sad-13",
+      "sad-22",
+      "sad-06",
+      "sad-17"
+    ],
+    "likely": [
+      "sad-15",
+      "sad-23",
+      "sad-24",
+      "sad-08",
+      "sad-03",
+      "sad-04",
+      "sad-21"
+    ],
+    "wildcards": [
+      "sad-25",
+      "sad-26",
+      "sad-10",
+      "sad-28",
+      "sad-20"
+    ],
+    "priorityOrder": [
+      "sad-01",
+      "sad-13",
+      "sad-22",
+      "sad-06",
+      "sad-17",
+      "sad-15",
+      "sad-23",
+      "sad-24",
+      "sad-08",
+      "sad-03",
+      "sad-04",
+      "sad-21",
+      "sad-16",
+      "sad-11",
+      "sad-09",
+      "sad-05",
+      "sad-07",
+      "sad-27",
+      "sad-14",
+      "sad-19",
+      "sad-18",
+      "sad-20",
+      "sad-10",
+      "sad-28",
+      "sad-25",
+      "sad-26",
+      "sad-02",
+      "sad-12"
+    ],
+    "notes": "Section A (10-mark, attempt 2 of 3) consistently tests: SDLC/Waterfall/Agile/Prototyping, DFDs (context + level 1/2), and Testing (Black/White Box) or Database Design/Normalization. Section B (5-mark, attempt 8 of 9) reliably covers: Project Management skills/activities, Feasibility/ Economic analysis (NPV/payback), CASE Tools, Requirements methods (JAD/Observation), ER Diagrams, Logical vs Physical DB Design, UML Use Case and Class Diagrams, System Maintenance, Interface Design, and Decision Tables. UML diagrams (Use Case + Class) appear almost every year. DFDs are guaranteed in Section A. NPV/Payback calculations appear frequently."
+  }
+}

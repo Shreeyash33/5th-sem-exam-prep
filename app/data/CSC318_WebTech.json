@@ -1,0 +1,1178 @@
+{
+  "subject": "Web Technology",
+  "code": "CSC318",
+  "topics": [
+    {
+      "id": "web-01",
+      "name": "Web Basics: WWW, Web Clients and Web Servers",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [4] },
+        { "year": "2081", "questionNumbers": [4] },
+        { "year": "2080", "questionNumbers": [4] }
+      ]
+    },
+    {
+      "id": "web-02",
+      "name": "Web 1.0 vs Web 2.0, Static vs Dynamic Websites",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [4] },
+        { "year": "2078", "questionNumbers": [4] },
+        { "year": "Model", "questionNumbers": [4] }
+      ]
+    },
+    {
+      "id": "web-03",
+      "name": "Client-Server Architecture and its Types",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [4] }
+      ]
+    },
+    {
+      "id": "web-04",
+      "name": "HTML Forms, Form Elements and Form Validation with JavaScript",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [12] },
+        { "year": "2081", "questionNumbers": [2] },
+        { "year": "2080", "questionNumbers": [1] },
+        { "year": "2079", "questionNumbers": [2] },
+        { "year": "2078", "questionNumbers": [2] },
+        { "year": "Model", "questionNumbers": [2] }
+      ]
+    },
+    {
+      "id": "web-05",
+      "name": "HTML Tables",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [5] }
+      ]
+    },
+    {
+      "id": "web-06",
+      "name": "HTML Lists (Ordered and Unordered)",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [5] },
+        { "year": "2078", "questionNumbers": [7] }
+      ]
+    },
+    {
+      "id": "web-07",
+      "name": "HTML Events (onload, onkeydown, onkeypress, onkeyup)",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [6] },
+        { "year": "2081", "questionNumbers": [6] },
+        { "year": "2080", "questionNumbers": [5] },
+        { "year": "Model", "questionNumbers": [5] }
+      ]
+    },
+    {
+      "id": "web-08",
+      "name": "HTML Canvas Element",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [6] }
+      ]
+    },
+    {
+      "id": "web-09",
+      "name": "HTML Audio and Video Tags",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [5] }
+      ]
+    },
+    {
+      "id": "web-10",
+      "name": "HTML Meta Tags, Links, Images and Anchor Tags",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2078", "questionNumbers": [5] },
+        { "year": "Model", "questionNumbers": [12] }
+      ]
+    },
+    {
+      "id": "web-11",
+      "name": "CSS: Selectors (Class and ID Selectors)",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [7] },
+        { "year": "2082", "questionNumbers": [1] }
+      ]
+    },
+    {
+      "id": "web-12",
+      "name": "CSS: Box Model, Padding, Margin, Border",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2078", "questionNumbers": [11] },
+        { "year": "Model", "questionNumbers": [6] }
+      ]
+    },
+    {
+      "id": "web-13",
+      "name": "CSS: Positioning (relative, absolute, float)",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [8] },
+        { "year": "2080", "questionNumbers": [7] }
+      ]
+    },
+    {
+      "id": "web-14",
+      "name": "CSS: Internal vs External CSS",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [7] },
+        { "year": "2078", "questionNumbers": [3] }
+      ]
+    },
+    {
+      "id": "web-15",
+      "name": "CSS: Text Properties (text-overflow, word-wrap, shadow effects)",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [1] },
+        { "year": "2081", "questionNumbers": [12] },
+        { "year": "2079", "questionNumbers": [8] }
+      ]
+    },
+    {
+      "id": "web-16",
+      "name": "JavaScript: Variables, Arrays, Functions",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [8] },
+        { "year": "2078", "questionNumbers": [8] },
+        { "year": "Model", "questionNumbers": [7] }
+      ]
+    },
+    {
+      "id": "web-17",
+      "name": "JavaScript: DOM Manipulation (getElementById, getElementByTagName)",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2080", "questionNumbers": [6] },
+        { "year": "2082", "questionNumbers": [7] }
+      ]
+    },
+    {
+      "id": "web-18",
+      "name": "JavaScript: Objects, RegExp, Alert/Prompt/Confirm Boxes",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [9] }
+      ]
+    },
+    {
+      "id": "web-19",
+      "name": "jQuery: Selectors, Effects (animate, slideUp, slideDown, hide)",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [2] },
+        { "year": "2080", "questionNumbers": [8] },
+        { "year": "2079", "questionNumbers": [9] },
+        { "year": "2078", "questionNumbers": [6] },
+        { "year": "Model", "questionNumbers": [10] }
+      ]
+    },
+    {
+      "id": "web-20",
+      "name": "jQuery: Callback and Chaining",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [2] },
+        { "year": "2080", "questionNumbers": [8] }
+      ]
+    },
+    {
+      "id": "web-21",
+      "name": "JSON: Data Types and Structure",
+      "unit": "Unit 4",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2078", "questionNumbers": [8] }
+      ]
+    },
+    {
+      "id": "web-22",
+      "name": "XML: Structure, Rules, Simple and Complex Types, Attributes",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [3] },
+        { "year": "2081", "questionNumbers": [1] },
+        { "year": "2080", "questionNumbers": [9] },
+        { "year": "2079", "questionNumbers": [1] },
+        { "year": "Model", "questionNumbers": [1] }
+      ]
+    },
+    {
+      "id": "web-23",
+      "name": "DTD: Document Type Definition for XML Validation",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [1] },
+        { "year": "2078", "questionNumbers": [9] },
+        { "year": "Model", "questionNumbers": [9] }
+      ]
+    },
+    {
+      "id": "web-24",
+      "name": "XSD: XML Schema Definition",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [3] },
+        { "year": "2081", "questionNumbers": [1] },
+        { "year": "2080", "questionNumbers": [2] },
+        { "year": "Model", "questionNumbers": [9] }
+      ]
+    },
+    {
+      "id": "web-25",
+      "name": "XSLT: Transforming XML to HTML",
+      "unit": "Unit 5",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [9] }
+      ]
+    },
+    {
+      "id": "web-26",
+      "name": "XML Namespace and XQuery",
+      "unit": "Unit 5",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2079", "questionNumbers": [10] }
+      ]
+    },
+    {
+      "id": "web-27",
+      "name": "AJAX and XMLHttpRequest Object",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2080", "questionNumbers": [10] }
+      ]
+    },
+    {
+      "id": "web-28",
+      "name": "PHP: Functions, Strings, Arrays",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [10] },
+        { "year": "2080", "questionNumbers": [11] },
+        { "year": "2079", "questionNumbers": [12] },
+        { "year": "2078", "questionNumbers": [10] },
+        { "year": "Model", "questionNumbers": [11] }
+      ]
+    },
+    {
+      "id": "web-29",
+      "name": "PHP: Classes, Objects and Inheritance (OOP)",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [10] },
+        { "year": "2079", "questionNumbers": [11] },
+        { "year": "Model", "questionNumbers": [8] }
+      ]
+    },
+    {
+      "id": "web-30",
+      "name": "PHP: MySQL Database Connectivity (Insert, Select)",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2082", "questionNumbers": [11] },
+        { "year": "2081", "questionNumbers": [3] },
+        { "year": "2080", "questionNumbers": [3] },
+        { "year": "2079", "questionNumbers": [3] },
+        { "year": "Model", "questionNumbers": [3] }
+      ]
+    },
+    {
+      "id": "web-31",
+      "name": "PHP: Cookies and Sessions",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        { "year": "2081", "questionNumbers": [11] },
+        { "year": "2080", "questionNumbers": [12] }
+      ]
+    },
+    {
+      "id": "web-32",
+      "name": "PHP: Multidimensional Arrays and Display in HTML",
+      "unit": "Unit 6",
+      "priority": "medium",
+      "appearedIn": [
+        { "year": "2078", "questionNumbers": [1] }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "year": "2082",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-11",
+          "question": "Define CSS. What is the use of CSS shadow effects? Write an HTML script with proper CSS as per the following description. Display a text content 'CSIT Exam' in a div with id div1. The text should have a horizontal shadow of 3px and a vertical shadow of 2px. The shadow color should be green. Also set the horizontal and vertical shadow of the div to 10px respectively with the shadow color of div to blue.",
+          "answer": "CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation and visual formatting of HTML documents. It controls layout, colors, fonts, spacing, and visual effects.\n\nCSS Shadow Effects:\n- text-shadow: Adds shadow to text. Syntax: text-shadow: h-offset v-offset blur color;\n- box-shadow: Adds shadow to an element (div, container). Syntax: box-shadow: h-offset v-offset blur color;\n\nHTML + CSS Script:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>CSS Shadow Demo</title>\n  <style>\n    #div1 {\n      width: 300px;\n      padding: 20px;\n      box-shadow: 10px 10px 5px blue;\n      font-size: 24px;\n      text-shadow: 3px 2px 2px green;\n    }\n  </style>\n</head>\n<body>\n  <div id=\"div1\">CSIT Exam</div>\n</body>\n</html>\n```\nExplanation:\n- text-shadow: 3px (horizontal) 2px (vertical) 2px (blur) green — applies green shadow to the text 'CSIT Exam'.\n- box-shadow: 10px (horizontal) 10px (vertical) 5px (blur) blue — applies blue shadow to the div container.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-19",
+          "question": "What are jQuery selectors? Explain jQuery callback and chaining effects with appropriate jQuery scripts.",
+          "answer": "jQuery Selectors are used to select HTML elements to manipulate them. They are based on CSS selectors.\nCommon selectors:\n- $('*') — all elements\n- $('#id') — element with specific id\n- $('.class') — elements with a class\n- $('element') — all elements of a tag type\n- $('[attribute]') — elements with an attribute\n\nCallback: A callback is a function executed after the current effect/animation finishes. This prevents running code before an effect completes.\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <script>\n    $(document).ready(function(){\n      $(\"#btn\").click(function(){\n        $(\"#box\").hide(1000, function(){\n          alert(\"Box is now hidden!\"); // callback runs after hide completes\n        });\n      });\n    });\n  </script>\n</head>\n<body>\n  <div id=\"box\" style=\"width:200px;height:100px;background:lightblue;\">Hello</div>\n  <button id=\"btn\">Hide</button>\n</body>\n</html>\n```\n\nChaining: Chaining allows multiple jQuery methods to be chained on the same element in a single statement, reducing code and improving performance.\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <script>\n    $(document).ready(function(){\n      $(\"#btn\").click(function(){\n        $(\"#box\").css(\"color\",\"red\").slideUp(1000).slideDown(1000);\n        // chaining: css -> slideUp -> slideDown on same element\n      });\n    });\n  </script>\n</head>\n<body>\n  <div id=\"box\" style=\"width:200px;height:100px;background:lightyellow;\">jQuery Chaining</div>\n  <button id=\"btn\">Animate</button>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-22",
+          "question": "What is the use of XML? Create a XML file having complex type elements containing other elements and text. At least one element should contain an attribute. Similarly, there should be elements containing string, integer and date type values. Now write the equivalent XSD for the XML.",
+          "answer": "Use of XML:\n- XML (eXtensible Markup Language) is used to store and transport data in a structured, self-describing, and platform-independent way.\n- Used in web services, configuration files, data exchange between systems, RSS feeds, and more.\n\nXML File (library.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<library>\n  <book id=\"101\">\n    <title>Learning XML</title>\n    <author>Erik Ray</author>\n    <pages>400</pages>\n    <publishedDate>2020-06-15</publishedDate>\n  </book>\n  <book id=\"102\">\n    <title>Web Technology</title>\n    <author>Goppa</author>\n    <pages>320</pages>\n    <publishedDate>2019-01-10</publishedDate>\n  </book>\n</library>\n```\n\nXSD File (library.xsd):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\">\n\n  <xs:element name=\"library\">\n    <xs:complexType>\n      <xs:sequence>\n        <xs:element name=\"book\" maxOccurs=\"unbounded\">\n          <xs:complexType>\n            <xs:sequence>\n              <xs:element name=\"title\" type=\"xs:string\"/>\n              <xs:element name=\"author\" type=\"xs:string\"/>\n              <xs:element name=\"pages\" type=\"xs:integer\"/>\n              <xs:element name=\"publishedDate\" type=\"xs:date\"/>\n            </xs:sequence>\n            <xs:attribute name=\"id\" type=\"xs:integer\" use=\"required\"/>\n          </xs:complexType>\n        </xs:element>\n      </xs:sequence>\n    </xs:complexType>\n  </xs:element>\n\n</xs:schema>\n```\nExplanation: 'book' is a complex type containing child elements (title:string, author:string, pages:integer, publishedDate:date) and an attribute 'id'.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-01",
+          "question": "Define web clients and web servers with examples.",
+          "answer": "Web Client:\nA web client is a software application or device that requests resources/services from a web server over the internet using HTTP/HTTPS protocols.\n- Examples: Web browsers (Google Chrome, Mozilla Firefox, Microsoft Edge), mobile apps that fetch data from APIs.\n- Role: Sends HTTP requests and renders the received HTML, CSS, JavaScript responses.\n\nWeb Server:\nA web server is software or hardware that stores, processes, and serves web content (HTML pages, images, files) to clients in response to their requests.\n- Examples: Apache HTTP Server, Nginx, Microsoft IIS, Node.js (with Express).\n- Role: Listens on port 80 (HTTP) or 443 (HTTPS), processes incoming requests, and sends appropriate responses.\n\nInteraction:\n1. Client (browser) sends HTTP GET request to server.\n2. Server locates the resource and sends HTTP response (200 OK with HTML content).\n3. Browser renders the received content for the user.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-09",
+          "question": "Write a HTML script using audio tag. Set the autoplay, preload and loop properties to appropriate values.",
+          "answer": "The HTML5 <audio> tag is used to embed audio content in a web page without requiring any third-party plugins.\n\nAttributes used:\n- autoplay: Audio starts playing automatically when the page loads.\n- preload: Hints to the browser how to load the audio. Values: 'auto' (load entire file), 'metadata' (load only metadata), 'none'.\n- loop: Audio repeats from the beginning once it ends.\n- controls: Shows play/pause, volume controls.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>HTML Audio Tag Demo</title>\n</head>\n<body>\n  <h2>Audio Player</h2>\n  <audio controls autoplay loop preload=\"auto\">\n    <source src=\"audio/sample.mp3\" type=\"audio/mpeg\">\n    <source src=\"audio/sample.ogg\" type=\"audio/ogg\">\n    Your browser does not support the audio element.\n  </audio>\n</body>\n</html>\n```\nNote: Multiple <source> tags provide fallback formats for browser compatibility. The browser plays the first supported format.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-07",
+          "question": "Write HTML script to demonstrate the onkeydown and onkeypress events.",
+          "answer": "HTML Keyboard Events:\n- onkeydown: Fires when a key is pressed down.\n- onkeypress: Fires when a key is pressed and a character is produced (does not fire for Shift, Ctrl, etc. alone).\n- onkeyup: Fires when a key is released.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Keyboard Events Demo</title>\n  <script>\n    function keyDownHandler(event) {\n      document.getElementById('output1').innerHTML =\n        'onkeydown: Key pressed = ' + event.key + ' (KeyCode: ' + event.keyCode + ')';\n    }\n    function keyPressHandler(event) {\n      document.getElementById('output2').innerHTML =\n        'onkeypress: Character = ' + event.key;\n    }\n  </script>\n</head>\n<body>\n  <h2>Keyboard Event Demo</h2>\n  <input type=\"text\"\n         onkeydown=\"keyDownHandler(event)\"\n         onkeypress=\"keyPressHandler(event)\"\n         placeholder=\"Type something here...\">\n  <p id=\"output1\">onkeydown result will appear here</p>\n  <p id=\"output2\">onkeypress result will appear here</p>\n</body>\n</html>\n```\nExplanation: When user types in the input box, onkeydown fires first (detects which key), then onkeypress fires if a printable character is produced.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-17",
+          "question": "Write a HTML script with proper JavaScript that will take an input from prompt box and display the input as output using the alert box.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Prompt and Alert Demo</title>\n  <script>\n    function getUserInput() {\n      var userInput = prompt(\"Please enter your name:\", \"Enter name here\");\n      if (userInput != null && userInput.trim() !== \"\") {\n        alert(\"Hello, \" + userInput + \"! Welcome to Web Technology.\");\n      } else {\n        alert(\"No input provided!\");\n      }\n    }\n  </script>\n</head>\n<body>\n  <h2>Prompt Box Demo</h2>\n  <button onclick=\"getUserInput()\">Click to Enter Your Name</button>\n</body>\n</html>\n```\nExplanation:\n- prompt(): Displays a dialog box with a message and an input field. Returns the entered string or null if cancelled.\n- alert(): Displays a dialog box with a message and an OK button. Used here to show the value entered by the user.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-13",
+          "question": "Create an HTML page containing three paragraphs p1, p2 and p3 with some contents. Write internal CSS to set the position of p1 to relative, p2 to float and p3 to absolute.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>CSS Positioning Demo</title>\n  <style>\n    body {\n      margin: 50px;\n    }\n    #p1 {\n      position: relative;\n      top: 20px;\n      left: 30px;\n      background-color: lightblue;\n      padding: 10px;\n    }\n    #p2 {\n      float: left;\n      width: 200px;\n      background-color: lightgreen;\n      padding: 10px;\n      margin-right: 20px;\n    }\n    #p3 {\n      position: absolute;\n      top: 200px;\n      left: 400px;\n      background-color: lightyellow;\n      padding: 10px;\n    }\n  </style>\n</head>\n<body>\n  <p id=\"p1\">Paragraph 1: I am positioned relatively (offset from normal position).</p>\n  <p id=\"p2\">Paragraph 2: I am floated to the left side.</p>\n  <p id=\"p3\">Paragraph 3: I am absolutely positioned at top:200px, left:400px.</p>\n</body>\n</html>\n```\nExplanation:\n- relative: Element is positioned relative to its normal position. top/left offsets apply.\n- float: Element is taken out of normal flow and floated left/right, allowing text/elements to wrap around it.\n- absolute: Element is positioned relative to the nearest positioned ancestor (or the document body).",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-18",
+          "question": "What is the use of alert box? Write a JavaScript program to show the use of RegExp object.",
+          "answer": "Alert Box:\nAn alert box is a JavaScript dialog box that displays a message to the user with an OK button. It is used to:\n- Show important messages or warnings.\n- Display output values for debugging.\n- Notify users of errors or successful operations.\nSyntax: alert('message');\n\nRegExp (Regular Expression) Object:\nThe RegExp object is used to match patterns in strings. It is useful for form validation, searching, and string manipulation.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>RegExp Demo</title>\n  <script>\n    function validateInput() {\n      var email = document.getElementById('email').value;\n      var phone = document.getElementById('phone').value;\n\n      // RegExp for email validation\n      var emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$/;\n      // RegExp for phone (10 digits)\n      var phonePattern = /^[0-9]{10}$/;\n\n      if (!emailPattern.test(email)) {\n        alert('Invalid email address!');\n      } else if (!phonePattern.test(phone)) {\n        alert('Phone must be exactly 10 digits!');\n      } else {\n        alert('All inputs are valid!');\n      }\n    }\n  </script>\n</head>\n<body>\n  <h2>RegExp Validation</h2>\n  Email: <input type=\"text\" id=\"email\" placeholder=\"Enter email\"><br><br>\n  Phone: <input type=\"text\" id=\"phone\" placeholder=\"Enter phone\"><br><br>\n  <button onclick=\"validateInput()\">Validate</button>\n</body>\n</html>\n```\nKey RegExp methods: test() — returns true/false, exec() — returns matched result.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-29",
+          "question": "Write a PHP program to demonstrate the concept of inheritance.",
+          "answer": "Inheritance in PHP allows a child class to inherit properties and methods from a parent class using the 'extends' keyword. This promotes code reuse and hierarchical class structure.\n\n```php\n<?php\n// Parent class\nclass Animal {\n    public $name;\n    public $sound;\n\n    public function __construct($name, $sound) {\n        $this->name = $name;\n        $this->sound = $sound;\n    }\n\n    public function makeSound() {\n        echo $this->name . \" says \" . $this->sound . \".<br>\";\n    }\n\n    public function describe() {\n        echo \"I am an animal named \" . $this->name . \".<br>\";\n    }\n}\n\n// Child class inheriting from Animal\nclass Dog extends Animal {\n    public $breed;\n\n    public function __construct($name, $breed) {\n        parent::__construct($name, \"Woof\"); // calling parent constructor\n        $this->breed = $breed;\n    }\n\n    public function showBreed() {\n        echo $this->name . \" is a \" . $this->breed . \".<br>\";\n    }\n}\n\n// Another child class\nclass Cat extends Animal {\n    public function __construct($name) {\n        parent::__construct($name, \"Meow\");\n    }\n}\n\n// Using classes\n$dog = new Dog(\"Rex\", \"Labrador\");\n$dog->describe();    // inherited from Animal\n$dog->makeSound();   // inherited from Animal\n$dog->showBreed();   // own method\n\n$cat = new Cat(\"Whiskers\");\n$cat->describe();    // inherited\n$cat->makeSound();   // inherited\n?>\n```\nOutput:\nI am an animal named Rex.\nRex says Woof.\nRex is a Labrador.\nI am an animal named Whiskers.\nWhiskers says Meow.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a PHP program to show insertion of multiple data into a database table.",
+          "answer": "```php\n<?php\n// Database connection\n$conn = mysqli_connect(\"localhost\", \"root\", \"\", \"school_db\");\n\nif (!$conn) {\n    die(\"Connection failed: \" . mysqli_connect_error());\n}\n\n// Multiple student records to insert\n$students = [\n    ['Ram Sharma', 'ram@example.com', 20],\n    ['Sita Thapa', 'sita@example.com', 21],\n    ['Hari Prasad', 'hari@example.com', 22],\n    ['Gita Devi', 'gita@example.com', 19]\n];\n\n// Prepare INSERT statement\n$stmt = $conn->prepare(\"INSERT INTO students (name, email, age) VALUES (?, ?, ?)\");\n$stmt->bind_param(\"ssi\", $name, $email, $age);\n\nforeach ($students as $student) {\n    $name  = $student[0];\n    $email = $student[1];\n    $age   = $student[2];\n    $stmt->execute();\n    echo \"Inserted: $name<br>\";\n}\n\n$stmt->close();\n$conn->close();\necho \"All records inserted successfully!\";\n?>\n```\nNote: The table 'students' must exist with columns (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), email VARCHAR(100), age INT). Using prepared statements prevents SQL injection.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "web-04",
+          "question": "Create a PHP form with form elements. Write a program to perform form validation. Use your own assumptions for the validation.",
+          "answer": "```php\n<?php\n$nameErr = $emailErr = $phoneErr = \"\";\n$name = $email = $phone = \"\";\n\nif ($_SERVER[\"REQUEST_METHOD\"] == \"POST\") {\n    // Validate Name\n    if (empty($_POST[\"name\"])) {\n        $nameErr = \"Name is required.\";\n    } else {\n        $name = trim($_POST[\"name\"]);\n        if (strlen($name) < 3) {\n            $nameErr = \"Name must be at least 3 characters.\";\n        }\n    }\n    // Validate Email\n    if (empty($_POST[\"email\"])) {\n        $emailErr = \"Email is required.\";\n    } else {\n        $email = trim($_POST[\"email\"]);\n        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {\n            $emailErr = \"Invalid email format.\";\n        }\n    }\n    // Validate Phone\n    if (empty($_POST[\"phone\"])) {\n        $phoneErr = \"Phone is required.\";\n    } else {\n        $phone = trim($_POST[\"phone\"]);\n        if (!preg_match('/^[0-9]{10}$/', $phone)) {\n            $phoneErr = \"Phone must be exactly 10 digits.\";\n        }\n    }\n    // If no errors, display success\n    if ($nameErr == \"\" && $emailErr == \"\" && $phoneErr == \"\") {\n        echo \"<h3>Form submitted successfully!</h3>\";\n        echo \"Name: $name <br> Email: $email <br> Phone: $phone\";\n        exit;\n    }\n}\n?>\n<!DOCTYPE html>\n<html>\n<head><title>PHP Form Validation</title></head>\n<body>\n  <h2>Registration Form</h2>\n  <form method=\"POST\" action=\"<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>\">\n    Name: <input type=\"text\" name=\"name\" value=\"<?php echo $name; ?>\">\n    <span style=\"color:red\"><?php echo $nameErr; ?></span><br><br>\n    Email: <input type=\"text\" name=\"email\" value=\"<?php echo $email; ?>\">\n    <span style=\"color:red\"><?php echo $emailErr; ?></span><br><br>\n    Phone: <input type=\"text\" name=\"phone\" value=\"<?php echo $phone; ?>\">\n    <span style=\"color:red\"><?php echo $phoneErr; ?></span><br><br>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2081",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-22",
+          "question": "Describe the rules for creating XML document. Create a XML file with simple type and elements with attribute and nested elements. Write its equivalent XSD.",
+          "answer": "Rules for Creating XML Documents:\n1. Every XML document must have a single root element.\n2. All elements must be properly closed (e.g., <name></name> or <name/>).\n3. XML tags are case-sensitive (<Name> and <name> are different).\n4. Elements must be properly nested (no overlapping tags).\n5. Attribute values must be quoted (single or double).\n6. XML declaration is recommended: <?xml version=\"1.0\" encoding=\"UTF-8\"?>\n7. Special characters must use entities: &amp; &lt; &gt; &apos; &quot;\n\nXML File (students.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<university>\n  <student rollno=\"101\">\n    <name>Ram Sharma</name>\n    <age>20</age>\n    <address>\n      <city>Kathmandu</city>\n      <country>Nepal</country>\n    </address>\n  </student>\n  <student rollno=\"102\">\n    <name>Sita Thapa</name>\n    <age>21</age>\n    <address>\n      <city>Pokhara</city>\n      <country>Nepal</country>\n    </address>\n  </student>\n</university>\n```\n\nEquivalent XSD (students.xsd):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\">\n  <xs:element name=\"university\">\n    <xs:complexType>\n      <xs:sequence>\n        <xs:element name=\"student\" maxOccurs=\"unbounded\">\n          <xs:complexType>\n            <xs:sequence>\n              <xs:element name=\"name\" type=\"xs:string\"/>\n              <xs:element name=\"age\" type=\"xs:integer\"/>\n              <xs:element name=\"address\">\n                <xs:complexType>\n                  <xs:sequence>\n                    <xs:element name=\"city\" type=\"xs:string\"/>\n                    <xs:element name=\"country\" type=\"xs:string\"/>\n                  </xs:sequence>\n                </xs:complexType>\n              </xs:element>\n            </xs:sequence>\n            <xs:attribute name=\"rollno\" type=\"xs:integer\" use=\"required\"/>\n          </xs:complexType>\n        </xs:element>\n      </xs:sequence>\n    </xs:complexType>\n  </xs:element>\n</xs:schema>\n```",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-04",
+          "question": "Create an HTML file containing form with textbox, select and radio button. Now write a javascript function for validating the form elements. Validate textbox for required, select field should have some value selected and radio button should be checked.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Form Validation</title>\n  <script>\n    function validateForm() {\n      var name = document.getElementById('name').value;\n      var country = document.getElementById('country').value;\n      var gender = document.getElementsByName('gender');\n      var genderChecked = false;\n\n      // Validate textbox\n      if (name.trim() === \"\") {\n        alert(\"Name is required!\");\n        return false;\n      }\n      // Validate select\n      if (country === \"\" || country === \"Select Country\") {\n        alert(\"Please select a country!\");\n        return false;\n      }\n      // Validate radio button\n      for (var i = 0; i < gender.length; i++) {\n        if (gender[i].checked) {\n          genderChecked = true;\n          break;\n        }\n      }\n      if (!genderChecked) {\n        alert(\"Please select a gender!\");\n        return false;\n      }\n      alert(\"Form submitted successfully!\");\n      return true;\n    }\n  </script>\n</head>\n<body>\n  <h2>Registration Form</h2>\n  <form onsubmit=\"return validateForm()\">\n    Name: <input type=\"text\" id=\"name\" placeholder=\"Enter your name\"><br><br>\n    Country:\n    <select id=\"country\">\n      <option value=\"\">Select Country</option>\n      <option value=\"Nepal\">Nepal</option>\n      <option value=\"India\">India</option>\n      <option value=\"USA\">USA</option>\n    </select><br><br>\n    Gender:\n    <input type=\"radio\" name=\"gender\" value=\"Male\"> Male\n    <input type=\"radio\" name=\"gender\" value=\"Female\"> Female<br><br>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a PHP program to create a form. Create an insertdb() method to insert the form values into a database table and display() to display the database table value.",
+          "answer": "```php\n<?php\n$conn = mysqli_connect(\"localhost\", \"root\", \"\", \"college_db\");\nif (!$conn) die(\"Connection Failed: \" . mysqli_connect_error());\n\nfunction insertdb($conn, $name, $email) {\n    $name  = mysqli_real_escape_string($conn, $name);\n    $email = mysqli_real_escape_string($conn, $email);\n    $sql = \"INSERT INTO users (name, email) VALUES ('$name', '$email')\";\n    if (mysqli_query($conn, $sql)) {\n        echo \"Record inserted successfully!<br>\";\n    } else {\n        echo \"Error: \" . mysqli_error($conn) . \"<br>\";\n    }\n}\n\nfunction display($conn) {\n    $sql = \"SELECT * FROM users\";\n    $result = mysqli_query($conn, $sql);\n    echo \"<h3>All Users:</h3>\";\n    echo \"<table border='1'><tr><th>ID</th><th>Name</th><th>Email</th></tr>\";\n    while ($row = mysqli_fetch_assoc($result)) {\n        echo \"<tr><td>\" . $row['id'] . \"</td><td>\" . $row['name'] . \"</td><td>\" . $row['email'] . \"</td></tr>\";\n    }\n    echo \"</table>\";\n}\n\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    insertdb($conn, $_POST['name'], $_POST['email']);\n    display($conn);\n}\nmysqli_close($conn);\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <h2>Add User</h2>\n  <form method=\"POST\">\n    Name:  <input type=\"text\" name=\"name\" required><br><br>\n    Email: <input type=\"email\" name=\"email\" required><br><br>\n    <input type=\"submit\" value=\"Insert & Display\">\n  </form>\n</body>\n</html>\n```\nNote: Create the 'users' table: CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), email VARCHAR(100));",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-03",
+          "question": "Describe client server architecture with its types.",
+          "answer": "Client-Server Architecture:\nA client-server architecture is a computing model where client machines request services/resources from a centralized server over a network.\n\nComponents:\n- Client: Requests resources or services. Examples: browsers, desktop apps.\n- Server: Provides resources, processes requests, and sends responses. Examples: Apache, Nginx, MySQL.\n\nTypes:\n1. One-Tier Architecture: All components (UI, logic, database) are on a single machine. Example: Standalone desktop application.\n\n2. Two-Tier Architecture: Client communicates directly with the database server. Example: Desktop app directly querying MySQL on a server.\n\n3. Three-Tier Architecture: Consists of Presentation Layer (client), Business Logic Layer (application server), and Data Layer (database server). Example: Web applications using PHP/Node.js with MySQL.\n\n4. N-Tier Architecture: Extension of three-tier with multiple layers for security, caching, load balancing, etc. Used in large enterprise applications.\n\nAdvantages: Centralized data management, scalability, easy maintenance, security control.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-05",
+          "question": "Write a HTML script to create a table with three rows and three columns. The second row third column should contain a text 'TU' with link set to www.tu.edu.np. The height of second row should be set to 200px.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>HTML Table Demo</title>\n</head>\n<body>\n  <h2>HTML Table Example</h2>\n  <table border=\"1\" cellpadding=\"10\" cellspacing=\"0\">\n    <!-- Row 1 -->\n    <tr>\n      <td>Row1 Col1</td>\n      <td>Row1 Col2</td>\n      <td>Row1 Col3</td>\n    </tr>\n    <!-- Row 2 with height 200px -->\n    <tr style=\"height: 200px;\">\n      <td>Row2 Col1</td>\n      <td>Row2 Col2</td>\n      <td><a href=\"http://www.tu.edu.np\">TU</a></td>\n    </tr>\n    <!-- Row 3 -->\n    <tr>\n      <td>Row3 Col1</td>\n      <td>Row3 Col2</td>\n      <td>Row3 Col3</td>\n    </tr>\n  </table>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-07",
+          "question": "What is onload event in HTML? Write an HTML script that displays alert message 'Hello Nepal' in onload event.",
+          "answer": "onload Event:\nThe onload event fires when a page or an element has finished loading completely. It is used to:\n- Execute JavaScript after the page is fully loaded.\n- Initialize scripts or display welcome messages.\n- Check user sessions or cookies on page load.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>onload Event Demo</title>\n  <script>\n    function pageLoaded() {\n      alert(\"Hello Nepal\");\n    }\n  </script>\n</head>\n<body onload=\"pageLoaded()\">\n  <h2>Welcome to the Page!</h2>\n  <p>The alert message appeared because the onload event fired when this page finished loading.</p>\n</body>\n</html>\n```\nAlternatively, onload can be used with window:\n```javascript\nwindow.onload = function() {\n  alert(\"Hello Nepal\");\n};\n```",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-14",
+          "question": "How internal and external CSS differ from each other. Illustrate with example.",
+          "answer": "Internal CSS:\n- Defined within the <style> tag inside the <head> section of the HTML document.\n- Applies styles only to the current HTML page.\n- Useful for single-page styling.\n\nExternal CSS:\n- Defined in a separate .css file and linked to the HTML file using the <link> tag.\n- Can be shared across multiple HTML pages.\n- Best practice for maintaining consistent styling across a website.\n\nComparison:\n| Feature         | Internal CSS              | External CSS              |\n|-----------------|---------------------------|---------------------------|\n| Location        | Inside <style> in <head>  | Separate .css file        |\n| Reusability     | Only current page         | Multiple pages            |\n| Maintenance     | Harder to maintain        | Easy to maintain          |\n| Loading speed   | Slightly faster (1 file)  | Slightly slower (extra request) |\n\nInternal CSS Example:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    p { color: blue; font-size: 18px; }\n  </style>\n</head>\n<body>\n  <p>This paragraph uses internal CSS.</p>\n</body>\n</html>\n```\n\nExternal CSS (styles.css):\n```css\np { color: green; font-size: 20px; }\n```\nHTML using external CSS:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\">\n</head>\n<body>\n  <p>This paragraph uses external CSS.</p>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-16",
+          "question": "How can you define array in javascript? Create an array Fruit with its elements 'apple', 'banana', 'mango', 'grape' and print the array.",
+          "answer": "Defining Arrays in JavaScript:\nAn array is a special variable that can hold multiple values in a single variable. Arrays are zero-indexed.\n\nWays to define an array:\n1. Array literal: var arr = ['a', 'b', 'c'];\n2. Array constructor: var arr = new Array('a', 'b', 'c');\n3. Empty array then add: var arr = []; arr[0] = 'a';\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>JavaScript Array Demo</title>\n  <script>\n    window.onload = function() {\n      // Define array using literal syntax\n      var Fruit = ['apple', 'banana', 'mango', 'grape'];\n\n      // Print entire array\n      document.getElementById('arr').innerHTML = 'Array: ' + Fruit;\n\n      // Print each element using for loop\n      var output = 'Elements:<br>';\n      for (var i = 0; i < Fruit.length; i++) {\n        output += 'Fruit[' + i + '] = ' + Fruit[i] + '<br>';\n      }\n      document.getElementById('elements').innerHTML = output;\n    };\n  </script>\n</head>\n<body>\n  <h2>Fruit Array</h2>\n  <p id=\"arr\"></p>\n  <p id=\"elements\"></p>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-25",
+          "question": "How can you transform XML document into HTML using XSLT. Support your answer with an example.",
+          "answer": "XSLT (Extensible Stylesheet Language Transformations) is a language used to transform XML documents into other formats such as HTML, plain text, or another XML structure.\n\nHow it works:\n1. An XML document contains data.\n2. An XSLT stylesheet defines transformation rules using templates.\n3. An XSLT processor applies the stylesheet to the XML and produces the output (HTML).\n\nXML File (students.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"students.xsl\"?>\n<students>\n  <student>\n    <name>Ram</name>\n    <grade>A</grade>\n  </student>\n  <student>\n    <name>Sita</name>\n    <grade>B</grade>\n  </student>\n</students>\n```\n\nXSLT File (students.xsl):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<xsl:stylesheet version=\"1.0\"\n  xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\">\n\n  <xsl:template match=\"/\">\n    <html>\n    <body>\n      <h2>Student List</h2>\n      <table border=\"1\">\n        <tr>\n          <th>Name</th>\n          <th>Grade</th>\n        </tr>\n        <xsl:for-each select=\"students/student\">\n          <tr>\n            <td><xsl:value-of select=\"name\"/></td>\n            <td><xsl:value-of select=\"grade\"/></td>\n          </tr>\n        </xsl:for-each>\n      </table>\n    </body>\n    </html>\n  </xsl:template>\n\n</xsl:stylesheet>\n```\nThe browser reads the XML with the linked XSL and renders an HTML table of students.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-28",
+          "question": "Write a PHP function add that takes two arguments as an input and return their sum.",
+          "answer": "```php\n<?php\n// Function definition\nfunction add($num1, $num2) {\n    return $num1 + $num2;\n}\n\n// Function calls\n$result1 = add(10, 25);\necho \"Sum of 10 and 25 = \" . $result1 . \"<br>\";  // Output: 35\n\n$result2 = add(100, 200);\necho \"Sum of 100 and 200 = \" . $result2 . \"<br>\"; // Output: 300\n\n// Using with user input via a form\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    $a = (float)$_POST['num1'];\n    $b = (float)$_POST['num2'];\n    echo \"Sum = \" . add($a, $b);\n}\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <form method=\"POST\">\n    Number 1: <input type=\"number\" name=\"num1\"><br><br>\n    Number 2: <input type=\"number\" name=\"num2\"><br><br>\n    <input type=\"submit\" value=\"Calculate Sum\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-31",
+          "question": "Define cookie. Write a PHP program to create and retrieve a cookie.",
+          "answer": "Cookie:\nA cookie is a small piece of data stored on the client's (user's) browser by the web server. Cookies are used to:\n- Remember user preferences.\n- Track user sessions.\n- Store login information.\nCookies are sent with every HTTP request to the server automatically.\n\nPHP setcookie() Syntax:\nsetcookie(name, value, expiry, path, domain, secure, httponly)\n\n```php\n<?php\n// Create/Set a cookie\nsetcookie(\"username\", \"RamSharma\", time() + (86400 * 7), \"/\");\n// name='username', value='RamSharma', expires in 7 days, path='/' (whole site)\nsetcookie(\"userlevel\", \"admin\", time() + (86400 * 7), \"/\");\n\necho \"Cookie has been set!<br>\";\n\n// Retrieve a cookie\nif (isset($_COOKIE['username'])) {\n    echo \"Welcome back, \" . $_COOKIE['username'] . \"!<br>\";\n    echo \"Your level: \" . $_COOKIE['userlevel'] . \"<br>\";\n} else {\n    echo \"No cookie found. Please reload the page to see the cookie.\";\n}\n\n// Delete a cookie (set expiry in the past)\n// setcookie(\"username\", \"\", time() - 3600, \"/\");\n?>\n```\nNote: Cookies must be set before any HTML output is sent (before <!DOCTYPE> tag). Cookie values are accessible via the $_COOKIE superglobal array.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "web-15",
+          "question": "What is text-overflow property in CSS? How can you use clip and ellipsis in text-overflow?",
+          "answer": "text-overflow Property:\nThe CSS text-overflow property specifies how overflowed text content that is not displayed should be signaled to the user. It only works when:\n- overflow is set to hidden (or scroll).\n- white-space is set to nowrap (to prevent text wrapping).\n\nValues:\n- clip: Clips (hides) the overflowing text abruptly without any indicator.\n- ellipsis: Displays '...' (three dots) to indicate that text has been truncated.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>text-overflow Demo</title>\n  <style>\n    .clip-text {\n      width: 200px;\n      white-space: nowrap;\n      overflow: hidden;\n      text-overflow: clip;\n      border: 1px solid black;\n      padding: 5px;\n      margin-bottom: 10px;\n    }\n    .ellipsis-text {\n      width: 200px;\n      white-space: nowrap;\n      overflow: hidden;\n      text-overflow: ellipsis;\n      border: 1px solid black;\n      padding: 5px;\n    }\n  </style>\n</head>\n<body>\n  <h2>text-overflow Demo</h2>\n  <p>Using clip:</p>\n  <div class=\"clip-text\">This is a very long text that will be clipped abruptly.</div>\n  <p>Using ellipsis:</p>\n  <div class=\"ellipsis-text\">This is a very long text that will show ellipsis at the end.</div>\n</body>\n</html>\n```\nclip: cuts text off. ellipsis: shows '...' where text is cut off.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2080",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-04",
+          "question": "Write HTML script to create HTML form as below and perform form validation using JavaScript. Fields: Username (text), Password (text), Country (dropdown with Nepal), Gender (radio M/F), Submit button. Validation: username length at least 4 and required; password starts with a character and ends with # and is required; country and gender should be checked.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Form Validation</title>\n  <script>\n    function validate() {\n      var username = document.getElementById('username').value;\n      var password = document.getElementById('password').value;\n      var country  = document.getElementById('country').value;\n      var genders  = document.getElementsByName('gender');\n      var genderChecked = false;\n\n      // Validate username\n      if (username.trim() === \"\") {\n        alert(\"Username is required!\");\n        return false;\n      }\n      if (username.length < 4) {\n        alert(\"Username must be at least 4 characters!\");\n        return false;\n      }\n      // Validate password\n      if (password.trim() === \"\") {\n        alert(\"Password is required!\");\n        return false;\n      }\n      var pwPattern = /^[a-zA-Z].*#$/;\n      if (!pwPattern.test(password)) {\n        alert(\"Password must start with a letter and end with #!\");\n        return false;\n      }\n      // Validate country\n      if (country === \"\" || country === \"Select\") {\n        alert(\"Please select a country!\");\n        return false;\n      }\n      // Validate gender\n      for (var i = 0; i < genders.length; i++) {\n        if (genders[i].checked) { genderChecked = true; break; }\n      }\n      if (!genderChecked) {\n        alert(\"Please select a gender!\");\n        return false;\n      }\n      alert(\"Form submitted successfully!\");\n      return true;\n    }\n  </script>\n</head>\n<body>\n  <h2>Registration Form</h2>\n  <form onsubmit=\"return validate()\">\n    Username: <input type=\"text\" id=\"username\"><br><br>\n    Password: <input type=\"password\" id=\"password\"><br><br>\n    Country:\n    <select id=\"country\">\n      <option value=\"\">Select</option>\n      <option value=\"Nepal\">Nepal</option>\n      <option value=\"India\">India</option>\n    </select><br><br>\n    Gender:\n    <input type=\"radio\" name=\"gender\" value=\"M\"> M\n    <input type=\"radio\" name=\"gender\" value=\"F\"> F<br><br>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-22",
+          "question": "How XML is different from HTML? Write XML script to create XML document containing element Person having sub elements Age, Name and Pincode. Write equivalent XSD for validating restrictions: Age should be between 10 and 20, Name should accept only 'Ram' or 'Shyam', Pincode should be 3 digit.",
+          "answer": "XML vs HTML:\n| Feature        | XML                            | HTML                          |\n|----------------|--------------------------------|-------------------------------|\n| Purpose        | Store and transport data       | Display data in a browser     |\n| Tags           | User-defined                   | Predefined tags               |\n| Case-sensitive | Yes                            | No                            |\n| Closing tags   | Mandatory                      | Optional in some cases        |\n| Data focus     | Content-focused                | Presentation-focused          |\n| Validation     | DTD/XSD validates structure    | Browser renders even bad HTML |\n\nXML File (person.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Person>\n  <Name>Ram</Name>\n  <Age>15</Age>\n  <Pincode>441</Pincode>\n</Person>\n```\n\nXSD with Restrictions (person.xsd):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<xs:schema xmlns:xs=\"http://www.w3.org/2001/XMLSchema\">\n  <xs:element name=\"Person\">\n    <xs:complexType>\n      <xs:sequence>\n        <xs:element name=\"Name\">\n          <xs:simpleType>\n            <xs:restriction base=\"xs:string\">\n              <xs:enumeration value=\"Ram\"/>\n              <xs:enumeration value=\"Shyam\"/>\n            </xs:restriction>\n          </xs:simpleType>\n        </xs:element>\n        <xs:element name=\"Age\">\n          <xs:simpleType>\n            <xs:restriction base=\"xs:integer\">\n              <xs:minInclusive value=\"10\"/>\n              <xs:maxInclusive value=\"20\"/>\n            </xs:restriction>\n          </xs:simpleType>\n        </xs:element>\n        <xs:element name=\"Pincode\">\n          <xs:simpleType>\n            <xs:restriction base=\"xs:string\">\n              <xs:pattern value=\"[0-9]{3}\"/>\n            </xs:restriction>\n          </xs:simpleType>\n        </xs:element>\n      </xs:sequence>\n    </xs:complexType>\n  </xs:element>\n</xs:schema>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a server side script in PHP to illustrate inserting and selecting values to and from database table. Create required connection using your own assumptions.",
+          "answer": "```php\n<?php\n// Database connection\n$conn = mysqli_connect(\"localhost\", \"root\", \"\", \"studentdb\");\nif (!$conn) {\n    die(\"Connection failed: \" . mysqli_connect_error());\n}\n\n// Handle form submission: INSERT\nif ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['insert'])) {\n    $name  = mysqli_real_escape_string($conn, $_POST['name']);\n    $email = mysqli_real_escape_string($conn, $_POST['email']);\n    $sql = \"INSERT INTO students (name, email) VALUES ('$name', '$email')\";\n    if (mysqli_query($conn, $sql)) {\n        echo \"<p style='color:green'>Record inserted successfully!</p>\";\n    } else {\n        echo \"<p style='color:red'>Error: \" . mysqli_error($conn) . \"</p>\";\n    }\n}\n\n// SELECT all records\n$result = mysqli_query($conn, \"SELECT * FROM students\");\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <h2>Student Management</h2>\n  <form method=\"POST\">\n    Name:  <input type=\"text\" name=\"name\" required><br><br>\n    Email: <input type=\"email\" name=\"email\" required><br><br>\n    <input type=\"submit\" name=\"insert\" value=\"Insert Record\">\n  </form>\n  <h3>All Students:</h3>\n  <table border=\"1\">\n    <tr><th>ID</th><th>Name</th><th>Email</th></tr>\n    <?php while ($row = mysqli_fetch_assoc($result)): ?>\n    <tr>\n      <td><?= $row['id'] ?></td>\n      <td><?= $row['name'] ?></td>\n      <td><?= $row['email'] ?></td>\n    </tr>\n    <?php endwhile; ?>\n  </table>\n</body>\n</html>\n<?php mysqli_close($conn); ?>\n```\nCreate table: CREATE TABLE students (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), email VARCHAR(100));",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-01",
+          "question": "Describe the WWW, web client and web server.",
+          "answer": "WWW (World Wide Web):\nThe World Wide Web is a system of interlinked hypertext documents accessed via the Internet using a web browser. It was invented by Tim Berners-Lee in 1989. Key technologies: HTTP/HTTPS protocol, HTML for content, URLs for addressing, and browsers for accessing content.\n\nWeb Client:\nA web client is any program or device that requests and receives content from a web server.\n- Examples: Chrome, Firefox, Edge, mobile browsers, REST API clients.\n- The client sends an HTTP request (GET/POST) and processes the response (HTML, JSON, etc.).\n\nWeb Server:\nA web server is software (or hardware) that handles incoming HTTP requests from clients and returns appropriate responses.\n- Examples: Apache, Nginx, IIS.\n- Functions: Hosting websites, serving static/dynamic pages, handling CGI scripts, SSL termination.\n\nInteraction Flow:\n1. User types URL in browser (client).\n2. DNS resolves the domain to an IP address.\n3. Client sends HTTP GET request to server.\n4. Server processes the request and returns HTTP response (HTML, images, etc.).\n5. Browser renders the content for the user.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-07",
+          "question": "What are HTML keyboard events? Write a script to display a message 'Hello world' on keypress event.",
+          "answer": "HTML Keyboard Events:\nKeyboard events are triggered when the user interacts with the keyboard.\n- onkeydown: Fires when a key is pressed down.\n- onkeypress: Fires when a key produces a printable character (fires after keydown, before keyup).\n- onkeyup: Fires when a key is released.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Keyboard Event Demo</title>\n  <script>\n    function showMessage() {\n      document.getElementById('output').innerHTML = 'Hello world';\n    }\n  </script>\n</head>\n<body>\n  <h2>Keypress Event Demo</h2>\n  <input type=\"text\"\n         onkeypress=\"showMessage()\"\n         placeholder=\"Press any key...\">\n  <p id=\"output\"></p>\n</body>\n</html>\n```\nThe message 'Hello world' appears in the paragraph each time a key is pressed inside the input field.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-17",
+          "question": "How HTML elements are accessed using getElementById and getElementByTagName, illustrate using HTML script.",
+          "answer": "DOM Access Methods:\n1. getElementById(id): Returns the single element with the specified id attribute. Returns null if not found.\n2. getElementsByTagName(tag): Returns an HTMLCollection (array-like) of all elements with the specified tag name.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>DOM Access Demo</title>\n  <script>\n    function changeById() {\n      // getElementById returns a single element\n      var elem = document.getElementById('myPara');\n      elem.style.color = 'blue';\n      elem.innerHTML = 'Changed via getElementById!';\n    }\n    function changeByTag() {\n      // getElementsByTagName returns collection of all <p> elements\n      var paras = document.getElementsByTagName('p');\n      for (var i = 0; i < paras.length; i++) {\n        paras[i].style.backgroundColor = 'lightyellow';\n      }\n      document.getElementById('info').innerHTML =\n        'Total paragraphs found: ' + paras.length;\n    }\n  </script>\n</head>\n<body>\n  <p id=\"myPara\">This paragraph has id=myPara.</p>\n  <p>Second paragraph (no id).</p>\n  <p>Third paragraph (no id).</p>\n  <p id=\"info\"></p>\n  <button onclick=\"changeById()\">Change by ID</button>\n  <button onclick=\"changeByTag()\">Change all P tags</button>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-13",
+          "question": "How can you define position property for specifying specific positioning of an HTML element? Write internal CSS to illustrate position of an HTML div.",
+          "answer": "CSS Position Property:\nThe position property specifies the type of positioning method for an HTML element.\n\nValues:\n- static (default): Positioned according to the normal document flow. top/left/right/bottom have no effect.\n- relative: Positioned relative to its normal position. Offset with top/left/right/bottom.\n- absolute: Positioned relative to the nearest positioned ancestor (not static). Removed from normal flow.\n- fixed: Positioned relative to the browser viewport. Stays in place when scrolling.\n- sticky: Switches between relative and fixed based on scroll position.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>CSS Position Demo</title>\n  <style>\n    .static-div {\n      position: static;\n      background: lightgray;\n      padding: 10px;\n      margin: 5px;\n    }\n    .relative-div {\n      position: relative;\n      top: 20px;\n      left: 30px;\n      background: lightblue;\n      padding: 10px;\n      margin: 5px;\n    }\n    .absolute-div {\n      position: absolute;\n      top: 100px;\n      left: 300px;\n      background: lightgreen;\n      padding: 10px;\n      width: 200px;\n    }\n    .fixed-div {\n      position: fixed;\n      bottom: 10px;\n      right: 10px;\n      background: lightyellow;\n      padding: 10px;\n      border: 1px solid black;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"static-div\">Static Div (default flow)</div>\n  <div class=\"relative-div\">Relative Div (offset 20px top, 30px left from normal)</div>\n  <div class=\"absolute-div\">Absolute Div (100px from top, 300px from left of page)</div>\n  <div class=\"fixed-div\">Fixed Div (stays at bottom-right always)</div>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-20",
+          "question": "What is chaining in jQuery? Write a script to illustrate concept of chaining using slideUp and slideDown method.",
+          "answer": "jQuery Chaining:\nChaining allows multiple jQuery methods to be applied on the same element in a single line, one after another. jQuery returns the same jQuery object, so methods can be chained.\n\nBenefits:\n- Reduces code repetition.\n- Improves performance (element selected only once).\n- Makes code more readable.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>jQuery Chaining Demo</title>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <script>\n    $(document).ready(function(){\n      $(\"#btnChain\").click(function(){\n        // Chaining: slideUp then slideDown on the same element\n        $(\"#myDiv\")\n          .css(\"background-color\", \"lightcoral\")\n          .slideUp(1000)\n          .slideDown(1000);\n      });\n    });\n  </script>\n</head>\n<body>\n  <div id=\"myDiv\" style=\"width:250px; height:100px; background:lightblue; padding:15px;\">\n    I will slide up then down!\n  </div>\n  <br>\n  <button id=\"btnChain\">Start Chain Animation</button>\n</body>\n</html>\n```\nExplanation: .css() changes background, then .slideUp(1000) slides the div up over 1 second, then .slideDown(1000) slides it back down over 1 second — all chained on #myDiv.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-22",
+          "question": "What is XML? Why is it called extensible? Mention the use of XML.",
+          "answer": "XML (eXtensible Markup Language):\nXML is a markup language designed to store, transport, and structure data in a human-readable and machine-readable format. It was developed by the W3C.\n\nWhy is it called Extensible?\nXML is called extensible because:\n- Unlike HTML (which has fixed predefined tags like <p>, <h1>), XML allows users to define their own custom tags.\n- Users can extend XML to fit their specific needs — for example, <student>, <product>, <invoice> can all be valid XML tags.\n- New tags can be added without breaking existing applications.\n\nUses of XML:\n1. Data storage and transportation between applications.\n2. Web services (SOAP uses XML for messaging).\n3. Configuration files (Maven pom.xml, Android AndroidManifest.xml).\n4. RSS/Atom feeds for news syndication.\n5. Microsoft Office documents (.docx, .xlsx are actually XML inside ZIP).\n6. Database data exchange between different systems.\n7. SVG (Scalable Vector Graphics) is XML-based.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-27",
+          "question": "What is XMLHttpRequest object? Write HTML script with AJAX showing the use of XMLHttpRequest object.",
+          "answer": "XMLHttpRequest (XHR) Object:\nThe XMLHttpRequest object is a built-in JavaScript object used to interact with web servers asynchronously. It allows web pages to send and retrieve data from a server after the page has loaded without reloading the entire page. This is the core of AJAX (Asynchronous JavaScript and XML).\n\nKey methods/properties:\n- open(method, url, async): Initializes the request.\n- send(): Sends the request.\n- onreadystatechange: Event handler called when readyState changes.\n- readyState: 0=UNSENT, 1=OPENED, 2=HEADERS_RECEIVED, 3=LOADING, 4=DONE.\n- status: HTTP status code (200=OK, 404=Not Found).\n- responseText: Response as text.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>AJAX XMLHttpRequest Demo</title>\n  <script>\n    function loadData() {\n      var xhr = new XMLHttpRequest();\n      xhr.onreadystatechange = function() {\n        if (xhr.readyState == 4 && xhr.status == 200) {\n          document.getElementById('result').innerHTML = xhr.responseText;\n        } else if (xhr.readyState == 4) {\n          document.getElementById('result').innerHTML = 'Error loading data!';\n        }\n      };\n      xhr.open('GET', 'data.txt', true); // async = true\n      xhr.send();\n    }\n  </script>\n</head>\n<body>\n  <h2>AJAX with XMLHttpRequest</h2>\n  <button onclick=\"loadData()\">Load Data</button>\n  <div id=\"result\" style=\"margin-top:20px; padding:10px; border:1px solid #ccc;\">Click button to load data...</div>\n</body>\n</html>\n```\nNote: Create a 'data.txt' file on the server with some content. When button is clicked, XHR fetches data.txt asynchronously and displays in the div without page reload.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-28",
+          "question": "Write a PHP program that includes a function that will take two strings as input argument and print concatenation of two strings.",
+          "answer": "```php\n<?php\n// Function to concatenate two strings\nfunction concatenateStrings($str1, $str2) {\n    $result = $str1 . $str2; // PHP uses . for string concatenation\n    echo \"Concatenated String: \" . $result . \"<br>\";\n    return $result;\n}\n\n// Direct function calls\nconcatenateStrings(\"Hello, \", \"World!\");\nconcatenateStrings(\"Web \", \"Technology\");\nconcatenateStrings(\"CSC\", \"318\");\n\n// With user input from a form\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    $s1 = $_POST['str1'];\n    $s2 = $_POST['str2'];\n    concatenateStrings($s1, $s2);\n}\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <h2>String Concatenation</h2>\n  <form method=\"POST\">\n    String 1: <input type=\"text\" name=\"str1\"><br><br>\n    String 2: <input type=\"text\" name=\"str2\"><br><br>\n    <input type=\"submit\" value=\"Concatenate\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "web-31",
+          "question": "How can you handle session in PHP?",
+          "answer": "Sessions in PHP:\nA session is a mechanism to store user-specific information on the server side across multiple page requests. Unlike cookies (stored in browser), session data is stored on the server.\n\nHow PHP Sessions Work:\n1. session_start() initializes a session or resumes an existing one.\n2. Data is stored in the $_SESSION superglobal array.\n3. PHP assigns a unique session ID (stored in a cookie: PHPSESSID).\n4. Sessions end when: session_destroy() is called, browser is closed, or timeout occurs.\n\n```php\n<?php\n// page1.php - Start and set session\nsession_start();\n$_SESSION['username'] = 'RamSharma';\n$_SESSION['role'] = 'admin';\n$_SESSION['loginTime'] = date('Y-m-d H:i:s');\necho \"Session started. Username: \" . $_SESSION['username'] . \"<br>\";\necho \"<a href='page2.php'>Go to Page 2</a>\";\n?>\n```\n\n```php\n<?php\n// page2.php - Access session data\nsession_start();\nif (isset($_SESSION['username'])) {\n    echo \"Welcome, \" . $_SESSION['username'] . \"!<br>\";\n    echo \"Role: \" . $_SESSION['role'] . \"<br>\";\n    echo \"Login time: \" . $_SESSION['loginTime'] . \"<br>\";\n    echo \"<a href='logout.php'>Logout</a>\";\n} else {\n    echo \"No active session. Please login first.\";\n}\n?>\n```\n\n```php\n<?php\n// logout.php - Destroy session\nsession_start();\nsession_unset();    // remove all session variables\nsession_destroy();  // destroy the session\necho \"Logged out successfully. Session destroyed.\";\n?>\n```",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2079",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-23",
+          "question": "What is the use of XML? Create a XML file with simple type and complex type elements. Write its equivalent DTD.",
+          "answer": "Use of XML: (See web-22 answer for uses)\nXML is used to store, transport, and structure data in a platform-independent format useful for data exchange, configuration, and web services.\n\nXML File with Simple and Complex Types (bookstore.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE bookstore SYSTEM \"bookstore.dtd\">\n<bookstore>\n  <book category=\"fiction\">\n    <title>Harry Potter</title>\n    <author>J.K. Rowling</author>\n    <price>29.99</price>\n    <year>1997</year>\n  </book>\n  <book category=\"education\">\n    <title>Web Technology</title>\n    <author>Adesh Pandey</author>\n    <price>15.50</price>\n    <year>2018</year>\n  </book>\n</bookstore>\n```\nSimple type elements: title, author, price, year (contain only text content).\nComplex type elements: bookstore, book (contain child elements or attributes).\n\nDTD File (bookstore.dtd):\n```dtd\n<!ELEMENT bookstore (book+)>\n<!ELEMENT book (title, author, price, year)>\n<!ATTLIST book category CDATA #REQUIRED>\n<!ELEMENT title (#PCDATA)>\n<!ELEMENT author (#PCDATA)>\n<!ELEMENT price (#PCDATA)>\n<!ELEMENT year (#PCDATA)>\n```\nExplanation:\n- ELEMENT declares the element and its content model.\n- book+ means one or more book elements.\n- #PCDATA means parsed character data (text).\n- ATTLIST declares attributes; CDATA means character data; #REQUIRED means mandatory.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-04",
+          "question": "Create an HTML file containing form elements textbox for username, password field and a checkbox for hobbies. Write javascript function for form validation: username should not be empty, password should be at least 5 characters, checkbox should be checked.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Form Validation</title>\n  <script>\n    function validate() {\n      var username = document.getElementById('username').value;\n      var password = document.getElementById('password').value;\n      var hobbies = document.getElementsByName('hobby');\n      var hobbyChecked = false;\n\n      // Validate username\n      if (username.trim() === \"\") {\n        alert(\"Username cannot be empty!\");\n        return false;\n      }\n      // Validate password\n      if (password.length < 5) {\n        alert(\"Password must be at least 5 characters!\");\n        return false;\n      }\n      // Validate checkbox\n      for (var i = 0; i < hobbies.length; i++) {\n        if (hobbies[i].checked) { hobbyChecked = true; break; }\n      }\n      if (!hobbyChecked) {\n        alert(\"Please select at least one hobby!\");\n        return false;\n      }\n      alert(\"Form is valid! Submitted.\");\n      return true;\n    }\n  </script>\n</head>\n<body>\n  <h2>User Registration</h2>\n  <form onsubmit=\"return validate()\">\n    Username: <input type=\"text\" id=\"username\"><br><br>\n    Password: <input type=\"password\" id=\"password\"><br><br>\n    Hobbies:\n    <input type=\"checkbox\" name=\"hobby\" value=\"reading\"> Reading\n    <input type=\"checkbox\" name=\"hobby\" value=\"sports\"> Sports\n    <input type=\"checkbox\" name=\"hobby\" value=\"music\"> Music<br><br>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "How database connection is created in PHP? Write a PHP program to create a form and insert values into the database table. The form should contain at least two input fields.",
+          "answer": "Database Connection in PHP:\nPHP uses mysqli (MySQL Improved) or PDO to connect to a MySQL database.\nmysqli_connect(host, username, password, dbname) returns a connection object.\n\n```php\n<?php\n// Database connection\n$conn = mysqli_connect(\"localhost\", \"root\", \"\", \"university\");\nif (!$conn) {\n    die(\"Connection failed: \" . mysqli_connect_error());\n}\necho \"Connected successfully!<br>\";\n\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    $name    = mysqli_real_escape_string($conn, $_POST['name']);\n    $address = mysqli_real_escape_string($conn, $_POST['address']);\n    $phone   = mysqli_real_escape_string($conn, $_POST['phone']);\n\n    $sql = \"INSERT INTO students (name, address, phone) VALUES ('$name', '$address', '$phone')\";\n\n    if (mysqli_query($conn, $sql)) {\n        echo \"<p style='color:green'>Record inserted successfully! ID: \" . mysqli_insert_id($conn) . \"</p>\";\n    } else {\n        echo \"<p style='color:red'>Error: \" . mysqli_error($conn) . \"</p>\";\n    }\n    mysqli_close($conn);\n}\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <h2>Student Registration</h2>\n  <form method=\"POST\">\n    Full Name: <input type=\"text\" name=\"name\" required><br><br>\n    Address:   <input type=\"text\" name=\"address\" required><br><br>\n    Phone:     <input type=\"text\" name=\"phone\" required><br><br>\n    <input type=\"submit\" value=\"Register\">\n  </form>\n</body>\n</html>\n```\nCreate table: CREATE TABLE students (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), address VARCHAR(200), phone VARCHAR(15));",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-02",
+          "question": "Differentiate Web 1.0 from Web 2.0.",
+          "answer": "Web 1.0 vs Web 2.0:\n\n| Feature         | Web 1.0                            | Web 2.0                                |\n|-----------------|------------------------------------|----------------------------------------|\n| Era             | 1991-2004                          | 2004-present                           |\n| Nature          | Read-only (static)                 | Read-write (dynamic and interactive)   |\n| Content         | Created only by website owners     | Created by users (user-generated)      |\n| Technology      | HTML, CSS (basic)                  | HTML5, CSS3, JavaScript, AJAX, APIs    |\n| Interaction     | Passive browsing                   | Active participation and collaboration |\n| Examples        | Personal homepages, early portals  | Facebook, YouTube, Wikipedia, Twitter  |\n| Data sharing    | Limited, no sharing                | Social sharing, collaboration tools    |\n| Web pages       | Flat HTML files                    | Dynamic apps, web services             |\n| Personalization | None                               | Personalized feeds, recommendations    |\n\nSummary: Web 1.0 was a one-way information delivery system. Web 2.0 transformed the web into a participative social platform where users create, share, and collaborate on content.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-06",
+          "question": "Write a HTML script to generate following list of items: 1. Coffee: I. Black coffee II. Green coffee; 2. Tea: A. Black tea B. Green tea",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Nested Lists Demo</title>\n</head>\n<body>\n  <h2>Beverages</h2>\n  <!-- Outer ordered list with numeric type -->\n  <ol type=\"1\">\n    <li>Coffee\n      <!-- Inner ordered list with Roman numeral type -->\n      <ol type=\"I\">\n        <li>Black coffee</li>\n        <li>Green coffee</li>\n      </ol>\n    </li>\n    <li>Tea\n      <!-- Inner ordered list with uppercase alphabet type -->\n      <ol type=\"A\">\n        <li>Black tea</li>\n        <li>Green tea</li>\n      </ol>\n    </li>\n  </ol>\n</body>\n</html>\n```\nExplanation: The outer list uses type=\"1\" for numbering. The first sublist uses type=\"I\" (Roman numerals). The second sublist uses type=\"A\" (uppercase letters).",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-08",
+          "question": "Create a HTML page containing a div having id 'dv1'. The div should contain canvas element. The id of canvas should be 'mycanvas'. The height and width of canvas should be 200 and 300.",
+          "answer": "The HTML5 <canvas> element is used to draw graphics (shapes, lines, images, charts) via JavaScript. It requires JavaScript and a 2D/WebGL context to render drawings.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Canvas Demo</title>\n  <script>\n    window.onload = function() {\n      var canvas = document.getElementById('mycanvas');\n      var ctx = canvas.getContext('2d');\n\n      // Draw a rectangle\n      ctx.fillStyle = 'lightblue';\n      ctx.fillRect(20, 20, 150, 80);\n\n      // Draw a circle\n      ctx.beginPath();\n      ctx.arc(200, 100, 50, 0, 2 * Math.PI);\n      ctx.fillStyle = 'coral';\n      ctx.fill();\n\n      // Draw text\n      ctx.font = '18px Arial';\n      ctx.fillStyle = 'black';\n      ctx.fillText('CSIT Canvas', 80, 160);\n    };\n  </script>\n</head>\n<body>\n  <h2>HTML5 Canvas Example</h2>\n  <div id=\"dv1\" style=\"border: 2px solid #333; display: inline-block;\">\n    <canvas id=\"mycanvas\" width=\"300\" height=\"200\"\n            style=\"display:block;\">\n      Your browser does not support the HTML5 canvas tag.\n    </canvas>\n  </div>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-11",
+          "question": "What are the usages of class and id selectors in CSS? Illustrate with example.",
+          "answer": "CSS Selectors:\n\nID Selector (#id):\n- Selects a single unique element with a specific id attribute.\n- An id should be unique within a page (used once).\n- Syntax: #elementId { property: value; }\n- Higher specificity than class selector.\n\nClass Selector (.class):\n- Selects all elements that have a specific class attribute.\n- Multiple elements can share the same class.\n- Syntax: .className { property: value; }\n- An element can have multiple classes: class=\"class1 class2\"\n\nUsages:\n- ID: For unique page sections (header, footer, main content).\n- Class: For styling groups of similar elements (all buttons, all error messages).\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>CSS Selectors Demo</title>\n  <style>\n    /* ID selector - unique element */\n    #mainHeading {\n      color: darkblue;\n      font-size: 28px;\n      text-decoration: underline;\n    }\n    /* Class selector - multiple elements */\n    .highlight {\n      background-color: yellow;\n      padding: 5px;\n      margin: 5px;\n    }\n    .highlight.important {\n      border: 2px solid red;\n    }\n  </style>\n</head>\n<body>\n  <h1 id=\"mainHeading\">Welcome to CSIT</h1>\n  <p class=\"highlight\">This paragraph is highlighted.</p>\n  <p class=\"highlight important\">This is highlighted AND important.</p>\n  <p>This paragraph is plain (no class).</p>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-15",
+          "question": "What is word-wrap property in CSS? Write an HTML script to illustrate the word-wrap property.",
+          "answer": "word-wrap Property:\nThe CSS word-wrap property (also known as overflow-wrap) specifies whether the browser is allowed to break long words and wrap them onto the next line when they overflow their container.\n\nValues:\n- normal (default): Words only break at allowed break points (spaces, hyphens).\n- break-word: Long words are broken at arbitrary points to prevent overflow.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>word-wrap Demo</title>\n  <style>\n    .container {\n      width: 150px;\n      border: 2px solid black;\n      padding: 10px;\n      margin: 10px;\n      display: inline-block;\n      vertical-align: top;\n    }\n    .normal-wrap {\n      word-wrap: normal;\n      background-color: #ffcccc;\n    }\n    .break-wrap {\n      word-wrap: break-word;\n      background-color: #ccffcc;\n    }\n  </style>\n</head>\n<body>\n  <h2>word-wrap Demo</h2>\n  <div class=\"container normal-wrap\">\n    <strong>Normal:</strong><br>\n    Thisisaverylongwordwithoutanyspaces\n  </div>\n  <div class=\"container break-wrap\">\n    <strong>Break-word:</strong><br>\n    Thisisaverylongwordwithoutanyspaces\n  </div>\n</body>\n</html>\n```\nResult: The first div overflows; the second div wraps the long word within its boundary.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-19",
+          "question": "Describe the jQuery Animate() method. Write an html script to create a div with id 'mydiv'. The position should be set to absolute. Show use of animate method to move the div to right by 300px.",
+          "answer": "jQuery animate() Method:\nThe jQuery animate() method is used to create custom animations by gradually changing CSS properties of an element over a specified duration.\n\nSyntax: $(selector).animate({params}, speed, callback);\n- params: Object with CSS properties to animate (numeric values only, not color).\n- speed: Duration in milliseconds or 'slow'/'fast'.\n- callback: Optional function to run after animation completes.\n\nNote: Only numeric CSS properties can be animated (left, top, width, height, opacity, margin, etc.). The element must have position: absolute/relative/fixed for left/top to work.\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>jQuery Animate Demo</title>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <script>\n    $(document).ready(function(){\n      $(\"#btnAnimate\").click(function(){\n        $(\"#mydiv\").animate({\n          left: '300px',    // move right by 300px\n          opacity: '0.7',   // slightly transparent\n          width: '150px'    // increase width\n        }, 1000, function(){\n          alert(\"Animation complete!\");\n        });\n      });\n    });\n  </script>\n</head>\n<body>\n  <div id=\"mydiv\" style=\"position:absolute; left:0px; top:100px;\n       width:100px; height:80px; background:steelblue;\n       color:white; text-align:center; line-height:80px;\">\n    Animate Me\n  </div>\n  <br><br><br><br><br><br>\n  <button id=\"btnAnimate\" style=\"margin-top:100px;\">Animate Right</button>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-26",
+          "question": "What is XML Namespace? How it is used to avoid element name conflict in XML? Justify with an example.",
+          "answer": "XML Namespace:\nAn XML Namespace is a mechanism to avoid element name conflicts when XML documents from different vocabularies are combined. It associates element/attribute names with a URI (Uniform Resource Identifier) to make them globally unique.\n\nProblem without Namespaces:\nIf two XML vocabularies both define a <table> element, combining them causes ambiguity — is <table> a furniture table or an HTML table?\n\nSyntax: xmlns:prefix=\"URI\"\n- xmlns: declares a namespace.\n- prefix: A short alias used before element names.\n- URI: A unique identifier (often a URL, but doesn't need to resolve to anything).\n\nExample with conflict and solution:\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<root\n  xmlns:html=\"http://www.w3.org/1999/xhtml\"\n  xmlns:furniture=\"http://www.furniture.com/schema\">\n\n  <!-- HTML table element -->\n  <html:table>\n    <html:tr>\n      <html:td>Row 1, Cell 1</html:td>\n    </html:tr>\n  </html:table>\n\n  <!-- Furniture table element -->\n  <furniture:table>\n    <furniture:material>Wood</furniture:material>\n    <furniture:legs>4</furniture:legs>\n  </furniture:table>\n\n</root>\n```\nNow html:table and furniture:table are clearly different — no conflict. The URI is just a unique identifier, not necessarily a real website.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-29",
+          "question": "How can you define class and objects in PHP? Write a PHP script to create class and its object.",
+          "answer": "Classes and Objects in PHP:\nPHP supports Object-Oriented Programming (OOP). A class is a blueprint/template that defines properties (variables) and methods (functions). An object is an instance of a class.\n\nSyntax:\n- class ClassName { } — defines a class\n- $obj = new ClassName(); — creates an object (instance)\n- $this -> property — accesses properties inside class methods\n- __construct() — constructor called automatically on object creation\n\n```php\n<?php\n// Class definition\nclass Student {\n    // Properties\n    public $name;\n    public $rollno;\n    public $semester;\n\n    // Constructor\n    public function __construct($name, $rollno, $semester) {\n        $this->name     = $name;\n        $this->rollno   = $rollno;\n        $this->semester = $semester;\n    }\n\n    // Method\n    public function displayInfo() {\n        echo \"Name: \" . $this->name . \"<br>\";\n        echo \"Roll No: \" . $this->rollno . \"<br>\";\n        echo \"Semester: \" . $this->semester . \"<br>\";\n        echo \"---<br>\";\n    }\n\n    // Method to update semester\n    public function updateSemester($newSem) {\n        $this->semester = $newSem;\n    }\n}\n\n// Creating objects\n$student1 = new Student(\"Ram Sharma\", \"TU001\", 5);\n$student2 = new Student(\"Sita Thapa\", \"TU002\", 5);\n\n// Calling methods\n$student1->displayInfo();\n$student2->displayInfo();\n\n// Updating and displaying\n$student1->updateSemester(6);\necho \"After update:<br>\";\n$student1->displayInfo();\n?>\n```",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "web-28",
+          "question": "How can you define array in PHP? Write a PHP function to create an array of type integer and print its elements.",
+          "answer": "Arrays in PHP:\nAn array is a variable that stores multiple values. PHP supports three types of arrays:\n1. Indexed Array: Numeric indices. $arr = [1, 2, 3];\n2. Associative Array: Named keys. $arr = ['name'=>'Ram', 'age'=>20];\n3. Multidimensional Array: Arrays within arrays.\n\n```php\n<?php\nfunction createAndPrintIntArray() {\n    // Create integer array\n    $numbers = [10, 25, 37, 42, 58, 63, 71, 89, 94, 100];\n\n    echo \"Integer Array Elements:<br>\";\n\n    // Print using foreach loop\n    foreach ($numbers as $index => $value) {\n        echo \"numbers[$index] = $value<br>\";\n    }\n\n    // Array operations\n    echo \"<br>Sum: \" . array_sum($numbers) . \"<br>\";\n    echo \"Count: \" . count($numbers) . \"<br>\";\n    echo \"Max: \" . max($numbers) . \"<br>\";\n    echo \"Min: \" . min($numbers) . \"<br>\";\n\n    // Sort and print\n    sort($numbers);\n    echo \"Sorted: \" . implode(\", \", $numbers) . \"<br>\";\n}\n\n// Call the function\ncreateAndPrintIntArray();\n?>\n```",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2078",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-32",
+          "question": "How do you define an Array in PHP? Write a PHP script to create a multidimensional array name Product that will contain pcode, pname, and price. Initialize the array with at least three instances. Also, write an HTML script to display the initialized values of the array in an HTML Table.",
+          "answer": "```php\n<?php\n// Multidimensional array: array of associative arrays\n$Product = [\n    ['pcode' => 'P001', 'pname' => 'Laptop',     'price' => 75000],\n    ['pcode' => 'P002', 'pname' => 'Smartphone', 'price' => 35000],\n    ['pcode' => 'P003', 'pname' => 'Headphones', 'price' => 5000],\n    ['pcode' => 'P004', 'pname' => 'Keyboard',   'price' => 1500]\n];\n?>\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Product Array Table</title>\n  <style>\n    table { border-collapse: collapse; width: 60%; }\n    th, td { border: 1px solid black; padding: 10px; text-align: left; }\n    th { background-color: #4472C4; color: white; }\n    tr:nth-child(even) { background-color: #f2f2f2; }\n  </style>\n</head>\n<body>\n  <h2>Product List</h2>\n  <table>\n    <tr>\n      <th>Product Code</th>\n      <th>Product Name</th>\n      <th>Price (Rs.)</th>\n    </tr>\n    <?php foreach ($Product as $p): ?>\n    <tr>\n      <td><?= htmlspecialchars($p['pcode']) ?></td>\n      <td><?= htmlspecialchars($p['pname']) ?></td>\n      <td><?= htmlspecialchars($p['price']) ?></td>\n    </tr>\n    <?php endforeach; ?>\n  </table>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-04",
+          "question": "Create an HTML signup form with fields Name, Email, Password, and Age. Validate the form using JavaScript. Validate: all fields not empty, email should be valid, password at least 6 characters starting with alphabet and ending with digit, age between 8 and 60.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Signup Form Validation</title>\n  <script>\n    function validate() {\n      var name     = document.getElementById('name').value.trim();\n      var email    = document.getElementById('email').value.trim();\n      var password = document.getElementById('password').value;\n      var age      = parseInt(document.getElementById('age').value);\n\n      // Check empty fields\n      if (name === \"\" || email === \"\" || password === \"\" || isNaN(age)) {\n        alert(\"All fields are required!\");\n        return false;\n      }\n      // Validate email\n      var emailPattern = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;\n      if (!emailPattern.test(email)) {\n        alert(\"Please enter a valid email address!\");\n        return false;\n      }\n      // Validate password: min 6 chars, starts with letter, ends with digit\n      if (password.length < 6) {\n        alert(\"Password must be at least 6 characters!\");\n        return false;\n      }\n      var pwPattern = /^[a-zA-Z].*[0-9]$/;\n      if (!pwPattern.test(password)) {\n        alert(\"Password must start with a letter and end with a digit!\");\n        return false;\n      }\n      // Validate age\n      if (age < 8 || age > 60) {\n        alert(\"Age must be between 8 and 60!\");\n        return false;\n      }\n      alert(\"Registration successful! Welcome, \" + name + \"!\");\n      return true;\n    }\n  </script>\n</head>\n<body>\n  <h2>Signup Form</h2>\n  <form onsubmit=\"return validate()\">\n    Name:     <input type=\"text\" id=\"name\" placeholder=\"Enter your name\"><br><br>\n    Email:    <input type=\"text\" id=\"email\" placeholder=\"Enter email\"><br><br>\n    Password: <input type=\"password\" id=\"password\" placeholder=\"Min 6 chars\"><br><br>\n    Age:      <input type=\"number\" id=\"age\" placeholder=\"Age (8-60)\"><br><br>\n    <input type=\"submit\" value=\"Sign Up\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-14",
+          "question": "How external CSS is inserted in an HTML page? Create an HTML page with two paragraph tags with id p1 and p2, and one div tag with id dv1. Write an external CSS file as per the description: margin of paragraphs 100px top and 80px left, display block, dv1 padding left/right 30px/25px, background blue, font color red, font type Verdana, display none.",
+          "answer": "External CSS is linked to HTML using the <link> tag inside the <head> section:\n<link rel=\"stylesheet\" type=\"text/css\" href=\"filename.css\">\n\nExternal CSS File (style.css):\n```css\n/* Styles for paragraphs p1 and p2 using ID selector */\n#p1, #p2 {\n    margin-top: 100px;\n    margin-left: 80px;\n    display: block;\n    font-size: 16px;\n    color: #333;\n}\n\n/* Styles for div dv1 */\n#dv1 {\n    padding-left: 30px;\n    padding-right: 25px;\n    background-color: blue;\n    color: red;\n    font-family: Verdana, sans-serif;\n    display: none;\n}\n```\n\nHTML File (index.html):\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>External CSS Demo</title>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n</head>\n<body>\n  <p id=\"p1\">This is paragraph 1. It has margin 100px from top and 80px from left.</p>\n  <p id=\"p2\">This is paragraph 2. Same margins as p1 with block display.</p>\n  <div id=\"dv1\">\n    This div has blue background, red text, Verdana font.\n    It is currently hidden (display: none).\n  </div>\n</body>\n</html>\n```\nNote: dv1 has display:none so it is invisible. Use JavaScript or browser dev tools to toggle visibility.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-02",
+          "question": "What are the services provided under web 2.0?",
+          "answer": "Services Provided Under Web 2.0:\n\n1. Social Networking Services: Platforms for users to create profiles, connect, and share content. Examples: Facebook, LinkedIn, Instagram.\n\n2. Blogs and Wikis: User-generated content publishing. Users can write, edit, and collaborate. Examples: WordPress (blogs), Wikipedia (wiki).\n\n3. Web-based Applications (SaaS): Full applications running in the browser without installation. Examples: Google Docs, Gmail, Google Maps.\n\n4. Collaborative Platforms: Real-time collaboration tools. Examples: Google Drive, Slack, Trello.\n\n5. Multimedia Sharing: Upload, share, and stream audio/video. Examples: YouTube, SoundCloud, Flickr.\n\n6. Mashups: Combining data/functionality from multiple sources via APIs. Example: Google Maps + restaurant data = Zomato.\n\n7. Podcasting: Audio/video subscription-based content distribution.\n\n8. RSS/Atom Feeds: Syndication services allowing users to subscribe to content updates.\n\n9. Tagging and Folksonomies: User-defined tags to categorize and organize web content (hashtags on Twitter).\n\n10. E-commerce 2.0: User reviews, ratings, personalized recommendations. Example: Amazon, eBay.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-10",
+          "question": "Create an HTML page with its body containing a div. The div should contain an image within it. Create a link on the image to redirect to url http://www.tuiost.edu.np. Set the title to 'iost'. Add meta tag on the page.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>iost</title>\n  <!-- Meta tags -->\n  <meta charset=\"UTF-8\">\n  <meta name=\"description\" content=\"Tribhuvan University Institute of Science and Technology\">\n  <meta name=\"keywords\" content=\"iost, TU, csit, science, technology\">\n  <meta name=\"author\" content=\"CSIT Student\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n</head>\n<body>\n  <div id=\"imageContainer\" style=\"text-align:center; margin-top:50px;\">\n    <!-- Image wrapped in a link -->\n    <a href=\"http://www.tuiost.edu.np\" target=\"_blank\" title=\"Visit IOST Website\">\n      <img src=\"images/iost_logo.jpg\"\n           alt=\"IOST Logo\"\n           width=\"300\"\n           height=\"200\"\n           style=\"border: 2px solid #333;\">\n    </a>\n    <p>Click on the image to visit the IOST website.</p>\n  </div>\n</body>\n</html>\n```\nExplanation:\n- <meta> tags provide metadata: charset, viewport for mobile, keywords for SEO, description.\n- The <img> is wrapped inside <a href=\"...\"> to make the image a clickable link.\n- target=\"_blank\" opens the link in a new tab.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-19",
+          "question": "How jQuery id selector can be used to select specific element? Write an example with jQuery that will hide a paragraph on clicking a button.",
+          "answer": "jQuery ID Selector:\nThe jQuery ID selector (#id) selects a single, unique HTML element using its id attribute. It is equivalent to document.getElementById() in vanilla JavaScript but returns a jQuery object with many built-in methods.\nSyntax: $('#elementId')\n- # prefix indicates an ID selector.\n- Selects only ONE element (IDs should be unique per page).\n- Methods can be chained directly: $('#para').hide().css('color','red')\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>jQuery ID Selector Demo</title>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <script>\n    $(document).ready(function(){\n      // When button with id 'hideBtn' is clicked\n      $('#hideBtn').click(function(){\n        // Select paragraph with id 'myPara' and hide it\n        $('#myPara').hide(500); // 500ms animation\n      });\n      // Show button to reveal paragraph again\n      $('#showBtn').click(function(){\n        $('#myPara').show(500);\n      });\n    });\n  </script>\n</head>\n<body>\n  <h2>jQuery ID Selector Demo</h2>\n  <p id=\"myPara\" style=\"background:lightyellow; padding:15px; font-size:18px;\">\n    This paragraph will be hidden when you click the Hide button.\n  </p>\n  <button id=\"hideBtn\">Hide Paragraph</button>\n  <button id=\"showBtn\">Show Paragraph</button>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-06",
+          "question": "Create an HTML page containing ordered and unordered lists. Set the value of ordered list type to 'A'. The list should start at 'D'.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>HTML Lists Demo</title>\n</head>\n<body>\n  <h2>HTML Lists Example</h2>\n\n  <!-- Ordered list with type A (uppercase letters) starting at D (4th letter = start=4) -->\n  <h3>Ordered List (Type A, Start at D):</h3>\n  <ol type=\"A\" start=\"4\">\n    <li>Database Systems</li>\n    <li>Engineering Mathematics</li>\n    <li>Foundation of Programming</li>\n    <li>Graphics Design</li>\n  </ol>\n\n  <!-- Unordered list -->\n  <h3>Unordered List:</h3>\n  <ul>\n    <li>Web Technology</li>\n    <li>Cryptography</li>\n    <li>Simulation and Modeling</li>\n    <li>Multimedia Computing</li>\n  </ul>\n</body>\n</html>\n```\nExplanation: type=\"A\" sets uppercase letter numbering. start=\"4\" begins the list at the 4th letter in the sequence which is 'D' (A=1, B=2, C=3, D=4).",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-21",
+          "question": "Discuss about different JSON data types.",
+          "answer": "JSON (JavaScript Object Notation) Data Types:\nJSON is a lightweight, text-based data interchange format. It supports the following data types:\n\n1. String: Text enclosed in double quotes.\n   Example: \"name\": \"Ram Sharma\"\n\n2. Number: Integer or floating-point numbers (no quotes).\n   Example: \"age\": 21, \"gpa\": 3.75\n\n3. Boolean: true or false (lowercase).\n   Example: \"isStudent\": true, \"isGraduated\": false\n\n4. Null: Represents an empty or unknown value.\n   Example: \"middleName\": null\n\n5. Array: An ordered list of values enclosed in square brackets.\n   Example: \"subjects\": [\"Web Tech\", \"Crypto\", \"Simulation\"]\n\n6. Object: An unordered collection of key-value pairs enclosed in curly braces.\n   Example: \"address\": {\"city\": \"Kathmandu\", \"country\": \"Nepal\"}\n\nFull Example:\n```json\n{\n  \"id\": 101,\n  \"name\": \"Ram Sharma\",\n  \"gpa\": 3.8,\n  \"isActive\": true,\n  \"middleName\": null,\n  \"subjects\": [\"Web Tech\", \"Cryptography\"],\n  \"address\": {\n    \"city\": \"Kathmandu\",\n    \"zip\": \"44600\"\n  }\n}\n```\nNote: JSON keys must always be strings (double-quoted). JSON does NOT support comments, undefined, or functions.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-23",
+          "question": "What is DTD? Create an XML file and write its equivalent DTD.",
+          "answer": "DTD (Document Type Definition):\nA DTD defines the legal structure of an XML document — which elements are allowed, their order, how many times they can appear, and what attributes they can have. DTD can be internal (inside the XML) or external (separate .dtd file).\n\nDTD Declaration types:\n- <!ELEMENT>: Declares an element and its content model.\n- <!ATTLIST>: Declares attributes for elements.\n- <!ENTITY>: Declares entity shortcuts.\n- Content models: (#PCDATA) = text, (child1, child2) = sequence, (a|b) = choice, + = one or more, * = zero or more, ? = optional.\n\nXML File (college.xml):\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE college SYSTEM \"college.dtd\">\n<college>\n  <department name=\"CSIT\">\n    <student>\n      <id>1001</id>\n      <name>Ram Sharma</name>\n      <semester>5</semester>\n    </student>\n    <student>\n      <id>1002</id>\n      <name>Sita Thapa</name>\n      <semester>5</semester>\n    </student>\n  </department>\n</college>\n```\n\nDTD File (college.dtd):\n```dtd\n<!ELEMENT college (department+)>\n<!ELEMENT department (student+)>\n<!ATTLIST department name CDATA #REQUIRED>\n<!ELEMENT student (id, name, semester)>\n<!ELEMENT id (#PCDATA)>\n<!ELEMENT name (#PCDATA)>\n<!ELEMENT semester (#PCDATA)>\n```",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-28",
+          "question": "How can you define function in PHP? Create a function that will take two integers as argument and will return product of them.",
+          "answer": "Functions in PHP:\nA PHP function is a reusable block of code that performs a specific task. Functions are defined using the function keyword.\n\nSyntax:\nfunction functionName($param1, $param2) {\n    // code\n    return value;\n}\n\nTypes of functions:\n1. Built-in functions: strlen(), array_sum(), date(), etc.\n2. User-defined functions: Created by the programmer.\n\n```php\n<?php\n// Function definition\nfunction multiply($num1, $num2) {\n    $product = $num1 * $num2;\n    return $product;\n}\n\n// Function calls\n$result1 = multiply(5, 10);\necho \"5 × 10 = \" . $result1 . \"<br>\";\n\n$result2 = multiply(12, 25);\necho \"12 × 25 = \" . $result2 . \"<br>\";\n\n// With user input\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    $a = (int)$_POST['a'];\n    $b = (int)$_POST['b'];\n    $res = multiply($a, $b);\n    echo \"$a × $b = $res<br>\";\n}\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <form method=\"POST\">\n    Number 1: <input type=\"number\" name=\"a\"><br><br>\n    Number 2: <input type=\"number\" name=\"b\"><br><br>\n    <input type=\"submit\" value=\"Multiply\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-12",
+          "question": "Describe CSS Box model with example.",
+          "answer": "CSS Box Model:\nEvery HTML element is treated as a rectangular box. The CSS Box Model describes the space occupied by each element through four layers:\n\n1. Content: The actual content (text, image, etc.). Controlled by width and height.\n2. Padding: Transparent space between content and border. Controlled by padding property.\n3. Border: A line surrounding the padding. Controlled by border property.\n4. Margin: Transparent space outside the border. Controlled by margin property. Separates element from others.\n\nTotal element width = width + padding-left + padding-right + border-left + border-right + margin-left + margin-right\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>CSS Box Model Demo</title>\n  <style>\n    .box {\n      /* Content area */\n      width: 250px;\n      height: 100px;\n      /* Padding: space inside border */\n      padding: 20px;\n      /* Border */\n      border: 5px solid darkblue;\n      /* Margin: space outside border */\n      margin: 30px auto;\n      background-color: lightyellow;\n      font-family: Arial;\n    }\n    .info {\n      font-size: 12px;\n      color: #555;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"box\">\n    This is the content area.<br>\n    <span class=\"info\">\n      Content: 250×100px | Padding: 20px | Border: 5px | Margin: 30px\n    </span>\n  </div>\n  <p style=\"text-align:center;\">\n    Total width = 250 + 20+20 + 5+5 + 30+30 = 360px\n  </p>\n</body>\n</html>\n```",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "Model",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-23",
+          "question": "Write the structure of XML file with example. Write XML and DTD to describe 'weather report' as an element and 'date, location, city, state and temperature range' as its attributes.",
+          "answer": "Structure of XML File:\nAn XML file has the following structure:\n1. XML Declaration: <?xml version=\"1.0\" encoding=\"UTF-8\"?>\n2. DOCTYPE declaration (optional, for DTD reference).\n3. Root element (exactly one).\n4. Child elements nested inside the root.\n5. Attributes within element opening tags.\n6. Text content inside elements.\n7. Comments: <!-- comment -->\n8. Closing tags matching every opening tag.\n\nXML File (weather.xml) with 'weather_report' element and attributes:\n```xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE weather_report SYSTEM \"weather.dtd\">\n<weather_report\n  date=\"2082-01-15\"\n  location=\"South Asia\"\n  city=\"Kathmandu\"\n  state=\"Bagmati\"\n  temperature_range=\"15-25C\">\n  <description>Partly cloudy with mild temperatures expected throughout the day.</description>\n  <humidity>65%</humidity>\n  <wind_speed>12 km/h</wind_speed>\n</weather_report>\n```\n\nDTD File (weather.dtd):\n```dtd\n<!ELEMENT weather_report (description, humidity, wind_speed)>\n<!ATTLIST weather_report\n  date             CDATA #REQUIRED\n  location         CDATA #REQUIRED\n  city             CDATA #REQUIRED\n  state            CDATA #REQUIRED\n  temperature_range CDATA #REQUIRED\n>\n<!ELEMENT description (#PCDATA)>\n<!ELEMENT humidity (#PCDATA)>\n<!ELEMENT wind_speed (#PCDATA)>\n```\nExplanation: All five properties (date, location, city, state, temperature_range) are defined as CDATA (character data) attributes of weather_report and are all REQUIRED.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-04",
+          "question": "Write HTML script to create HTML form and perform validation using javascript. Validate: username not empty, password at least 5 characters, checkbox should be checked.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Form Validation</title>\n  <script>\n    function validateForm() {\n      var username = document.getElementById('username').value.trim();\n      var password = document.getElementById('password').value;\n      var agree    = document.getElementById('agree').checked;\n\n      if (username === \"\") {\n        alert(\"Username cannot be empty!\");\n        return false;\n      }\n      if (password.length < 5) {\n        alert(\"Password must be at least 5 characters!\");\n        return false;\n      }\n      if (!agree) {\n        alert(\"You must check the Terms and Conditions checkbox!\");\n        return false;\n      }\n      alert(\"Form validated and submitted successfully!\");\n      return true;\n    }\n  </script>\n</head>\n<body>\n  <h2>User Registration</h2>\n  <form onsubmit=\"return validateForm()\">\n    Username:\n    <input type=\"text\" id=\"username\" placeholder=\"Enter username\"><br><br>\n    Password:\n    <input type=\"password\" id=\"password\" placeholder=\"Min 5 characters\"><br><br>\n    <input type=\"checkbox\" id=\"agree\">\n    I agree to the Terms and Conditions<br><br>\n    <input type=\"submit\" value=\"Register\">\n    <input type=\"reset\" value=\"Clear\">\n  </form>\n</body>\n</html>\n```",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a PHP program to insert and select value to and from database.",
+          "answer": "```php\n<?php\n$conn = mysqli_connect(\"localhost\", \"root\", \"\", \"mydb\");\nif (!$conn) die(\"Error: \" . mysqli_connect_error());\n\nif ($_SERVER['REQUEST_METHOD'] == 'POST') {\n    $name  = mysqli_real_escape_string($conn, $_POST['name']);\n    $email = mysqli_real_escape_string($conn, $_POST['email']);\n    $insertSQL = \"INSERT INTO members (name, email) VALUES ('$name', '$email')\";\n    if (mysqli_query($conn, $insertSQL)) {\n        echo \"<p style='color:green;'>Inserted successfully!</p>\";\n    } else {\n        echo \"<p style='color:red;'>Error: \" . mysqli_error($conn) . \"</p>\";\n    }\n}\n\n$selectSQL = \"SELECT * FROM members ORDER BY id DESC\";\n$result = mysqli_query($conn, $selectSQL);\n?>\n<!DOCTYPE html>\n<html>\n<body>\n  <h2>Member Management</h2>\n  <form method=\"POST\">\n    Name:  <input type=\"text\" name=\"name\" required><br><br>\n    Email: <input type=\"email\" name=\"email\" required><br><br>\n    <input type=\"submit\" value=\"Insert\">\n  </form>\n  <h3>Members Table:</h3>\n  <table border=\"1\" cellpadding=\"8\">\n    <tr><th>ID</th><th>Name</th><th>Email</th></tr>\n    <?php while ($row = mysqli_fetch_assoc($result)): ?>\n    <tr>\n      <td><?= $row['id'] ?></td>\n      <td><?= htmlspecialchars($row['name']) ?></td>\n      <td><?= htmlspecialchars($row['email']) ?></td>\n    </tr>\n    <?php endwhile; ?>\n  </table>\n</body>\n</html>\n<?php mysqli_close($conn); ?>\n```",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-02",
+          "question": "Difference between Static and Dynamic website.",
+          "answer": "Static vs Dynamic Website:\n\n| Feature           | Static Website                        | Dynamic Website                           |\n|-------------------|---------------------------------------|-------------------------------------------|\n| Content           | Fixed, same for all users             | Changes based on user/time/database       |\n| Technology        | HTML, CSS only                        | HTML, CSS, JavaScript, PHP, databases     |\n| Server-side code  | No server-side processing             | Server-side scripting (PHP, Node.js, etc) |\n| Database          | Not required                          | Required (MySQL, MongoDB, etc.)           |\n| Interactivity     | No user interaction                   | Highly interactive, user-driven           |\n| Update method     | Developer manually edits HTML files   | CMS or backend updates database           |\n| Loading speed     | Very fast                             | Slightly slower (server processing)       |\n| Cost              | Low (simple hosting)                  | Higher (server + database)                |\n| Examples          | Personal portfolios, brochure sites   | E-commerce, social media, web apps        |\n| Maintenance       | Requires technical knowledge to update| Non-technical users can update via CMS    |\n\nSummary: Static websites display the same HTML content to every visitor. Dynamic websites generate content on-the-fly based on user requests, database content, and server-side logic.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-07",
+          "question": "Create a registration form with the elements Name, Country, Gender and a submit button which displays a message 'Registered' on keypress event.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Registration Form</title>\n  <script>\n    function showRegistered() {\n      document.getElementById('message').innerHTML = 'Registered';\n      document.getElementById('message').style.color = 'green';\n      document.getElementById('message').style.fontWeight = 'bold';\n    }\n  </script>\n</head>\n<body>\n  <h2>Registration Form</h2>\n  <form>\n    Name:\n    <input type=\"text\" id=\"name\" name=\"name\"\n           onkeypress=\"showRegistered()\"\n           placeholder=\"Enter your name\"><br><br>\n\n    Country:\n    <select name=\"country\">\n      <option value=\"\">Select Country</option>\n      <option value=\"Nepal\">Nepal</option>\n      <option value=\"India\">India</option>\n      <option value=\"USA\">USA</option>\n    </select><br><br>\n\n    Gender:\n    <input type=\"radio\" name=\"gender\" value=\"Male\"> Male\n    <input type=\"radio\" name=\"gender\" value=\"Female\"> Female<br><br>\n\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n  <p id=\"message\"></p>\n</body>\n</html>\n```\nNote: The onkeypress event on the Name field triggers showRegistered() which displays the 'Registered' message whenever a key is pressed inside the Name input.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-12",
+          "question": "Explain CSS box model.",
+          "answer": "CSS Box Model:\nThe CSS Box Model is the fundamental layout concept in CSS. Every element on a web page is treated as a rectangular box with four layers:\n\n1. Content Box: The innermost area where text and images appear. Size defined by width and height properties.\n\n2. Padding: Transparent space between the content and the border. Adds space inside the element. Set with: padding, padding-top, padding-right, padding-bottom, padding-left.\n\n3. Border: A line around the padding. Can have different styles (solid, dashed, dotted). Set with: border-width, border-style, border-color.\n\n4. Margin: Transparent space outside the border. Separates the element from neighboring elements. Set with: margin, margin-top, margin-right, margin-bottom, margin-left.\n\nBox Sizing Formula (default box-sizing: content-box):\nTotal Width = width + padding-left + padding-right + border-left + border-right\nTotal Height = height + padding-top + padding-bottom + border-top + border-bottom\n(Margin is NOT included in element's own dimensions but affects layout spacing)\n\nDiagram Layout (outer to inner):\n[ Margin | Border | Padding | Content ]\n\nExample: A div with width:200px, padding:15px, border:5px → total rendered width = 200+15+15+5+5 = 240px.\n\nTip: Use box-sizing: border-box to include padding and border in the width/height calculation.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-16",
+          "question": "Write a client side script to display the array ['Cherry', 'Mango', 'Watermelon', 'Strawberry'] in the body of HTML.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Array Display Demo</title>\n  <script>\n    window.onload = function() {\n      var fruits = ['Cherry', 'Mango', 'Watermelon', 'Strawberry'];\n\n      // Method 1: Display as plain text\n      document.getElementById('plainText').innerHTML = 'Array: ' + fruits.toString();\n\n      // Method 2: Display as unordered list\n      var listHTML = '<ul>';\n      for (var i = 0; i < fruits.length; i++) {\n        listHTML += '<li>' + fruits[i] + '</li>';\n      }\n      listHTML += '</ul>';\n      document.getElementById('fruitList').innerHTML = listHTML;\n\n      // Method 3: Using forEach\n      var output = '';\n      fruits.forEach(function(fruit, index) {\n        output += index + ': ' + fruit + '<br>';\n      });\n      document.getElementById('indexed').innerHTML = output;\n    };\n  </script>\n</head>\n<body>\n  <h2>Fruit Array Display</h2>\n  <h3>Plain Text:</h3>\n  <p id=\"plainText\"></p>\n  <h3>Unordered List:</h3>\n  <div id=\"fruitList\"></div>\n  <h3>Indexed:</h3>\n  <div id=\"indexed\"></div>\n</body>\n</html>\n```",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-29",
+          "question": "How can you define class and objects in PHP? Write a PHP script to create class and its object.",
+          "answer": "See 2079 Q11 for complete answer.\n\n```php\n<?php\nclass Car {\n    // Properties\n    public $brand;\n    public $model;\n    public $year;\n    private $speed = 0;\n\n    // Constructor\n    public function __construct($brand, $model, $year) {\n        $this->brand = $brand;\n        $this->model = $model;\n        $this->year  = $year;\n    }\n\n    // Methods\n    public function displayInfo() {\n        echo \"Car: \" . $this->brand . \" \" . $this->model . \" (\" . $this->year . \")<br>\";\n    }\n\n    public function accelerate($amount) {\n        $this->speed += $amount;\n        echo $this->brand . \" is now going \" . $this->speed . \" km/h<br>\";\n    }\n\n    public function getSpeed() {\n        return $this->speed;\n    }\n}\n\n// Creating objects\n$car1 = new Car(\"Toyota\", \"Corolla\", 2022);\n$car2 = new Car(\"Honda\", \"Civic\", 2021);\n\n$car1->displayInfo();\n$car1->accelerate(60);\n$car1->accelerate(40);\n\n$car2->displayInfo();\n$car2->accelerate(80);\n\necho \"Car2 current speed: \" . $car2->getSpeed() . \" km/h<br>\";\n?>\n```",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-24",
+          "question": "Compare XML Schema with DTD.",
+          "answer": "XML Schema (XSD) vs DTD:\n\n| Feature              | DTD                                  | XML Schema (XSD)                        |\n|----------------------|--------------------------------------|-----------------------------------------|\n| Full Form            | Document Type Definition             | XML Schema Definition                   |\n| Syntax               | Not XML syntax (own syntax)          | Written in XML syntax                   |\n| Data Types           | Limited (PCDATA, CDATA only)         | Rich (string, integer, date, boolean, custom) |\n| Namespace support    | No                                   | Yes, full namespace support             |\n| Occurrence control   | ?, *, + (basic)                      | minOccurs, maxOccurs (precise control)  |\n| Restrictions         | Cannot define value restrictions     | Can restrict values (min, max, pattern) |\n| Reusability          | Limited reuse                        | Types can be defined and reused         |\n| Extensibility        | Poor                                 | Supports inheritance and extension      |\n| Readability          | Less readable                        | More verbose but readable as XML        |\n| Complexity           | Simple for basic validation          | More complex but very powerful          |\n| Default values       | Basic support                        | Full support for defaults/fixed values  |\n\nConclusion: DTD is simpler and older. XSD is more powerful, uses XML syntax, supports data types, namespaces, and complex restrictions. XSD is preferred for modern applications.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-19",
+          "question": "What is JQuery animate? Explain with an example.",
+          "answer": "See 2079 Q9 for complete answer.\n\nJQuery animate() allows you to create custom animations on HTML elements by gradually changing their CSS property values.\n\nSyntax: $(selector).animate({properties}, speed, easing, callback)\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>jQuery animate Demo</title>\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>\n  <style>\n    #animBox {\n      position: absolute;\n      left: 10px;\n      top: 80px;\n      width: 80px;\n      height: 80px;\n      background-color: tomato;\n      border-radius: 5px;\n    }\n  </style>\n  <script>\n    $(document).ready(function(){\n      $(\"#startBtn\").click(function(){\n        $(\"#animBox\").animate({ left: '400px', opacity: 0.4, height: '150px', width: '150px' }, 1500,\n          function(){ $(\"#animBox\").animate({ left: '10px', opacity: 1, height: '80px', width: '80px' }, 1000); }\n        );\n      });\n    });\n  </script>\n</head>\n<body>\n  <button id=\"startBtn\">Animate Box</button><br><br>\n  <div id=\"animBox\"></div>\n</body>\n</html>\n```\nThe box moves right to 400px, grows, and fades, then returns to original position via a callback animation.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "web-28",
+          "question": "Create a PHP array of string type and concatenate them to form a sentence and display it.",
+          "answer": "```php\n<?php\n// PHP array of string type\n$words = [\"Web\", \"Technology\", \"is\", \"an\", \"important\", \"subject\", \"in\", \"CSIT\", \"Fifth\", \"Semester\"];\n\n// Method 1: Using implode() to join with spaces\n$sentence1 = implode(\" \", $words);\necho \"Using implode: \" . $sentence1 . \"<br><br>\";\n\n// Method 2: Manual concatenation using foreach\n$sentence2 = \"\";\nforeach ($words as $word) {\n    $sentence2 .= $word . \" \";\n}\n$sentence2 = rtrim($sentence2); // remove trailing space\necho \"Using foreach: \" . $sentence2 . \"<br><br>\";\n\n// Method 3: Using for loop with . operator\n$sentence3 = \"\";\nfor ($i = 0; $i < count($words); $i++) {\n    if ($i < count($words) - 1) {\n        $sentence3 .= $words[$i] . \" \";\n    } else {\n        $sentence3 .= $words[$i];\n    }\n}\necho \"Using for loop: \" . $sentence3 . \"<br>\";\n\n// Display total word count\necho \"Total words: \" . count($words) . \"<br>\";\necho \"Sentence length: \" . strlen($sentence1) . \" characters<br>\";\n?>\n```",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "web-10",
+          "question": "Create an HTML page with a link containing mail to info@iost.edu.np in the footer tag. Set the keywords 'iost', 'csit' using meta tag in the page.",
+          "answer": "```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>IOST - Institute of Science and Technology</title>\n  <!-- Meta tags with keywords -->\n  <meta charset=\"UTF-8\">\n  <meta name=\"keywords\" content=\"iost, csit, tribhuvan university, science, technology, nepal\">\n  <meta name=\"description\" content=\"Institute of Science and Technology, Tribhuvan University\">\n  <meta name=\"author\" content=\"IOST\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    body { font-family: Arial; margin: 0; padding: 0; }\n    header { background: #003366; color: white; padding: 20px; text-align: center; }\n    main { padding: 40px; min-height: 300px; }\n    footer {\n      background: #333;\n      color: white;\n      text-align: center;\n      padding: 20px;\n    }\n    footer a { color: #FFD700; text-decoration: none; }\n    footer a:hover { text-decoration: underline; }\n  </style>\n</head>\n<body>\n  <header>\n    <h1>Institute of Science and Technology</h1>\n    <p>Tribhuvan University, Nepal</p>\n  </header>\n  <main>\n    <h2>Welcome to IOST</h2>\n    <p>This is the official website of the Institute of Science and Technology.</p>\n  </main>\n  <footer>\n    <p>Contact us:\n      <a href=\"mailto:info@iost.edu.np\">info@iost.edu.np</a>\n    </p>\n    <p>&copy; 2082 IOST, Tribhuvan University</p>\n  </footer>\n</body>\n</html>\n```\nExplanation: mailto: in the href attribute creates an email link that opens the user's default email client. The meta keywords tag sets SEO keywords 'iost' and 'csit'.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "mockPapers": [
+    {
+      "id": "mock-1",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-22",
+          "question": "What is XML? Explain the structure of an XML document with a complete example. Write the equivalent XSD with at least one restriction.",
+          "answer": "XML (eXtensible Markup Language) is a markup language for storing and transporting structured data. See web-22 answer for full XML + XSD with restrictions.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-04",
+          "question": "Create an HTML form with Name, Email, Phone and Password fields. Write a JavaScript function to validate: Name is required, Email is valid format, Phone is 10 digits, Password is at least 8 characters.",
+          "answer": "See web-04 (2078 Q2) answer pattern for complete form validation code with all specified field validations.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a complete PHP script to create a student registration form, insert data into a MySQL database, and display all records from the table.",
+          "answer": "See web-30 (2080 Q3) answer for complete PHP insert + select with form.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-01",
+          "question": "Describe WWW. Explain the role of HTTP protocol in web communication. Differentiate between HTTP and HTTPS.",
+          "answer": "WWW is the system of interlinked hypertext documents accessed via the Internet. HTTP (HyperText Transfer Protocol) is the foundational protocol for data communication on the web. HTTP uses port 80 (unencrypted). HTTPS uses port 443 with SSL/TLS encryption for secure transmission of data.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-07",
+          "question": "Explain all HTML keyboard events (onkeydown, onkeypress, onkeyup) with a complete script demonstrating all three.",
+          "answer": "See web-07 (2082 Q6) answer for complete keyboard events demonstration.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-12",
+          "question": "Explain the CSS Box Model with a diagram description and a working HTML/CSS example showing all four layers.",
+          "answer": "See web-12 (2078 Q11) answer for complete box model explanation and example.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-19",
+          "question": "Write a jQuery script that demonstrates three effects: fadeIn, fadeOut, and animate on the same div element.",
+          "answer": "See web-19 (2079 Q9 and Model Q10) answers for jQuery animate and effects examples.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-27",
+          "question": "What is AJAX? Explain its working with a diagram description. Write a script that uses XMLHttpRequest to fetch data from a server and update the page without reloading.",
+          "answer": "AJAX (Asynchronous JavaScript and XML) allows web pages to update asynchronously by exchanging small amounts of data with the server behind the scenes. See web-27 (2080 Q10) for complete XMLHttpRequest script.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-31",
+          "question": "Explain PHP sessions. Write a complete multi-page PHP script demonstrating session creation, access, and destruction.",
+          "answer": "See web-31 (2080 Q12) answer for complete session handling across multiple pages.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-29",
+          "question": "Explain OOP concepts in PHP. Write a PHP script demonstrating class, object, constructor, method, inheritance, and method overriding.",
+          "answer": "See web-29 (2082 Q10) answer for complete PHP OOP with inheritance example.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "id": "mock-2",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "web-23",
+          "question": "Explain DTD. Create an XML document for a library system and write its complete DTD.",
+          "answer": "See web-23 (2079 Q1 and 2078 Q9) answers for complete DTD examples.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "web-20",
+          "question": "Explain jQuery selectors with at least four types. Write a script demonstrating chaining of slideToggle, css, and animate methods.",
+          "answer": "See web-20 (2080 Q8) and web-19 (2082 Q2) answers for comprehensive jQuery selectors and chaining.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "web-30",
+          "question": "Write a PHP program to create a login form. Validate credentials against a database table and use sessions to maintain login state.",
+          "answer": "```php\n<?php\nsession_start();\n$conn = mysqli_connect('localhost','root','','mydb');\nif ($_SERVER['REQUEST_METHOD']=='POST') {\n    $u = mysqli_real_escape_string($conn, $_POST['username']);\n    $p = md5($_POST['password']); // hash password\n    $r = mysqli_query($conn, \"SELECT * FROM users WHERE username='$u' AND password='$p'\");\n    if (mysqli_num_rows($r) == 1) {\n        $_SESSION['user'] = $u;\n        echo \"Login successful! Welcome, $u\";\n    } else { echo \"Invalid credentials!\"; }\n}\n?>\n<form method='POST'>\nUsername: <input type='text' name='username'><br>\nPassword: <input type='password' name='password'><br>\n<input type='submit' value='Login'>\n</form>",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "web-02",
+          "question": "What is Web 2.0? List and explain at least five services provided under Web 2.0 with examples.",
+          "answer": "See web-02 (2078 Q4) answer for complete Web 2.0 services explanation.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "web-17",
+          "question": "Explain DOM (Document Object Model). Write a JavaScript script using getElementById, getElementsByClassName, and querySelector to manipulate page elements.",
+          "answer": "DOM is a programming interface for HTML documents — it represents the page as a tree of nodes. getElementById, getElementsByClassName, querySelector are DOM access methods. See web-17 (2080 Q6) for complete DOM manipulation example.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "web-13",
+          "question": "Explain all five values of the CSS position property with examples: static, relative, absolute, fixed, sticky.",
+          "answer": "See web-13 (2080 Q7) answer for complete CSS positioning explanation with all values.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "web-16",
+          "question": "Explain JavaScript arrays. Demonstrate array creation, access, modification, and the use of push, pop, shift, unshift, splice, and sort methods.",
+          "answer": "See web-16 (2081 Q8) answer for complete JavaScript array operations and methods.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "web-25",
+          "question": "Explain XSLT. Write a complete example transforming an XML document of student records into an HTML table using XSLT.",
+          "answer": "See web-25 (2081 Q9) answer for complete XSLT transformation example.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "web-31",
+          "question": "Compare cookies and sessions in PHP. Write PHP scripts demonstrating cookie creation, retrieval, and deletion.",
+          "answer": "Cookies are stored in the browser (client-side); sessions are stored on the server. See web-31 (2081 Q11) for complete cookie example and web-31 (2080 Q12) for complete session example.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "web-28",
+          "question": "Explain built-in string functions in PHP. Write a script demonstrating strlen, strtoupper, strtolower, strrev, str_replace, substr, and explode.",
+          "answer": "```php\n<?php\n$str = \"Hello Web Technology CSIT\";\necho strlen($str) . \"<br>\";         // 25\necho strtoupper($str) . \"<br>\";     // HELLO WEB TECHNOLOGY CSIT\necho strtolower($str) . \"<br>\";     // hello web technology csit\necho strrev($str) . \"<br>\";         // TICSC YGOLONHCET beW olleH\necho str_replace(\"CSIT\",\"BSc\",$str).\"<br>\"; // Hello Web Technology BSc\necho substr($str, 6, 3) . \"<br>\";   // Web\n$arr = explode(\" \", $str);\nprint_r($arr);                       // Array of words\n?>",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "patternAnalysis": {
+    "guaranteed": [
+      "web-04",
+      "web-30",
+      "web-22"
+    ],
+    "likely": [
+      "web-07",
+      "web-19",
+      "web-28",
+      "web-29",
+      "web-23",
+      "web-13",
+      "web-31",
+      "web-02",
+      "web-01",
+      "web-14"
+    ],
+    "wildcards": [
+      "web-05",
+      "web-08",
+      "web-09",
+      "web-25",
+      "web-26",
+      "web-27",
+      "web-21",
+      "web-32"
+    ],
+    "priorityOrder": [
+      "web-04",
+      "web-30",
+      "web-22",
+      "web-07",
+      "web-19",
+      "web-28",
+      "web-29",
+      "web-23",
+      "web-24",
+      "web-31",
+      "web-13",
+      "web-02",
+      "web-01",
+      "web-14",
+      "web-20",
+      "web-17",
+      "web-11",
+      "web-12",
+      "web-16",
+      "web-15",
+      "web-03",
+      "web-27",
+      "web-25",
+      "web-06",
+      "web-10",
+      "web-18",
+      "web-21",
+      "web-26",
+      "web-05",
+      "web-08",
+      "web-09",
+      "web-32"
+    ],
+    "notes": "SECTION A (3 questions, attempt 2, 10 marks each): Section A always features ONE XML/XSD/DTD question (web-22, web-23, web-24), ONE HTML Form + JavaScript Validation question (web-04), and ONE PHP database question (web-30). These three topics are GUARANTEED in Section A every year across all 6 papers — they form the backbone of the exam.\n\nSECTION B (9 questions, attempt 8, 5 marks each): Q4 almost always covers Web Basics (WWW/Client-Server/Web1.0 vs 2.0). HTML events (web-07) appear in 4 of 6 papers. jQuery (web-19, web-20) appears in 5 of 6 papers — extremely important. PHP (web-28, web-29) always appears in 2-3 Section B questions. CSS positioning (web-13) appears in 3 papers; CSS Box Model (web-12) appears in 2 papers.\n\nFREQUENCY ANALYSIS (out of 6 papers):\n- web-04 (Form Validation): 6/6 — GUARANTEED\n- web-30 (PHP Database): 5/6 — GUARANTEED  \n- web-22 (XML structure): 5/6 — GUARANTEED\n- web-07 (HTML Events): 4/6 — HIGH\n- web-19 (jQuery): 5/6 — HIGH\n- web-28 (PHP Functions): 5/6 — HIGH\n- web-29 (PHP OOP): 3/6 — LIKELY\n- web-23 (DTD): 3/6 — LIKELY\n- web-31 (Cookies/Sessions): 2/6 — LIKELY\n- web-02 (Web 1.0/2.0): 3/6 — LIKELY\n\nEXAM STRATEGY: Master XML+XSD+DTD thoroughly (appears in both Section A long questions AND Section B). Form validation with JavaScript is mandatory every year. PHP database operations (insert/select) appear EVERY year in Section A. jQuery animate/chaining/selectors is a near-certain Section B question. Always at least 2 PHP questions in Section B (functions/OOP/cookies/sessions)."
+  }
+}

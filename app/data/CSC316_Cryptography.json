@@ -1,0 +1,1265 @@
+{
+  "subject": "Cryptography",
+  "code": "CSC316",
+  "topics": [
+    {
+      "id": "crypto-01",
+      "name": "Security Concepts (CIA Triad, Threats, Attacks, Mechanisms)",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [1]
+        }
+      ]
+    },
+    {
+      "id": "crypto-02",
+      "name": "Classical Ciphers: Substitution (Caesar, Playfair, Hill, Vigenere)",
+      "unit": "Unit 1",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [5, 10]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [4, 10]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [4]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [5]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [5, 10]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [5]
+        }
+      ]
+    },
+    {
+      "id": "crypto-03",
+      "name": "Classical Ciphers: Transposition (Rail Fence)",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [10]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [11]
+        }
+      ]
+    },
+    {
+      "id": "crypto-04",
+      "name": "Block vs. Stream Ciphers, Symmetric vs. Asymmetric",
+      "unit": "Unit 1",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2079",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [10]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [1]
+        }
+      ]
+    },
+    {
+      "id": "crypto-06",
+      "name": "DES, Double DES, Triple DES, and Feistel Structure",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [3]
+        }
+      ]
+    },
+    {
+      "id": "crypto-07",
+      "name": "Finite Fields, Galois Fields, Polynomial Arithmetic",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [2, 9]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [3, 11]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [10]
+        }
+      ]
+    },
+    {
+      "id": "crypto-08",
+      "name": "International Data Encryption Standard (IDEA)",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [6]
+        }
+      ]
+    },
+    {
+      "id": "crypto-09",
+      "name": "Advanced Encryption Standard (AES)",
+      "unit": "Unit 2",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [1]
+        }
+      ]
+    },
+    {
+      "id": "crypto-10",
+      "name": "Modes of Block Cipher Encryptions (ECB, CBC, CFB, OFB, CTR)",
+      "unit": "Unit 2",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [6]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [11]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [3]
+        }
+      ]
+    },
+    {
+      "id": "crypto-11",
+      "name": "Number Theory (Primes, Fermat, Euler, Extended Euclidean, Discrete Log)",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [7]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [8]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [10]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [8]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [8]
+        }
+      ]
+    },
+    {
+      "id": "crypto-12",
+      "name": "Primality Testing (Miller-Rabin Algorithm)",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [8]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [12]
+        }
+      ]
+    },
+    {
+      "id": "crypto-14",
+      "name": "Key Distribution, Diffie-Hellman, Man-in-the-Middle Attack",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [3]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [12]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [11]
+        }
+      ]
+    },
+    {
+      "id": "crypto-15",
+      "name": "RSA Algorithm",
+      "unit": "Unit 3",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [1]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [2]
+        }
+      ]
+    },
+    {
+      "id": "crypto-16",
+      "name": "Elgamal Cryptographic System",
+      "unit": "Unit 3",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [3]
+        }
+      ]
+    },
+    {
+      "id": "crypto-18",
+      "name": "Hash Functions (MD4, MD5, SHA-1, SHA-2, Properties)",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [3]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [3]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [9]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [4]
+        }
+      ]
+    },
+    {
+      "id": "crypto-19",
+      "name": "Digital Signatures (Direct, Arbitrated, DSS, RSA approach)",
+      "unit": "Unit 4",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [8]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [9]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [2]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [6]
+        }
+      ]
+    },
+    {
+      "id": "crypto-20",
+      "name": "Authentication Systems (One-way, Mutual, Challenge-Response)",
+      "unit": "Unit 5",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [12]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [5]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [7]
+        }
+      ]
+    },
+    {
+      "id": "crypto-21",
+      "name": "Needham-Schroeder Scheme, Kerberos Protocol",
+      "unit": "Unit 5",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [5]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [8]
+        }
+      ]
+    },
+    {
+      "id": "crypto-22",
+      "name": "Digital Certificates, X.509, PKI Trust Models",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [11]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [9]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [6]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [6]
+        }
+      ]
+    },
+    {
+      "id": "crypto-23",
+      "name": "Email Security: Pretty Good Privacy (PGP)",
+      "unit": "Unit 6",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2080",
+          "questionNumbers": [11]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [7]
+        }
+      ]
+    },
+    {
+      "id": "crypto-24",
+      "name": "Secure Socket Layer (SSL), TLS, IP Security (IPSec)",
+      "unit": "Unit 6",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2078",
+          "questionNumbers": [12]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [9]
+        }
+      ]
+    },
+    {
+      "id": "crypto-25",
+      "name": "Firewalls and their types",
+      "unit": "Unit 6",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [9]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [6]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [7]
+        }
+      ]
+    },
+    {
+      "id": "crypto-26",
+      "name": "Malicious Logic (Virus, Worm, Trojan, Zombie, DoS)",
+      "unit": "Unit 7",
+      "priority": "high",
+      "appearedIn": [
+        {
+          "year": "2082",
+          "questionNumbers": [4]
+        },
+        {
+          "year": "2081",
+          "questionNumbers": [12]
+        },
+        {
+          "year": "2080",
+          "questionNumbers": [7]
+        },
+        {
+          "year": "Model",
+          "questionNumbers": [12]
+        }
+      ]
+    },
+    {
+      "id": "crypto-27",
+      "name": "Intrusion, Intruders, Intrusion Detection System (IDS)",
+      "unit": "Unit 7",
+      "priority": "medium",
+      "appearedIn": [
+        {
+          "year": "2081",
+          "questionNumbers": [7]
+        },
+        {
+          "year": "2079",
+          "questionNumbers": [4]
+        },
+        {
+          "year": "2078",
+          "questionNumbers": [4]
+        }
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "year": "2082",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-09",
+          "question": "Describe the Feistel Cipher structure. Given the key {2B, 7E, 15, 16, 28, AE, D2, A6, AB, F7, 97, 66, 01, 02, 03, 04}, compute the first 4 bytes of next key after first iteration, using the following S-Box in AES. [Table: 16x16 AES S-Box with rows 0 and 1 shown: Row0: 63 7C 77 7B F2 6B 6F C5 30 01 67 2B FE D7 AB 76; Row1: values not provided in original]",
+          "answer": "Feistel Cipher Structure: A symmetric structure used in block ciphers (e.g., DES). It splits the plaintext block into two halves, L and R. In each round, the right half R is passed through a substitution function F with a subkey, and the result is XORed with the left half L. The halves are then swapped. \n\nAES Key Expansion (Computing W4): The initial key is 16 bytes, forming words W0 to W3. W0=2B7E1516, W1=28AED2A6, W2=ABF79766, W3=01020304. \nTo find W4, we process W3:\n1. RotWord(W3): Shift left by 1 byte -> 02 03 04 01.\n2. SubWord: Substitute using the AES S-Box. Since Row 1 is missing in the prompt, standard AES S-Box values are used: S(02)=77, S(03)=7B, S(04)=F2, S(01)=7C. Result = 77 7B F2 7C.\n3. XOR with Rcon(1) (01 00 00 00) and W0 (2B 7E 15 16).\nCalculation: (2B 7E 15 16) XOR (77 7B F2 7C) XOR (01 00 00 00).\nByte 1: 2B ^ 77 ^ 01 = 5C ^ 01 = 5D.\nByte 2: 7E ^ 7B = 05.\nByte 3: 15 ^ F2 = E7.\nByte 4: 16 ^ 7C = 6A.\nResulting W4 (first 4 bytes of next key) = 5D 05 E7 6A.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-16",
+          "question": "Illustrate the man-in-the-middle attack in Diffie-Hellman key exchange protocol. Assume the prime number be 19 and 10 as its primitive root. Select 5 as private key and 4 as random integer. Find the ciphertext of M=2 using Elgamal cryptosystem.",
+          "answer": "Man-in-the-Middle (MITM) in Diffie-Hellman: DH lacks authentication. An attacker (Darth) intercepts public values exchanged between Alice and Bob. Darth creates two separate DH exchanges: one with Alice (sharing key K1) and one with Bob (sharing key K2). Alice and Bob think they are communicating directly, but Darth decrypts, reads/modifies, and re-encrypts all messages passing between them.\n\nElGamal Encryption: Given p=19, g=10 (primitive root). Alice's private key x=5. Alice's public key Y = g^x mod p = 10^5 mod 19 = 100000 mod 19 = 3. \nBob encrypts M=2 using random k=4 and Alice's public key (p=19, g=10, Y=3):\n1. Compute C1 = g^k mod p = 10^4 mod 19 = 10000 mod 19 = 6.\n2. Compute shared secret K = Y^k mod p = 3^4 mod 19 = 81 mod 19 = 5.\n3. Compute C2 = (M * K) mod p = (2 * 5) mod 19 = 10 mod 19 = 10.\nThe ciphertext is (C1, C2) = (6, 10).",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "List the properties of hash function. Describe the algorithm for SHA-1.",
+          "answer": "Properties of Hash Function: 1. Variable input size: Can be applied to a block of data of any size. 2. Fixed output size: Produces a fixed-length output (digest). 3. Efficiency: H(x) is relatively easy to compute. 4. Preimage resistance (One-way): Given digest h, it's computationally infeasible to find x such that H(x)=h. 5. Second preimage resistance (Weak collision resistance): Given x, it's infeasible to find y != x such that H(y)=H(x). 6. Collision resistance (Strong collision resistance): It is infeasible to find any pair (x,y) such that H(x)=H(y).\n\nSHA-1 Algorithm: Produces a 160-bit message digest. \n1. Padding: Pad the message so its length is 64 bits short of a multiple of 512 (append '1', then '0's). \n2. Append Length: Append the original message length as a 64-bit integer, making the total length an exact multiple of 512 bits.\n3. Initialize MD Buffer: A 160-bit buffer (five 32-bit registers A, B, C, D, E) is initialized with specific hex values.\n4. Process Message in 512-bit Blocks: Each block passes through 80 rounds of operations (divided into 4 stages of 20 rounds). Each round uses a non-linear logic function, circular left shifts, and an additive constant K_t. \n5. Output: After processing all blocks, the final values of A, B, C, D, E form the 160-bit digest.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-26",
+          "question": "Describe any three types of malicious logic.",
+          "answer": "1. Virus: A piece of code that attaches itself to legitimate programs and replicates when the infected program runs. It requires human action (like opening a file) to spread and often damages the system or corrupts data.\n2. Worm: A standalone malicious program that replicates and spreads across networks without needing to attach to a host file or requiring human interaction. Worms consume network bandwidth and system resources.\n3. Trojan Horse: A malicious program disguised as legitimate or useful software. Unlike viruses or worms, Trojans do not replicate themselves. Once installed by the user, they create backdoors, steal sensitive data, or allow unauthorized access to the system.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Given the key \"HELLOWORLD\", encrypt the plaintext \"TURINGTEST\" using Playfair cipher.",
+          "answer": "Playfair Matrix (Key: HELLOWORLD -> Unique: H E L O W R D, rest of alphabet, I/J combined):\nH E L O W\nR D A B C\nF G I K M\nN P Q S T\nU V X Y Z\n\nPlaintext: TU RI NG TE ST\nEncryption Rules: 1. Same row: shift right. 2. Same column: shift down. 3. Rectangle: take corners on the same row.\n- TU (Rectangle): T -> N, U -> Z => NZ\n- RI (Rectangle): R -> C, I -> G => CG\n- NG (Rectangle): N -> T, G -> F => TF\n- TE (Rectangle): T -> N, E -> W => NW\n- ST (Same row): S -> T, T -> N => TN\nCiphertext: NZ CG TF NW TN.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-10",
+          "question": "Explain any two modes of block cipher encryption.",
+          "answer": "1. Electronic Codebook (ECB) Mode: The simplest mode where the plaintext is divided into fixed-size blocks (e.g., 64 or 128 bits), and each block is encrypted independently using the same key. Disadvantage: Identical plaintext blocks produce identical ciphertext blocks, revealing data patterns (not secure for large messages).\n2. Cipher Block Chaining (CBC) Mode: Each plaintext block is XORed with the previous ciphertext block before encryption. An Initialization Vector (IV) is used for the first block. Advantage: Identical plaintext blocks produce different ciphertext blocks, hiding data patterns. Error in one block affects the decryption of that block and the next.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-11",
+          "question": "State Fermat's theorem with example. What is the implication of discrete logarithm?",
+          "answer": "Fermat's Little Theorem: If p is a prime and a is any integer not divisible by p, then a^(p-1) == 1 (mod p). It can also be written as a^p == a (mod p) for any integer a.\nExample: Let p = 5, a = 2. Then 2^(5-1) = 2^4 = 16. 16 mod 5 = 1. (Theorem holds).\n\nImplication of Discrete Logarithm: In modular arithmetic, calculating Y = g^x mod p (exponentiation) is easy and fast. However, finding the exponent x given Y, g, and p (the discrete logarithm problem) is computationally infeasible for large prime numbers. This one-way mathematical property is the foundation for public-key cryptosystems like Diffie-Hellman key exchange and ElGamal encryption.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-19",
+          "question": "Describe the working mechanism of digital signature algorithm.",
+          "answer": "The Digital Signature Algorithm (DSA) is a Federal Information Processing Standard for digital signatures, based on the mathematical concept of modular exponentiation and the discrete logarithm problem. \nWorking Mechanism:\n1. Key Generation: A user generates a public/private key pair. The private key (x) is kept secret for signing, and the public key (y) is shared for verification.\n2. Signing: The sender calculates a hash (message digest) of the message using SHA-1 or SHA-2. The sender generates a random per-message integer (k). Using the private key (x), the random integer (k), and the hash, two signature components (r and s) are generated. The signature (r, s) is attached to the message.\n3. Verification: The receiver computes the hash of the received message. Using the sender's public key (y) and the received signature (r, s), the receiver runs a verification equation. If the output matches the received 'r' value, the signature is valid, proving authenticity and data integrity.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-25",
+          "question": "List and explain the types of firewall.",
+          "answer": "1. Packet Filtering Firewall: Operates at the network layer. It examines each incoming and outgoing IP packet and drops or accepts it based on a set of rules (IP addresses, ports, protocols). It is fast but cannot inspect payload context.\n2. Stateful Inspection Firewall: Tracks the state of active network connections. It analyzes packets within the context of an established session, making it more secure than simple packet filtering by preventing packets that don't match a known active state.\n3. Application-Level Gateway (Proxy Firewall): Operates at the application layer. It acts as an intermediary, establishing a separate connection with the client and server. It inspects the actual payload (e.g., HTTP traffic) for malicious content, offering high security but slower performance.\n4. Circuit-Level Gateway: Works at the session layer. It monitors TCP handshaking between packets to determine whether a requested session is legitimate, without inspecting the data payload.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Decrypt the ciphertext \"HI\" using Hill Cipher where the key is [5/4 3/3].",
+          "answer": "Ciphertext = \"HI\". H=7, I=8. Cipher vector C = [7, 8]^T.\nKey Matrix K = [[5, 3], [4, 3]].\nTo decrypt, we need the inverse of K modulo 26: K^-1.\n1. Determinant of K: |K| = (5*3 - 3*4) = 15 - 12 = 3.\n2. Multiplicative inverse of 3 mod 26: We need a value 'x' where (3 * x) mod 26 = 1. x = 9 (since 27 mod 26 = 1).\n3. Adjugate of K: Swap main diagonal, negate secondary diagonal. Adj(K) = [[3, -3], [-4, 5]] = [[3, 23], [22, 5]] (mod 26).\n4. Inverse K^-1 = 9 * [[3, 23], [22, 5]] mod 26 = [[27, 207], [198, 45]] mod 26 = [[1, 25], [16, 19]].\n5. Decryption: P = K^-1 * C mod 26 = [[1, 25], [16, 19]] * [7, 8]^T.\nP1 = (1*7 + 25*8) mod 26 = (7 + 200) mod 26 = 207 mod 26 = 25 (Z).\nP2 = (16*7 + 19*8) mod 26 = (112 + 152) mod 26 = 264 mod 26 = 4 (E).\nPlaintext is \"ZE\".",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-22",
+          "question": "What is a digital certificate? Discuss the certificate life cycle.",
+          "answer": "Digital Certificate: An electronic document used to prove the ownership of a public key. The certificate includes information about the key, information about the identity of its owner (subject), and the digital signature of an entity that has verified the certificate's contents (a Certificate Authority, or CA). Format is usually X.509.\nCertificate Life Cycle:\n1. Initialization (Registration): The entity generates a key pair, creates a Certificate Signing Request (CSR) with its identity and public key, and sends it to a Registration Authority (RA) or CA.\n2. Issuance: The CA validates the identity, signs the certificate with its private key, and issues it to the entity.\n3. Usage: The certificate is used in cryptographic protocols (like SSL/TLS) to authenticate the entity and establish secure communication.\n4. Renewal/Expiration: Certificates have a valid-to date. Before expiration, the entity must renew it to continue usage.\n5. Revocation: If the private key is compromised or the entity's affiliation changes before expiration, the CA revokes the certificate and places it on a Certificate Revocation List (CRL).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-20",
+          "question": "Define authentication system. Discuss challenge-response system.",
+          "answer": "Authentication System: A mechanism or protocol used to verify the identity of a user, device, or system trying to access resources. It ensures that the entity communicating is who it claims to be, often preventing replay attacks and masquerading.\nChallenge-Response System: A robust authentication method where one party (the server) presents a question or challenge, and the other party (the client) must provide a valid answer or response to be authenticated. \nWorking: \n1. The server generates a random, unpredictable number (nonce or challenge) and sends it to the client.\n2. The client encrypts the challenge or computes a hash using a secret key (password or shared key) known only to the client and server.\n3. The client sends the result (response) back to the server.\n4. The server performs the same computation and compares the result. If they match, authentication succeeds. This prevents replay attacks because the challenge is different every time.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2081",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-08",
+          "question": "Let us consider the 4-bit key set as {1100, 1010, 0000, 1111, 0101, 1001} and input text as (1011, 1110, 1011, 1000). Now trace the first full round operation of the IDEA algorithm.",
+          "answer": "IDEA operates on 16-bit blocks (here divided into 4-bit subblocks: X1=1011, X2=1110, X3=1011, X4=1000). The keys provided are Z1=1100, Z2=1010, Z3=0000, Z4=1111, Z5=0101, Z6=1001. \nOperations: Bitwise XOR, Addition mod 2^n (here 2^4=16), Multiplication mod 2^n+1 (here 2^4+1=17, where 0 represents 2^n).\nFirst Full Round Trace:\n1. P1 = X1 * Z1 = 1011(11) * 1100(12) mod 17 = 132 mod 17 = 13 = 1101.\n2. P2 = X2 + Z2 = 1110(14) + 1010(10) mod 16 = 24 mod 16 = 8 = 1000.\n3. P3 = X3 + Z3 = 1011(11) + 0000(0) mod 16 = 11 mod 16 = 11 = 1011.\n4. P4 = X4 * Z4 = 1000(8) * 1111(15) mod 17 = 120 mod 17 = 1 = 0001.\n5. P5 = P1 XOR P3 = 1101 ^ 1011 = 0110 (6).\n6. P6 = P2 XOR P4 = 1000 ^ 0001 = 1001 (9).\n7. P7 = P5 * Z5 = 0110(6) * 0101(5) mod 17 = 30 mod 17 = 13 = 1101.\n8. P8 = P6 + P7 = 1001(9) + 1101(13) mod 16 = 22 mod 16 = 6 = 0110.\n9. P9 = P8 * Z6 = 0110(6) * 1001(9) mod 17 = 54 mod 17 = 3 = 0011.\n10. P10 = P7 + P9 = 1101(13) + 0011(3) mod 16 = 16 mod 16 = 0 = 0000.\nOutput of Round 1 (before swap): \nY1 = P1 ^ P9 = 1101 ^ 0011 = 1110.\nY2 = P3 ^ P9 = 1011 ^ 0011 = 1000.\nY3 = P2 ^ P10 = 1000 ^ 0000 = 1000.\nY4 = P4 ^ P10 = 0001 ^ 0000 = 0001.\nAfter swapping inner blocks Y2 and Y3: Output = (1110, 1000, 1000, 0001).",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "What is a Message Authentication Code? List the operation of computing digest value in different passes of MD4. Describe the Needham-Schroeder protocol.",
+          "answer": "Message Authentication Code (MAC): A cryptographic checksum generated using a shared secret key and the message. It provides authentication and data integrity, ensuring the message was sent by someone with the key and has not been altered in transit.\n\nMD4 Digest Computation Passes: MD4 processes 512-bit blocks using a 128-bit buffer (A,B,C,D) in 3 passes (16 steps each):\n- Pass 1: Uses selection function F(X,Y,Z) = (X AND Y) OR (NOT X AND Z). It processes message words sequentially.\n- Pass 2: Uses majority function G(X,Y,Z) = (X AND Y) OR (X AND Z) OR (Y AND Z). Added to a constant (0x5A827999).\n- Pass 3: Uses XOR function H(X,Y,Z) = X XOR Y XOR Z. Added to a constant (0x6ED9EBA1).\n\nNeedham-Schroeder Protocol: A symmetric key authentication protocol designed for mutual authentication over an insecure network, utilizing a trusted Key Distribution Center (KDC).\n1. A -> KDC: Request containing A's ID, B's ID, and a nonce N1.\n2. KDC -> A: Encrypted with A's secret key, containing: [N1, B's ID, Session Key (Ks), and a Ticket encrypted with B's secret key (contains Ks and A's ID)].\n3. A -> B: A sends the Ticket to B.\n4. B -> A: B decrypts the Ticket, extracts Ks, generates nonce N2, encrypts N2 with Ks, and sends to A.\n5. A -> B: A decrypts, subtracts 1 from N2 (f(N2)), encrypts with Ks, and sends back to B to prove A possesses the session key.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-14",
+          "question": "Why do we need discrete logarithm? Illustrate with an example. Consider a Diffie-Hellman scheme with a common prime p=13 between user A and user B. Suppose the public key of A is 10 and the public key of B is 8. Now determine their private keys and shared secret key. Select any valid primitive root of 13.",
+          "answer": "Need for Discrete Logarithm: It provides the one-way mathematical function critical for public key cryptography (like Diffie-Hellman and ElGamal). It is easy to calculate Y = g^x mod p, but computationally infeasible to find x given Y, g, and p for large primes. This asymmetry ensures secure key exchange and encryption.\n\nDiffie-Hellman Problem:\nGiven p = 13. We need a primitive root of 13. Let's test g = 2.\n2^1=2, 2^2=4, 2^3=8, 2^4=3, 2^5=6, 2^6=12, 2^7=11, 2^8=9, 2^9=5, 2^10=10, 2^11=7, 2^12=1. Since it generates all numbers 1 to 12, g = 2 is a valid primitive root.\nPublic key of A (Y_A) = 10. We need private key X_A such that 2^(X_A) mod 13 = 10. From above sequence, 2^10 = 10, so X_A = 10.\nPublic key of B (Y_B) = 8. We need private key X_B such that 2^(X_B) mod 13 = 8. From above sequence, 2^3 = 8, so X_B = 3.\nShared Secret Key K:\nA computes K = (Y_B)^(X_A) mod p = 8^10 mod 13.\nB computes K = (Y_A)^(X_B) mod p = 10^3 mod 13 = 1000 mod 13. Since 13 * 76 = 988, 1000 - 988 = 12.\nShared Secret Key K = 12.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Show the encryption of plaintext \"ALGORITHM\" using the key \"PSEUDOCODE\" using Playfair cipher.",
+          "answer": "Playfair Matrix (Key: PSEUDOCODE -> Unique: P S E U D O C, rest of alphabet, I/J combined):\nP S E U D\nO C A B F\nG H I K L\nM N Q R T\nV W X Y Z\n\nPlaintext: AL GO RI TH M (add filler X to M) -> AL GO RI TH MX\nRules: 1. Same row: shift right. 2. Same column: shift down. 3. Rectangle: take corners on same row.\n- AL (Rectangle): A -> E, L -> I => EI\n- GO (Rectangle): G -> I, O -> P => IP\n- RI (Rectangle): R -> Q, I -> K => QK\n- TH (Rectangle): T -> N, H -> G => NG\n- MX (Rectangle): M -> V, X -> Q => VQ\nCiphertext: EI IP QK NG VQ.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-21",
+          "question": "Discuss the working mechanism of the Kerberos protocol.",
+          "answer": "Kerberos is an authentication protocol based on symmetric key cryptography using a trusted third party. It relies on the Needham-Schroeder model.\nWorking Mechanism:\n1. Authentication Server (AS) Exchange: The client authenticates to the AS using a password. The AS issues a Ticket Granting Ticket (TGT) and a session key, encrypted with the client's secret key.\n2. Ticket Granting Server (TGS) Exchange: To access a specific service, the client sends the TGT and an Authenticator (timestamp) to the TGS. The TGS verifies the TGT and issues a Service Ticket and a new session key for the specific service.\n3. Client/Server Exchange: The client sends the Service Ticket and a new Authenticator to the target server. The server verifies the ticket. If mutual authentication is required, the server replies with a timestamp encrypted with the session key.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-25",
+          "question": "What is the use of a firewall? How does a circuit-level gateway differ from a stateful inspection firewall?",
+          "answer": "Use of Firewall: A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies. It creates a barrier between a trusted internal network and an untrusted external network (like the Internet).\n\nDifference:\n- Circuit-Level Gateway: Operates at the session layer of the OSI model. It validates TCP handshakes to determine if a requested session is legitimate. It acts as a proxy, hiding the internal network, but it does NOT inspect the data payload of the packets.\n- Stateful Inspection Firewall: Operates at the network/transport layer but maintains context (state) of active connections. It inspects packet headers and payload data in the context of established connections, ensuring that incoming packets match a legitimate, active session, making it more secure than simple circuit gateways.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-27",
+          "question": "What is intrusion? Explain any two types of intrusion detection systems.",
+          "answer": "Intrusion: Unauthorized access, modification, or compromise of a computer system or network. It occurs when an attacker bypasses security mechanisms to exploit vulnerabilities.\nTypes of Intrusion Detection Systems (IDS):\n1. Network-based IDS (NIDS): Monitors network traffic for particular network segments or devices and analyzes network, transport, and application protocols to identify suspicious activity (e.g., port scans, DoS attacks). It sits strategically within the network infrastructure.\n2. Host-based IDS (HIDS): Installed on individual host computers or servers. It monitors inbound and outbound packets from the device only and alerts the user or administrator if suspicious activity is detected. It can analyze system logs, file modifications, and process behaviors, catching attacks that might bypass network defenses.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-11",
+          "question": "Find the multiplicative inverse of polynomial {95} using the extended Euclidean algorithm.",
+          "answer": "The prompt implies finding the multiplicative inverse of a polynomial in GF(2^8) with the standard irreducible polynomial m(x) = x^8 + x^4 + x^3 + x + 1 (which is {11B} in hex). \nValue {95} in binary is 10010101 (x^7 + x^4 + x^2 + 1). \nUsing Extended Euclidean Algorithm over GF(2) (polynomial arithmetic modulo 2 where XOR is addition/subtraction): \nLet A = x^8 + x^4 + x^3 + x + 1, B = x^7 + x^4 + x^2 + 1.\nDue to the complexity of full polynomial long division in text, the steps involve dividing A by B to find quotients and remainders, and updating auxiliary polynomials x_i and y_i until the remainder is 1. The final auxiliary polynomial corresponding to B will be the inverse. \nResult (Standard AES math): The inverse of {95} in GF(2^8) is {8A} (binary 10001010).",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-22",
+          "question": "What is a DoS attack? Discuss the PKI trust model.",
+          "answer": "DoS Attack: A Denial of Service attack is a malicious attempt to disrupt normal traffic of a targeted server, service, or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic, rendering it inaccessible to legitimate users.\n\nPKI Trust Model: Public Key Infrastructure (PKI) relies on trust models to define how users can verify the authenticity of a digital certificate. \n1. Strict Hierarchical Model: A root Certificate Authority (CA) issues certificates to intermediate CAs, which issue to end-users. Trust flows strictly top-down from a single universally trusted root CA.\n2. Distributed Trust (Web of Trust): Used in systems like PGP. Users sign each other's public keys, establishing a decentralized network of trust without a central CA.\n3. Cross-Certification Model: Multiple independent root CAs cross-certify each other, allowing users in one PKI hierarchy to trust certificates issued in another.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Using the Vigenère cipher with key = \"worlds\", encrypt the plaintext \"hello everyone\".",
+          "answer": "Plaintext: h e l l o e v e r y o n e\nKey:       w o r l d s w o r l d s w\nConvert to numbers (A=0, Z=25):\nPT: 7, 4, 11, 11, 14, 4, 21, 4, 17, 24, 14, 13, 4\nKey: 22, 14, 17, 11, 3, 18, 22, 14, 17, 11, 3, 18, 22\nC = (P + K) mod 26\nC1: (7+22)%26 = 29%26 = 3 (D)\nC2: (4+14)%26 = 18 (S)\nC3: (11+17)%26 = 28%26 = 2 (C)\nC4: (11+11)%26 = 22 (W)\nC5: (14+3)%26 = 17 (R)\nC6: (4+18)%26 = 22 (W)\nC7: (21+22)%26 = 43%26 = 17 (R)\nC8: (4+14)%26 = 18 (S)\nC9: (17+17)%26 = 34%26 = 8 (I)\nC10: (24+11)%26 = 35%26 = 9 (J)\nC11: (14+3)%26 = 17 (R)\nC12: (13+18)%26 = 31%26 = 5 (F)\nC13: (4+22)%26 = 26%26 = 0 (A)\nCiphertext: DSCWRW RSIJRFA.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-10",
+          "question": "Describe the different modes of block cipher.",
+          "answer": "1. Electronic Codebook (ECB): Each block of plaintext is encrypted independently with the same key. Weakness: identical plaintext blocks yield identical ciphertext blocks.\n2. Cipher Block Chaining (CBC): Plaintext is XORed with the previous ciphertext block before encryption. Requires an IV. Hides patterns effectively.\n3. Cipher Feedback (CFB): Converts a block cipher into a self-synchronizing stream cipher. The previous ciphertext is encrypted, then XORed with the plaintext to produce the current ciphertext.\n4. Output Feedback (OFB): Converts block cipher to a synchronous stream cipher. Generates keystream blocks independent of plaintext and ciphertext, which are XORed with plaintext. No error propagation.\n5. Counter (CTR): Encrypts a counter value to produce the keystream, which is XORed with plaintext. Allows parallel encryption and decryption.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-26",
+          "question": "Write short notes on any two of the following: Totient value of any positive integer; Properties of hash function; Virus or Worms.",
+          "answer": "1. Properties of Hash Function: A cryptographic hash function maps arbitrary-length input to a fixed-length digest. Properties include: One-way (preimage resistant) - hard to find message from hash; Weak collision resistant - hard to find a different message with same hash as a given message; Strong collision resistant - hard to find any two different messages with the same hash; fast to compute.\n2. Virus or Worms: Both are malicious logic. A Virus is a code segment that attaches itself to executable files and requires human intervention (running the file) to spread and cause harm. A Worm is a standalone program that self-replicates across networks, exploiting vulnerabilities without human intervention, primarily consuming bandwidth and system resources.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2080",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-15",
+          "question": "Define discrete logarithms. How are key generation, encryption, and decryption done in RSA? In an RSA cryptosystem, given p=13 and q=7, determine the private key, public key, and perform encryption and decryption for the text M=\"hi\" using 0 to 25 for letters from a to z.",
+          "answer": "Discrete Logarithms: Finding the exponent x in the equation y = g^x mod p is the discrete logarithm problem. It is computationally difficult for large primes, forming the basis for many public-key algorithms.\n\nRSA Process:\n- Key Gen: Select primes p, q. Compute n = p*q and φ(n) = (p-1)(q-1). Choose e such that gcd(e, φ(n))=1. Compute d such that e*d = 1 mod φ(n). Public key=(e,n), Private key=(d,n).\n- Encrypt: C = M^e mod n.\n- Decrypt: M = C^d mod n.\n\nGiven p=13, q=7:\n1. n = 13 * 7 = 91.\n2. φ(n) = (13-1)(7-1) = 12 * 6 = 72.\n3. Choose e relatively prime to 72. Let e = 5.\n4. Find d such that 5*d = 1 mod 72. 5 * 29 = 145 = 2 * 72 + 1. So, d = 29.\nPublic Key: (5, 91), Private Key: (29, 91).\n\nMessage M = \"hi\". h=7, i=8.\nEncrypting h (7): C_h = 7^5 mod 91 = 16807 mod 91 = 62.\nEncrypting i (8): C_i = 8^5 mod 91 = 32768 mod 91 = 8.\nDecrypting C_h (62): M_h = 62^29 mod 91 = 7 (h).\nDecrypting C_i (8): M_i = 8^29 mod 91 = 8 (i).",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-06",
+          "question": "Write down the encryption and decryption process for 2-DES and 3-DES. Explain the Feistel cipher structure. Divide 5x^2+4x+6 by 2x+1 over GF(7)",
+          "answer": "2-DES: Encrypts data twice with two keys (K1, K2). C = E(K2, E(K1, P)). Decryption: P = D(K1, D(K2, C)). Vulnerable to Meet-in-the-Middle attack, reducing effective security to roughly 2^57.\n3-DES: Uses three keys (K1, K2, K3) or two keys (K1=K3). Encrypt-Decrypt-Encrypt (EDE) sequence: C = E(K3, D(K2, E(K1, P))). Decryption: P = D(K1, E(K2, D(K3, C))). Highly secure against MITM.\nFeistel Structure: Splits plaintext block into two halves (L, R). In each round, R passes through a substitution function (F) using a subkey, XORed with L. Then L and R are swapped. Decryption uses the exact same structure with subkeys in reverse order.\n\nPolynomial Division GF(7):\nDivide (5x^2 + 4x + 6) by (2x + 1) in GF(7).\nInverse of 2 in GF(7) is 4 (since 2*4=8=1 mod 7).\n1. Leading term: (5x^2) / (2x) = 5 * 4 * x = 20x = 6x mod 7.\n   Multiply: 6x(2x + 1) = 12x^2 + 6x = 5x^2 + 6x mod 7.\n   Subtract: (5x^2 + 4x + 6) - (5x^2 + 6x) = -2x + 6 = 5x + 6 mod 7.\n2. Next term: (5x) / (2x) = 5 * 4 = 20 = 6 mod 7.\n   Multiply: 6(2x + 1) = 12x + 6 = 5x + 6 mod 7.\n   Subtract: (5x + 6) - (5x + 6) = 0.\nQuotient is 6x + 6, Remainder is 0.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "What are the applications of hash functions? Discuss how the SHA-1 algorithm generates a hash value from a given message.",
+          "answer": "Applications of Hash Functions: \n1. Message Authentication Codes (MAC): Ensuring data integrity and origin authentication.\n2. Digital Signatures: Hashing a message and encrypting the hash with a private key.\n3. Password Storage: Storing hashes of passwords instead of plaintext for security.\n4. Intrusion Detection / Virus Scanning: Checking file hashes against known malware signatures.\n\nSHA-1 Generation:\n1. Padding: The message is padded with a '1' followed by '0's so its length is congruent to 448 mod 512.\n2. Length Append: A 64-bit representation of the original message length is appended, resulting in a multiple of 512 bits.\n3. Buffer Initialization: Five 32-bit registers (A, B, C, D, E) are initialized with standard hex constants.\n4. Processing: The padded message is processed in 512-bit blocks. Each block undergoes 80 rounds of logical operations, using non-linear functions, bitwise shifts, and additive constants (Kt). The output of the 80th round is added to the initial buffer values.\n5. Output: After processing all blocks, the concatenated 160-bit value of A, B, C, D, E is the final hash.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Show encryption and decryption of \"csit\" using the Hill cipher having key k=[3 2;5 7].",
+          "answer": "Plaintext: \"csit\". c=2, s=18, i=8, t=19.\nKey K = [[3, 2], [5, 7]].\nEncryption: C = K * P mod 26.\nBlock 1: [c, s] = [2, 18]^T.\nC1 = (3*2 + 2*18) mod 26 = (6 + 36) mod 26 = 42 mod 26 = 16 (Q).\nC2 = (5*2 + 7*18) mod 26 = (10 + 126) mod 26 = 136 mod 26 = 6 (G).\nBlock 2: [i, t] = [8, 19]^T.\nC3 = (3*8 + 2*19) mod 26 = (24 + 38) mod 26 = 62 mod 26 = 10 (K).\nC4 = (5*8 + 7*19) mod 26 = (40 + 133) mod 26 = 173 mod 26 = 17 (R).\nCiphertext: \"QGKR\".\n\nDecryption: P = K^-1 * C mod 26.\n1. Det(K) = (3*7 - 2*5) = 21 - 10 = 11.\n2. Inverse of 11 mod 26: 11 * 19 = 209 = 26*8 + 1, so 19.\n3. Adjugate of K: [[7, -2], [-5, 3]] = [[7, 24], [21, 3]] mod 26.\n4. K^-1 = 19 * [[7, 24], [21, 3]] mod 26 = [[133, 456], [399, 57]] mod 26 = [[3, 14], [9, 5]].\nBlock 1: [16, 6]^T. P1 = (3*16 + 14*6) mod 26 = (48 + 84) mod 26 = 132 mod 26 = 2 (c). P2 = (9*16 + 5*6) mod 26 = (144 + 30) mod 26 = 174 mod 26 = 18 (s).\nBlock 2: [10, 17]^T. P3 = (3*10 + 14*17) mod 26 = 268 mod 26 = 8 (i). P4 = (9*10 + 5*17) mod 26 = 175 mod 26 = 19 (t).",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-20",
+          "question": "Give the formal definition of an authentication system. Describe one-way and mutual authentication systems.",
+          "answer": "Authentication System: A mechanism designed to establish or verify the identity of a user, process, or device, ensuring that the entity is exactly who or what it claims to be, often as a prerequisite to allowing access to resources.\nOne-Way Authentication: Only one party verifies the identity of the other. For example, a user logs into a website where the server authenticates the user (via password), but the user does not cryptographically authenticate the server. It is vulnerable to spoofing and MITM attacks.\nMutual Authentication: Both communicating parties verify each other's identity. For example, in an SSL/TLS session where both client and server exchange certificates, or in the Kerberos protocol. It provides high security by preventing unauthorized servers from mimicking legitimate ones.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-22",
+          "question": "List the stages of the certificate life cycle. What are the types of firewalls?",
+          "answer": "Certificate Life Cycle Stages:\n1. Initialization / Registration: User applies to a CA.\n2. Issuance: CA signs and delivers the certificate.\n3. Usage: Certificate is used for authentication/encryption.\n4. Renewal: Extending validity before expiration.\n5. Revocation/Expiration: Certificate is retired or added to a CRL if compromised.\n\nTypes of Firewalls:\n1. Packet Filtering Firewall: Checks IP/ports at Network layer.\n2. Stateful Inspection Firewall: Tracks active session states.\n3. Application-Level Gateway (Proxy): Deep inspects payload at Application layer.\n4. Circuit-Level Gateway: Validates TCP handshakes at Session layer.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-26",
+          "question": "What is malicious logic? How are zombies different from Trojan horses?",
+          "answer": "Malicious Logic (Malware): Software intentionally designed to cause damage to a computer, server, client, or computer network, or to gain unauthorized access to information. Examples include viruses, worms, and spyware.\nDifference:\n- Trojan Horse: A program that appears benign or useful but hides malicious code. It relies on tricking the user into executing it. It does not replicate. Its goal is often to steal data or create a backdoor.\n- Zombie (Bot): A computer connected to the internet that has been compromised by a hacker and can be controlled remotely to perform malicious tasks (like forming a botnet for DDoS attacks) without the owner's knowledge. While a Trojan might be used to initially infect the machine to turn it into a zombie, a zombie specifically refers to the remotely controlled, enslaved machine.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-12",
+          "question": "How is the Miller-Rabin test used for primality testing? Show whether the number 561 passes the test.",
+          "answer": "Miller-Rabin Test: A probabilistic primality test. To test if odd n > 2 is prime, write n - 1 = (2^s) * d (where d is odd). Pick a random base 'a' (1 < a < n-1). Compute x = a^d mod n. If x = 1 or x = n-1, n passes the test (likely prime). Otherwise, repeatedly square x (s-1 times): x = x^2 mod n. If x becomes n-1, it passes. If it never becomes n-1, n is composite.\n\nTesting n = 561:\n561 is a famous Carmichael number (composite: 3*11*17). n-1 = 560 = 16 * 35 = 2^4 * 35. (s=4, d=35).\nLet's test base a = 2:\nx = 2^35 mod 561.\nBy fast exponentiation, 2^35 mod 561 = 263. (Not 1 or 560).\nSquare it: 263^2 mod 561 = 69169 mod 561 = 166. (Not 560).\nSquare it: 166^2 mod 561 = 27556 mod 561 = 67. (Not 560).\nSquare it: 67^2 mod 561 = 4489 mod 561 = 1. (Not 560).\nSince it hit 1 without hitting 560, 561 fails the test for base 2, proving it is composite.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-07",
+          "question": "Show that the set of integers is a ring under addition and multiplication.",
+          "answer": "To be a ring (R, +, *), the set of integers (Z) must satisfy:\n1. Abelian group under addition:\n   - Closure: a+b is in Z.\n   - Associativity: (a+b)+c = a+(b+c).\n   - Identity: 0 is in Z, a+0 = a.\n   - Inverse: For every a, there is -a in Z such that a+(-a) = 0.\n   - Commutativity: a+b = b+a.\n2. Monoid under multiplication:\n   - Closure: a*b is in Z.\n   - Associativity: (a*b)*c = a*(b*c).\n   - Identity (Optional for general rings, but Z has it): 1 is in Z, a*1 = a.\n3. Distributive property:\n   - a*(b+c) = a*b + a*c and (a+b)*c = a*c + b*c.\nSince standard integer arithmetic inherently satisfies all these properties, the set of integers Z is a ring.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-03",
+          "question": "How are substitution ciphers different from transposition ciphers? Given a message M=\"CSIT PROGRAM IS A HOT CAKE\", encrypt M using the Rail Fence cipher with rail size 3.",
+          "answer": "Difference: \n- Substitution Cipher: Replaces each character in the plaintext with another character (e.g., Caesar cipher). The identity of the character changes, but its position remains the same.\n- Transposition Cipher: Rearranges the order of the characters in the plaintext (e.g., Rail Fence). The identity remains the same, but the position changes.\n\nRail Fence Encryption (Rail size 3):\nPlaintext (ignoring spaces for standard cipher, or keeping them. Let's keep them as typical): CSIT PROGRAM IS A HOT CAKE\nWrite diagonally:\nR1: C . . . P . . . R . . . I . . . H . . . C . . . \nR2: . S . T . R . G . A . . . S . A . O . . . A . E \nR3: . . I . . . O . . . M . . .   . . . T . . . K . \n(Tracing letters strictly: C S I T _ P R O G R A M _ I S _ A _ H O T _ C A K E)\nR1: C T R M A T K\nR2: S _ P O R _ S A H _ C E\nR3: I G A I _ O A\nCiphertext: CTRMATK S POR SAH CEIGAI OA.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-23",
+          "question": "Describe IPSec. List the five services of PGP.",
+          "answer": "IPSec (IP Security): A framework of open standards for ensuring secure private communications over IP networks. It operates at the Network Layer (Layer 3) and provides data confidentiality, integrity, and origin authentication. It uses two main protocols: AH (Authentication Header) for integrity/authentication and ESP (Encapsulating Security Payload) for encryption/confidentiality. It operates in Transport mode (end-to-end) or Tunnel mode (gateway-to-gateway).\n\nFive Services of PGP (Pretty Good Privacy):\n1. Authentication (Digital Signature)\n2. Confidentiality (Message Encryption)\n3. Compression (using ZIP algorithm to save space and enhance security)\n4. Email Compatibility (Radix-64 encoding for ASCII transmission)\n5. Segmentation (breaking large messages into MTU-sized chunks).",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-14",
+          "question": "How does the meet-in-the-middle attack work in the Diffie-Hellman key exchange protocol? Explain.",
+          "answer": "The Diffie-Hellman protocol is vulnerable to the Man-in-the-Middle (MITM) attack because it does not authenticate the communicating parties. \nExplanation: \n1. Alice computes her public key Y_A and sends it to Bob.\n2. An attacker (Darth) intercepts Y_A. Darth generates his own private/public keys, and sends his public key Y_D to Bob, pretending to be Alice.\n3. Bob computes his public key Y_B and sends it to Alice. \n4. Darth intercepts Y_B and sends Y_D to Alice, pretending to be Bob.\n5. Alice computes a shared secret K1 using Y_D. Darth computes K1 using Y_A. \n6. Bob computes a shared secret K2 using Y_D. Darth computes K2 using Y_B.\nResult: Darth has established two secure channels. Alice and Bob think they are secure, but Darth can decrypt, read, modify, and re-encrypt every message passing between them.",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2079",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-09",
+          "question": "Illustrate the concept of security policy and mechanism with an example. Differentiate between block cipher and stream cipher. Explain the process of key expansion in AES.",
+          "answer": "Security Policy vs Mechanism: A security policy defines *what* is meant by security in a specific context (e.g., \"Only authorized employees can access the server\"). A security mechanism is the technical tool used to enforce the policy (e.g., \"Passwords and Two-Factor Authentication\"). \nBlock vs Stream Cipher: \n- Block Cipher: Processes plaintext in fixed-size blocks (e.g., 128 bits) at a time. Slower but allows diffusion across the block. Example: AES, DES.\n- Stream Cipher: Processes plaintext bit-by-bit or byte-by-byte continuously. Faster and requires less memory. Example: RC4.\nAES Key Expansion: Takes the original 128/192/256-bit key and generates an expanded key schedule array (e.g., 44 32-bit words for AES-128). \nProcess for AES-128:\n1. The original key forms the first 4 words (W0, W1, W2, W3).\n2. For subsequent words Wi, if i is a multiple of 4, Wi is generated by passing W(i-1) through RotWord (byte circular shift), SubWord (S-Box byte substitution), and XORing with a round constant (Rcon), then XORing with W(i-4).\n3. If i is not a multiple of 4, Wi is simply W(i-1) XOR W(i-4).",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "Describe the properties of hash functions. Discuss how a hash value is generated using the SHA-1 algorithm.",
+          "answer": "Properties of Hash Functions: \n1. Preimage resistance (One-way): Computationally infeasible to reverse the hash (find M from H(M)).\n2. Second preimage resistance: Computationally infeasible to find M2 != M1 such that H(M1) = H(M2).\n3. Collision resistance: Computationally infeasible to find any two messages M1 and M2 that produce the same hash.\n4. Fixed output size: Produces a consistent size digest regardless of input size.\n5. Efficiency: Fast to calculate.\n\nSHA-1 Hash Generation: \n1. Padding: Append a '1' bit, then '0' bits until the length is 64 bits shy of a 512-bit multiple.\n2. Length Append: Add a 64-bit block representing the original message length.\n3. Buffer Init: Initialize five 32-bit registers (A, B, C, D, E) with predefined constants.\n4. Main Loop: Process each 512-bit block through 80 steps (4 rounds of 20 operations). Each step updates A, B, C, D, E using specific logical functions, bitwise shifts, a message schedule word, and a constant.\n5. Final Hash: The output of the 80 steps is added to the initial buffer values. The concatenated 160-bit result is the hash.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-16",
+          "question": "Show that Z5 is a field. John publishes the ElGamal public key (q,a,YA)=(101,2,14). Jane desires to send the secret message \"CSIT\" to John. Using the equivalence A=0, B=1, ..., Z=25, encrypt the message using John's public key. Use a random number k=4.",
+          "answer": "Z5 is a Field: Z5 = {0,1,2,3,4} under addition and multiplication modulo 5.\nIt forms a commutative ring with identity, and every non-zero element has a multiplicative inverse. Inverses: 1*1=1, 2*3=6=1, 3*2=6=1, 4*4=16=1. Since all non-zero elements have inverses, Z5 is a field.\n\nElGamal Encryption: Public Key (q=101, a=2, Y_A=14). k=4. Message \"CSIT\" -> C=2, S=18, I=8, T=19.\nFirst component of ciphertext (shared): C1 = a^k mod q = 2^4 mod 101 = 16.\nShared key K = (Y_A)^k mod q = 14^4 mod 101. \n14^2 = 196 = 95 mod 101.\n14^4 = 95^2 = 9025 mod 101. 9025 = 101 * 89 + 36. So K = 36.\nSecond component C2 = M * K mod q.\nFor C (M=2): C2 = 2 * 36 mod 101 = 72.\nFor S (M=18): C2 = 18 * 36 mod 101 = 648 mod 101 = 42.\nFor I (M=8): C2 = 8 * 36 mod 101 = 288 mod 101 = 86.\nFor T (M=19): C2 = 19 * 36 mod 101 = 684 mod 101 = 78.\nCiphertext tuples: (16, 72), (16, 42), (16, 86), (16, 78).",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-27",
+          "question": "Differentiate between a Trojan horse and a virus. Describe any two types of intruders.",
+          "answer": "Trojan vs Virus:\n- Trojan Horse: Disguised as legitimate software to trick users into executing it. It creates backdoors or steals data. It does NOT self-replicate.\n- Virus: Attaches itself to legitimate files or programs and self-replicates when the infected file is executed, often destroying data or system resources.\nTypes of Intruders (Hackers):\n1. Masquerader: An individual who is not authorized to use the computer and who penetrates a system's access controls to exploit a legitimate user's account. (Usually an outsider).\n2. Misfeasor: A legitimate user who accesses data, programs, or resources for which such access is not authorized, or who misuses authorized access. (Usually an insider).",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "The message \"IMOGUN\" was encrypted with a Playfair cipher using the keyword \"GALOIS\". Decrypt the message.",
+          "answer": "Playfair Matrix (Keyword: GALOIS -> G A L O I S, rest of alphabet, I/J combined):\nG A L O I\nS B C D E\nF H K M N\nP Q R T U\nV W X Y Z\n\nCiphertext: IM OG UN\nDecryption Rules: 1. Same row: shift left. 2. Same column: shift up. 3. Rectangle: take corners on same row.\n- IM (Rectangle): I -> L, M -> K => LK\n- OG (Same row): O -> L, G -> I => LI\n- UN (Rectangle): U -> P, N -> E => PE\nDecrypted plaintext: LKLIPE.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-08",
+          "question": "How is encryption done using the IDEA algorithm?",
+          "answer": "IDEA (International Data Encryption Algorithm) is a symmetric block cipher that operates on 64-bit plaintext blocks using a 128-bit key. \nEncryption process:\n1. The 64-bit plaintext block is divided into four 16-bit sub-blocks (X1, X2, X3, X4).\n2. It runs through 8 identical rounds, followed by a final half-round (output transformation).\n3. Each round uses 6 different 16-bit subkeys derived from the 128-bit main key (total 52 subkeys generated via bit shifting).\n4. The operations used are Mixed Algebraic Operations: bitwise XOR, addition modulo 2^16, and multiplication modulo (2^16 + 1). Mixing operations from different algebraic groups ensures strong confusion.\n5. After 8 rounds, the final four sub-blocks undergo the half-round (using 4 subkeys) to produce the 64-bit ciphertext.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-23",
+          "question": "Describe the services provided by the Pretty Good Privacy (PGP) protocol to secure email.",
+          "answer": "PGP provides cryptographic privacy and authentication for data communication, primarily email.\nServices:\n1. Authentication: Provides digital signatures using RSA or DSS along with SHA-1 to verify the sender's identity and data integrity.\n2. Confidentiality: Encrypts messages using symmetric ciphers (CAST-128, IDEA, or 3DES) with a one-time session key, which is then encrypted using the recipient's public key (RSA or ElGamal).\n3. Compression: Compresses the message (typically using ZIP) after signing but before encryption to save space and strengthen cryptographic security.\n4. Email Compatibility: Uses Radix-64 encoding to convert raw binary ciphertext into printable ASCII characters, ensuring safe transit through text-based email systems.\n5. Segmentation: Breaks messages that are too large for email systems into manageable segments.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-21",
+          "question": "Define a challenge-response system. Why do we need Kerberos?",
+          "answer": "Challenge-Response System: An authentication protocol where the server sends a unique, random string (challenge) to the client. The client encrypts or hashes the challenge with a shared secret (password) and returns the response. The server verifies it. This protects against replay attacks since the challenge changes every time.\nNeed for Kerberos:\nIn open, distributed network environments, transmitting passwords in plaintext is highly insecure. Workstations and network connections cannot be trusted. Kerberos is needed to provide centralized, secure authentication. It issues encrypted tickets using a trusted Key Distribution Center (KDC), allowing users and services to prove their identities to each other securely without ever transmitting a password over the network.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-19",
+          "question": "How is a direct digital signature different from an arbitrated digital signature? How are digital signature generation and verification done using RSA?",
+          "answer": "Direct Digital Signature: Created by the sender and verified directly by the receiver using the sender's public key. Weakness: the sender can repudiate the signature by claiming their private key was stolen.\nArbitrated Digital Signature: Involves a trusted third party (arbiter). The sender sends the signed message to the arbiter, who verifies it, adds their own timestamp and signature, and forwards it to the receiver. This prevents repudiation.\nRSA Signature Generation/Verification:\n- Generation: Sender calculates hash H(M). Sender encrypts the hash with their private key (d): S = H(M)^d mod n. Sender sends (M, S).\n- Verification: Receiver calculates hash H(M) of the received message. Receiver decrypts S using sender's public key (e): H' = S^e mod n. If H' == H(M), the signature is valid.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-11",
+          "question": "Why do we need discrete logarithms over normal logarithms? Find out whether 3 is a primitive root of 7 or not.",
+          "answer": "Discrete vs Normal Logarithms: Normal logarithms operate over real numbers and are easy to compute. Discrete logarithms operate over finite cyclic groups (modular arithmetic with integers). Calculating a discrete logarithm is computationally intractable for large prime moduli, providing the essential \"one-way function\" trapdoor needed for public-key cryptography (Diffie-Hellman, ElGamal).\nPrimitive Root of 7:\nA number 'a' is a primitive root of p if a^1, a^2, ... a^(p-1) mod p generate all integers from 1 to p-1.\nTesting 3 mod 7:\n3^1 mod 7 = 3\n3^2 mod 7 = 9 mod 7 = 2\n3^3 mod 7 = 27 mod 7 = 6\n3^4 mod 7 = 81 mod 7 = 4\n3^5 mod 7 = 243 mod 7 = 5\n3^6 mod 7 = 729 mod 7 = 1\nThe sequence {3, 2, 6, 4, 5, 1} contains all numbers from 1 to 6. Therefore, 3 is a primitive root of 7.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-03",
+          "question": "Which is more secure, a monoalphabetic cipher or a polyalphabetic cipher? Justify. Using the Rail Fence cipher, encrypt the text \"LEARNING AND TEACHING ARE DIFFERENT\" using 3 as the number of rails.",
+          "answer": "Polyalphabetic cipher is more secure. \nJustification: A monoalphabetic cipher uses a single substitution mapping for the entire message, preserving the natural frequency distribution of letters (e.g., 'E' is the most common letter). This makes it highly vulnerable to frequency analysis. A polyalphabetic cipher uses multiple substitution alphabets (like a shifting key in Vigenère), flattening the frequency distribution and making statistical analysis much harder.\nRail Fence Encryption (3 rails):\nText: LEARNINGANDTEACHINGAREDIFFERENT (No spaces)\nL . . . N . . . D . . . C . . . G . . . I . . . E . . . T\n. E . R . I . G . N . T . A . H . N . A . E . I . F . R . N .\n. . A . . . N . . . A . . . I . . . R . . . F . . . E . . .\nRead rows:\nRow 1: L N D C G I E T\nRow 2: E R I G N T A H N A E I F R N\nRow 3: A N A I R F E\nCiphertext: LNDCG IETER IGNT AHNAE IFRNA NAIRF E.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-12",
+          "question": "What is the condition for two integers, x and y, to be relatively prime? Find whether 61 is prime or not using the Miller-Rabin algorithm.",
+          "answer": "Condition: Two integers x and y are relatively prime (or coprime) if their greatest common divisor (GCD) is exactly 1 (i.e., they share no positive prime factors).\n\nMiller-Rabin for n = 61:\n1. n-1 = 60. Write 60 = 2^2 * 15. So s = 2, d = 15.\n2. Choose a random base 'a', say a = 2.\n3. Compute x = a^d mod n = 2^15 mod 61.\n   2^6 = 64 = 3 mod 61.\n   2^12 = 3^2 = 9 mod 61.\n   2^15 = 2^12 * 2^3 = 9 * 8 = 72 = 11 mod 61. \n   So x = 11. (Not 1 or 60).\n4. Square x (up to s-1 times, so 1 time): \n   x = x^2 mod 61 = 11^2 mod 61 = 121 mod 61.\n   121 = 61 * 1 + 60. So 121 mod 61 = 60 (which is n-1).\n5. Since x hit n-1, 61 passes the Miller-Rabin test for base 2, indicating it is strongly probable prime (and indeed 61 is prime).",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "2078",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-06",
+          "question": "Define the CIA triad. State the encryption process of double and triple DES. What is the task of the S-Box in DES? Discuss with an example.",
+          "answer": "CIA Triad: The core principles of information security. Confidentiality (protecting data from unauthorized disclosure), Integrity (protecting data from unauthorized modification), and Availability (ensuring systems and data are available to authorized users when needed).\nDouble DES: Encrypts data twice using two 56-bit keys. C = E(K2, E(K1, P)). Vulnerable to meet-in-the-middle attacks.\nTriple DES: Encrypts data three times, typically using two or three keys in an EDE sequence. C = E(K3, D(K2, E(K1, P))).\nS-Box Task in DES: S-boxes provide confusion and are the only non-linear component of DES. They map a 6-bit input to a 4-bit output, shrinking the data back to 32 bits after the expansion permutation. \nExample: Suppose input to an S-box is '101100'. The outer bits '10' form the row (row 2). The inner bits '0110' form the column (col 6). The S-box lookup returns a 4-bit value at row 2, col 6, ensuring complex substitution.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-15",
+          "question": "Explain the generic model of the digital signature process. Consider the two prime numbers 7 and 19. Select 29 as the public key and 41 as the private key. Encrypt the plaintext 4 and decrypt the ciphertext 3 using RSA.",
+          "answer": "Digital Signature Generic Model:\n1. Sender calculates a cryptographic hash of the message.\n2. Sender encrypts the hash with their private key, creating the digital signature.\n3. The message and signature are transmitted.\n4. Receiver calculates the hash of the received message.\n5. Receiver decrypts the signature using the sender's public key to reveal the sender's hash.\n6. Receiver compares the two hashes; if they match, authenticity and integrity are verified.\n\nRSA Process:\np=7, q=19. n = p*q = 133.\nφ(n) = 6 * 18 = 108. (Check: e=29, d=41. 29 * 41 = 1189 = 108 * 11 + 1. Valid keys).\nEncryption of P = 4:\nC = P^e mod n = 4^29 mod 133.\n4^2 = 16, 4^4 = 256 = 123 mod 133, 4^8 = 15129 = 100 mod 133, 4^16 = 10000 = 25 mod 133.\n29 = 16 + 8 + 4 + 1.\n4^29 = 4^16 * 4^8 * 4^4 * 4^1 = (25 * 100 * 123 * 4) mod 133 = (2500 * 492) mod 133 = (106 * 93) mod 133 = 9858 mod 133 = 16.\nCiphertext = 16.\n\nDecryption of C = 3:\nP = C^d mod n = 3^41 mod 133.\n3^2=9, 3^4=81, 3^8=6561=44 mod 133, 3^16=1936=74 mod 133, 3^32=5476=23 mod 133.\n41 = 32 + 8 + 1.\n3^41 = 3^32 * 3^8 * 3^1 = (23 * 44 * 3) mod 133 = (1012 * 3) mod 133 = (81 * 3) mod 133 = 243 mod 133 = 110.\nPlaintext = 110.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-07",
+          "question": "Define Galois field with an example. Explain any two modes of block cipher encryption. Determine the quadratic residues of 7.",
+          "answer": "Galois Field (Finite Field): A field containing a finite number of elements, denoted as GF(p) for prime p, or GF(p^n) for polynomials. It supports addition, subtraction, multiplication, and division (except by zero) perfectly without fractions, wrapping around the modulus. \nExample: GF(5) contains elements {0,1,2,3,4}. Arithmetic is modulo 5. 3 * 4 mod 5 = 12 mod 5 = 2.\n\nModes of Block Cipher:\n1. ECB (Electronic Codebook): Each block is encrypted independently. Weakness: identical plaintexts produce identical ciphertexts.\n2. CBC (Cipher Block Chaining): Plaintext block is XORed with the previous ciphertext block before encryption. Solves ECB's pattern leakage issue.\n\nQuadratic Residues of 7:\nTo find quadratic residues mod 7, square all integers from 1 to 6 and find the result mod 7.\n1^2 = 1 mod 7 = 1\n2^2 = 4 mod 7 = 4\n3^2 = 9 mod 7 = 2\n4^2 = 16 mod 7 = 2\n5^2 = 25 mod 7 = 4\n6^2 = 36 mod 7 = 1\nThe unique quadratic residues modulo 7 are {1, 2, 4}.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-27",
+          "question": "What does intrusion mean? How does the system detect intrusion? List any four types of firewall.",
+          "answer": "Intrusion: An act of bypassing security mechanisms to gain unauthorized access to system resources or data.\nIntrusion Detection: A system detects intrusion by monitoring network traffic or host activities and applying two main techniques:\n1. Signature-based (Misuse) Detection: Compares monitored activities against a database of known attack signatures. \n2. Anomaly-based Detection: Establishes a baseline of normal behavior and flags significant deviations as potential intrusions.\n\nFour Types of Firewall:\n1. Packet Filtering Firewall\n2. Stateful Inspection Firewall\n3. Application-Level Gateway (Proxy Firewall)\n4. Circuit-Level Gateway",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Decrypt the message \"GVPJ\" using the Hill cipher taking the key as Row1 = 3 7, Row2 = 5 12.",
+          "answer": "Ciphertext = \"GVPJ\". G=6, V=21, P=15, J=9.\nKey K = [[3, 7], [5, 12]].\nTo decrypt, we need K^-1 mod 26.\n1. Det(K) = (3*12 - 7*5) = 36 - 35 = 1.\n2. Inverse of det = 1.\n3. Adjugate K = [[12, -7], [-5, 3]] = [[12, 19], [21, 3]] mod 26.\n4. K^-1 = 1 * [[12, 19], [21, 3]] = [[12, 19], [21, 3]].\nBlock 1: [G, V]^T = [6, 21]^T.\nP1 = (12*6 + 19*21) mod 26 = (72 + 399) mod 26 = 471 mod 26 = 3 (D).\nP2 = (21*6 + 3*21) mod 26 = (126 + 63) mod 26 = 189 mod 26 = 7 (H).\nBlock 2: [P, J]^T = [15, 9]^T.\nP3 = (12*15 + 19*9) mod 26 = (180 + 171) mod 26 = 351 mod 26 = 13 (N).\nP4 = (21*15 + 3*9) mod 26 = (315 + 27) mod 26 = 342 mod 26 = 4 (E).\nPlaintext: \"DHNE\".",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-22",
+          "question": "Describe the PKI trust model.",
+          "answer": "A PKI Trust Model establishes the structural framework determining how entities trust the certificates issued by Certificate Authorities (CAs).\n1. Hierarchical Trust Model: A single Root CA sits at the top and issues certificates to intermediate CAs, which then issue to end users. Trust strictly flows from the Root down.\n2. Distributed Trust (Web of Trust): Users digitally sign each other's public keys to validate identities, creating a decentralized web without a central authority (common in PGP).\n3. Cross-Certification Model: Multiple root CAs establish trust relationships with each other, allowing users within one hierarchy to trust certificates from another hierarchy.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-20",
+          "question": "Define an authentication system. Illustrate the need for mutual authentication over one-way authentication with an example.",
+          "answer": "Authentication System: A process used to verify the identity claimed by an entity (user, device). \nNeed for Mutual Authentication: One-way authentication only verifies the client to the server (e.g., standard password login). This leaves the client vulnerable to connecting to a fake server (spoofing).\nExample: In online banking, if a user uses one-way authentication, they log in with a password. An attacker could set up a fake banking site, intercept the password, and steal funds. Mutual authentication (e.g., using TLS/SSL client and server certificates) forces the bank's server to mathematically prove its identity to the user's browser before the user sends their password, thwarting the attack.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-11",
+          "question": "Find the value of 7^2019 mod 13 using Fermat's Little Theorem. Define the Euler totient function with an example.",
+          "answer": "Fermat's Little Theorem: a^(p-1) == 1 mod p.\nFor p=13, a=7: 7^12 == 1 mod 13.\nWe need 7^2019 mod 13. \nDivide 2019 by 12: 2019 = 12 * 168 + 3.\nSo, 7^2019 = (7^12)^168 * 7^3 mod 13.\n= 1^168 * 7^3 mod 13 = 343 mod 13.\n343 / 13 = 26 remainder 5. \nValue = 5.\n\nEuler Totient Function φ(n): Counts the number of positive integers up to n that are relatively prime to n (i.e., gcd(x, n) = 1).\nExample: φ(8). The numbers less than 8 are 1,2,3,4,5,6,7. Numbers coprime to 8 are 1, 3, 5, 7. Therefore, φ(8) = 4.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "List the properties of hash functions. Discuss the first pass of MD4.",
+          "answer": "Properties of Hash Functions: Variable input size, fixed output size, efficiency, one-way (preimage resistant), weak collision resistant (second preimage), strong collision resistant.\nFirst Pass of MD4: MD4 processes a 512-bit block into a 128-bit digest in 3 passes of 16 operations. \nThe first pass uses the logical function F(X, Y, Z) = (X AND Y) OR ((NOT X) AND Z). \nIt acts as a bitwise if-then-else. It processes the 16 32-bit words of the message block in their original sequential order (0 to 15). There is no additive constant used in the first pass (unlike passes 2 and 3). Each step updates one of the four buffer registers (A, B, C, D) using a circular left shift.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Differentiate between symmetric and asymmetric cipher. Encrypt the message \"HELL\" using the key \"FAIL\" using the Vernam cipher.",
+          "answer": "Symmetric vs Asymmetric:\n- Symmetric: Uses the same secret key for both encryption and decryption. Fast, but key distribution is a major challenge. Example: AES, DES.\n- Asymmetric: Uses a pair of keys (public for encryption, private for decryption). Slower, but solves key distribution and provides digital signatures. Example: RSA.\n\nVernam Cipher (One-Time Pad):\nUses bitwise XOR (or modular addition if using alphabetic indices). Usually, Vernam relies on XOR of binary. If using A=0, B=1..., C = (P + K) mod 26.\nP = \"HELL\" -> 7, 4, 11, 11\nK = \"FAIL\" -> 5, 0, 8, 11\nC1 = (7 + 5) mod 26 = 12 (M)\nC2 = (4 + 0) mod 26 = 4 (E)\nC3 = (11 + 8) mod 26 = 19 (T)\nC4 = (11 + 11) mod 26 = 22 (W)\nCiphertext = \"METW\". \n(Note: If strict binary XOR of ASCII is intended: H(0x48)^F(0x46)=0x0E, E(0x45)^A(0x41)=0x04, L(0x4C)^I(0x49)=0x05, L(0x4C)^L(0x4C)=0x00). Alphabetic shift is standard for non-binary context.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-07",
+          "question": "Divide 3x^2+4x+3 by 5x+6 over GF(7).",
+          "answer": "Divide (3x^2 + 4x + 3) by (5x + 6) in GF(7).\nInverse of 5 in GF(7) is 3 (since 5*3=15=1 mod 7).\n1. Leading term: (3x^2) / (5x) = 3 * 3 * x = 9x = 2x mod 7.\n   Multiply: 2x(5x + 6) = 10x^2 + 12x = 3x^2 + 5x mod 7.\n   Subtract: (3x^2 + 4x + 3) - (3x^2 + 5x) = -x + 3 = 6x + 3 mod 7.\n2. Next term: (6x) / (5x) = 6 * 3 = 18 = 4 mod 7.\n   Multiply: 4(5x + 6) = 20x + 24 = 6x + 3 mod 7.\n   Subtract: (6x + 3) - (6x + 3) = 0.\nQuotient is 2x + 4, Remainder is 0.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-24",
+          "question": "Define the SSL protocol. Mention the services provided by PGP.",
+          "answer": "SSL (Secure Sockets Layer): A widely used cryptographic protocol providing communications security over a computer network. Placed between the application and transport layers, SSL uses asymmetric cryptography to authenticate the server (and optionally the client) and establish a symmetric session key for encrypting data, ensuring confidentiality and integrity of web traffic.\n\nServices of PGP (Pretty Good Privacy):\n1. Digital Signature (Authentication/Integrity)\n2. Message Encryption (Confidentiality)\n3. Compression (Efficiency/Security)\n4. Radix-64 Conversion (Email compatibility)\n5. Segmentation (Handling large files).",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "year": "Model",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-01",
+          "question": "Define the CIA triad and explain its components. List the services of security. Differentiate between block ciphers and stream ciphers with examples.",
+          "answer": "CIA Triad: Fundamental model of information security.\n1. Confidentiality: Ensures data is not disclosed to unauthorized individuals (via encryption).\n2. Integrity: Ensures data is not altered or destroyed in an unauthorized manner (via hashes/MACs).\n3. Availability: Ensures data and systems are accessible to authorized users when needed (via redundancy/firewalls).\nSecurity Services: Confidentiality, Authentication, Integrity, Non-repudiation, Access Control, and Availability.\nBlock vs Stream Cipher:\n- Block: Processes plaintext in chunks (blocks). Same plaintext block encrypts to the same ciphertext block under the same key. Slower. Ex: AES, DES.\n- Stream: Processes plaintext bit-by-bit or byte-by-byte, combining it with a pseudorandom keystream. Faster, no block padding needed. Ex: RC4.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-15",
+          "question": "Given p=61, q=53 Calculate the public key, private key, and encrypt the message \"42\". Then, decrypt the ciphertext to retrieve the original message.",
+          "answer": "RSA Keys:\np=61, q=53.\n1. n = p*q = 61 * 53 = 3233.\n2. φ(n) = (61-1)*(53-1) = 60 * 52 = 3120.\n3. Choose e coprime to 3120. Let e = 17.\n4. Find d such that e*d = 1 mod 3120. Using Extended Euclidean, 17 * 2753 = 46801 = 15 * 3120 + 1. So, d = 2753.\nPublic key: (17, 3233). Private key: (2753, 3233).\n\nEncryption:\nM = 42. C = M^e mod n = 42^17 mod 3233.\n42^2 = 1764\n42^4 = 1764^2 mod 3233 = 3111696 mod 3233 = 2557\n42^8 = 2557^2 mod 3233 = 6538249 mod 3233 = 2822\n42^16 = 2822^2 mod 3233 = 7963684 mod 3233 = 3155\n42^17 = 42^16 * 42 = 3155 * 42 mod 3233 = 132510 mod 3233 = 3201.\nCiphertext C = 3201.\n\nDecryption:\nM = C^d mod n = 3201^2753 mod 3233.\nUsing modular exponentiation, this results mathematically back to M = 42.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-06",
+          "question": "Explain the single round operation in DES. Describe the F function in DES.",
+          "answer": "Single Round of DES: DES uses a Feistel network. The 64-bit input is split into 32-bit Left (L_i-1) and Right (R_i-1) halves. In each of the 16 rounds:\n1. The Right half is duplicated: L_i = R_i-1.\n2. The Right half goes through the F function with a 48-bit round subkey (K_i).\n3. The output of the F function is XORed with the old Left half: R_i = L_i-1 XOR F(R_i-1, K_i).\n\nThe F Function:\n1. Expansion: The 32-bit R_i-1 is expanded to 48 bits using an Expansion Permutation matrix.\n2. Key Mixing: The 48-bit expanded value is XORed with the 48-bit round subkey K_i.\n3. Substitution (S-Boxes): The 48-bit result is split into eight 6-bit chunks. Each chunk feeds into an S-Box, which outputs 4 bits. This shrinks the data back to 32 bits and provides vital non-linearity.\n4. Permutation (P-Box): The 32 bits are rearranged using a straight Permutation Box to ensure bits from one S-box output affect multiple S-boxes in the next round.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "Explain the process of generating message digests using MD4.",
+          "answer": "MD4 creates a 128-bit digest. \nProcess:\n1. Padding: Bits are appended to the message so length = 448 mod 512 (append a '1' then '0's).\n2. Append Length: 64 bits indicating original message length are added, creating exact 512-bit blocks.\n3. Initialize Buffer: Four 32-bit registers (A, B, C, D) are initialized with standard constants.\n4. Processing: Each 512-bit block is processed in 3 passes of 16 steps each. \n   - Pass 1 uses a bitwise IF-THEN-ELSE function.\n   - Pass 2 uses a Majority function and constant 5A827999.\n   - Pass 3 uses an XOR function and constant 6ED9EBA1.\n   Each step updates one register using the non-linear function, message words, and left circular shifts.\n5. Output: After all blocks are processed, the combined A, B, C, D registers form the 128-bit digest.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Encrypt the message \"INFORMATION\" using the Playfair cipher with the keyword \"SECURITY\".",
+          "answer": "Playfair Matrix (Key: SECURITY -> Unique: S E C U R I T Y, rest alphabet, I/J combined):\nS E C U R\nI T Y A B\nD F G H K\nL M N O P\nQ V W X Z\n\nPlaintext: IN FO RM AT IO N (add filler X to N) -> IN FO RM AT IO NX\n- IN (Rectangle): I -> S, N -> L => SL\n- FO (Rectangle): F -> M, O -> H => MH\n- RM (Rectangle): R -> S, M -> P => SP\n- AT (Same row): A -> B, T -> Y => BY\n- IO (Rectangle): I -> S, O -> A => SA\n- NX (Rectangle): N -> O, X -> W => OW\nCiphertext: SL MH SP BY SA OW.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-19",
+          "question": "Explain the concept of digital signatures and differentiate between direct and arbitrated digital signatures.",
+          "answer": "Digital Signatures: A mathematical scheme for verifying the authenticity and integrity of digital messages. It proves that the sender created the message (authentication/non-repudiation) and that it wasn't altered in transit (integrity).\nDifference:\n- Direct Digital Signature: Involves only the sender and receiver. The sender signs the message with their private key, and the receiver verifies it with the sender's public key. Weakness: The sender can claim their private key was lost or stolen (repudiation).\n- Arbitrated Digital Signature: Includes a trusted third party (Arbiter). The sender signs and sends to the arbiter. The arbiter verifies, adds a timestamp, signs it, and sends it to the receiver. This strictly prevents repudiation.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-25",
+          "question": "Define firewall and types of firewalls.",
+          "answer": "Firewall: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules, acting as a barrier between trusted and untrusted networks.\nTypes:\n1. Packet Filtering: Inspects packets at Network layer against rules (IP, Port).\n2. Stateful Inspection: Tracks active connections, making filtering decisions based on state and context.\n3. Application-level Gateway (Proxy): Intercepts connections and inspects full application payloads.\n4. Circuit-level Gateway: Monitors TCP handshakes to validate sessions without inspecting payload.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-11",
+          "question": "State Fermat's theorem with an example. Write the algorithm for [forelse].",
+          "answer": "[UNCERTAIN: The original paper text \"algorithm for [forelse]\" is incomplete/cut off].\nFermat's Little Theorem: If p is prime and a is a positive integer not divisible by p, then a^(p-1) == 1 (mod p).\nExample: p = 7, a = 2. \n2^(7-1) = 2^6 = 64.\n64 mod 7 = 1 (since 63 is a multiple of 7). Theorem holds.\nRegarding \"forelse\": Without complete text, it's impossible to provide the exact algorithm. It may refer to an algorithm related to Fermat's Primality test.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-24",
+          "question": "Explain IP Security (IPSec) and its components.",
+          "answer": "IPSec: A suite of protocols used to secure IP communications by authenticating and encrypting each IP packet in a communication session. It operates at the Network Layer.\nComponents:\n1. Authentication Header (AH): Provides data integrity and data origin authentication, but no confidentiality (encryption).\n2. Encapsulating Security Payload (ESP): Provides confidentiality (encryption), data integrity, and authentication.\n3. Internet Key Exchange (IKE): A protocol used to set up a Security Association (SA) by negotiating cryptographic keys and algorithms before data is transferred.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-07",
+          "question": "Divide 3x^2+x+6 by 5x+3 over GF(9).",
+          "answer": "GF(9) implies a field characteristic of 3 with a prime polynomial of degree 2 (modulo 3 arithmetic on coefficients). However, typically these problems in exams mean standard polynomial division with modulo 9 arithmetic on coefficients (which technically is a ring Z9, not a field, meaning not all elements have inverses). Assuming modulo 9 arithmetic:\nDivide (3x^2 + x + 6) by (5x + 3).\nWe need the inverse of 5 mod 9. 5 * 2 = 10 = 1 mod 9. So inverse of 5 is 2.\n1. Lead term: (3x^2) / (5x) = 3 * 2 * x = 6x mod 9.\n   Multiply: 6x(5x + 3) = 30x^2 + 18x = 3x^2 + 0x mod 9.\n   Subtract: (3x^2 + x + 6) - (3x^2 + 0x) = x + 6 mod 9.\n2. Next term: (x) / (5x) = 1 * 2 = 2 mod 9.\n   Multiply: 2(5x + 3) = 10x + 6 = x + 6 mod 9.\n   Subtract: (x + 6) - (x + 6) = 0.\nQuotient: 6x + 2, Remainder: 0.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-14",
+          "question": "Explain the process of public key distribution and secret key distribution using public key cryptography.",
+          "answer": "Public Key Distribution:\nMust be secure so an attacker cannot substitute their own public key. Methods include:\n1. Public Announcement: Insecure, susceptible to forgery.\n2. Publicly Available Directory: Managed by a trusted entity, slightly more secure.\n3. Public-Key Authority: Tight control over public keys.\n4. Public-Key Certificates: Most secure. A CA signs the user's public key binding it to their identity.\n\nSecret Key Distribution using Public Key Crypto:\nBecause symmetric keys are faster, public-key crypto is often used just to distribute the symmetric session key.\n1. Alice encrypts a generated secret session key using Bob's public key.\n2. Alice sends the encrypted key to Bob.\n3. Bob decrypts it using his private key. Now both share a secret symmetric key without it ever crossing the network in plaintext.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-26",
+          "question": "Explain the concept of a denial-of-service attack and provide examples.",
+          "answer": "Denial-of-Service (DoS) Attack: A malicious attempt to make a server, network resource, or service unavailable to its intended users. This is typically accomplished by flooding the target with superfluous requests, overwhelming systems and preventing legitimate traffic from being fulfilled.\nExamples:\n1. SYN Flood: Attacker sends a succession of SYN requests but never responds to the server's SYN-ACK, leaving half-open connections that exhaust server resources.\n2. Ping of Death: Sending malformed or oversized ICMP packets that crash the target system.\n3. Distributed DoS (DDoS): Using a botnet (zombie computers) to simultaneously flood a target from thousands of different IP addresses, making it incredibly difficult to block.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "mockPapers": [
+    {
+      "id": "mock-crypto-1",
+      "questions": [
+        {
+          "number": 1,
+          "part": null,
+          "topic": "crypto-15",
+          "question": "Explain the RSA algorithm. Perform encryption and decryption using RSA with p=11, q=13, e=7 and M=5.",
+          "answer": "RSA relies on the difficulty of factoring large integers.\nProcess: \n1. n = p*q = 11*13 = 143.\n2. φ(n) = (11-1)*(13-1) = 10*12 = 120.\n3. Public key e = 7. \n4. Private key d: e*d = 1 mod 120. 7*d = 1 mod 120. By Extended Euclidean or trial, 7 * 103 = 721 = 6 * 120 + 1. So d = 103.\nPublic Key: (7, 143). Private Key: (103, 143).\n\nEncryption: C = M^e mod n = 5^7 mod 143.\n5^2 = 25\n5^4 = 625 = 53 mod 143\n5^7 = 5^4 * 5^2 * 5 = 53 * 25 * 5 = 6625 mod 143 = 47.\nCiphertext C = 47.\n\nDecryption: M = C^d mod n = 47^103 mod 143.\nMathematically using fast exponentiation, 47^103 mod 143 yields 5.",
+          "marks": 10
+        },
+        {
+          "number": 2,
+          "part": null,
+          "topic": "crypto-14",
+          "question": "What is the discrete logarithm problem? Two users Alice and Bob wish to establish a shared key using Diffie-Hellman. Let prime p=23 and primitive root g=5. If Alice's private key is 6 and Bob's private key is 15, compute their public keys and the shared secret key.",
+          "answer": "Discrete Log Problem: Finding x in y = g^x mod p is computationally difficult for large p.\nDiffie Hellman:\np = 23, g = 5. x_A = 6, x_B = 15.\nAlice's Public Key: Y_A = g^(x_A) mod p = 5^6 mod 23.\n5^2 = 25 = 2. 5^4 = 4. 5^6 = 5^4 * 5^2 = 4 * 2 = 8.\nBob's Public Key: Y_B = g^(x_B) mod p = 5^15 mod 23.\n5^8 = 4^2 = 16. 5^15 = 5^8 * 5^4 * 5^2 * 5 = 16 * 4 * 2 * 5 = 640 = 19 mod 23.\nShared Key (Alice): K = Y_B^(x_A) mod p = 19^6 mod 23.\n19 = -4 mod 23. (-4)^6 = 4096 = 23 * 178 + 2. K = 2.\nShared Key (Bob): K = Y_A^(x_B) mod p = 8^15 mod 23.\n8^2 = 18 = -5. 8^4 = 25 = 2. 8^8 = 4. 8^15 = 8^8 * 8^4 * 8^2 * 8 = 4 * 2 * (-5) * 8 = -320 = -320 + 345 = 25 = 2 mod 23.\nShared Secret Key K = 2.",
+          "marks": 10
+        },
+        {
+          "number": 3,
+          "part": null,
+          "topic": "crypto-18",
+          "question": "Explain the architecture and round operations of the SHA-1 algorithm.",
+          "answer": "SHA-1 generates a 160-bit digest from a message of maximum length 2^64-1 bits.\nArchitecture:\n1. Padding: Add '1' followed by '0's until length = 448 mod 512.\n2. Length Append: Add 64-bit original length.\n3. Initialize: Five 32-bit registers (A,B,C,D,E) set to hex constants.\n4. Processing: Divide message into 512-bit blocks. Each block is expanded from 16 words to 80 words. \n5. Rounds: 80 steps (4 rounds of 20 steps). In each step:\n   - New A = (A shifted left 5) + f(t, B,C,D) + E + W[t] + K[t].\n   - E=D, D=C, C=(B shifted left 30), B=A.\n   - f(t) changes every 20 steps (logical AND/OR/XOR).\n   - K[t] changes every 20 steps.\n6. Combine: The output of step 80 is added to the starting A,B,C,D,E for that block. Final values form the digest.",
+          "marks": 10
+        },
+        {
+          "number": 4,
+          "part": null,
+          "topic": "crypto-02",
+          "question": "Encrypt 'NETWORK' using Playfair cipher with keyword 'MONARCHY'.",
+          "answer": "Matrix: \nM O N A R\nC H Y B D\nE F G I K\nL P Q S T\nU V W X Z\nPlaintext: NE TW OR KX (add X to complete pair)\n- NE: N->R, E->K => RK\n- TW: T->S, W->V => SV\n- OR: O->N, R->M => NM\n- KX: K->D, X->Z => DZ\nCiphertext: RK SV NM DZ.",
+          "marks": 5
+        },
+        {
+          "number": 5,
+          "part": null,
+          "topic": "crypto-06",
+          "question": "Why is 3DES preferred over 2DES? Explain.",
+          "answer": "2DES encrypts data twice (C = E(K2, E(K1, P))), theoretically providing 112 bits of security. However, it is highly vulnerable to the Meet-in-the-Middle attack. An attacker can build a table encrypting P with all 2^56 K1s, and simultaneously decrypt C with all 2^56 K2s, looking for a match in the middle. This reduces 2DES security back to roughly 2^57, only slightly better than single DES.\n3DES (using 3 keys or 2 keys in an EDE sequence) requires an attacker to perform 2^112 operations for a Meet-in-the-Middle attack, making it cryptographically secure.",
+          "marks": 5
+        },
+        {
+          "number": 6,
+          "part": null,
+          "topic": "crypto-10",
+          "question": "What is Cipher Block Chaining (CBC)? Mention its advantage over ECB.",
+          "answer": "CBC Mode: A block cipher mode where each plaintext block is XORed with the previous ciphertext block before encryption. The first block is XORed with an Initialization Vector (IV).\nAdvantage over ECB (Electronic Codebook): In ECB, identical plaintext blocks always encrypt to identical ciphertext blocks, which exposes patterns in data (like images). CBC hides these patterns because the encryption of a block depends on all preceding blocks. Identical plaintexts will produce completely different ciphertexts.",
+          "marks": 5
+        },
+        {
+          "number": 7,
+          "part": null,
+          "topic": "crypto-19",
+          "question": "How does digital signature ensure non-repudiation?",
+          "answer": "Non-repudiation ensures that the sender of a message cannot deny having sent it. A digital signature provides this because it is generated using the sender's private key, which is strictly kept secret and only known to the sender. If a receiver successfully verifies the signature using the sender's public key, it mathematically proves that only the owner of the private key could have generated the signature. Therefore, the sender cannot repudiate (deny) signing the message.",
+          "marks": 5
+        },
+        {
+          "number": 8,
+          "part": null,
+          "topic": "crypto-21",
+          "question": "Explain the role of the Ticket Granting Server in Kerberos.",
+          "answer": "In Kerberos, the Ticket Granting Server (TGS) acts as an intermediary to prevent the user from having to enter their password every time they want to access a new service. \nRole: After the initial login, the Authentication Server gives the client a Ticket Granting Ticket (TGT). When the client wants to access a specific resource (like a file server), they present the TGT to the TGS. The TGS verifies the TGT and issues a Service Ticket specifically for that resource. The client then presents this Service Ticket to the end server.",
+          "marks": 5
+        },
+        {
+          "number": 9,
+          "part": null,
+          "topic": "crypto-22",
+          "question": "What is a Certificate Revocation List (CRL)?",
+          "answer": "A Certificate Revocation List (CRL) is a list published by a Certificate Authority (CA) containing the digital certificates that have been revoked before their scheduled expiration date and should no longer be trusted. Revocation happens if a private key is compromised, if the certificate owner changes affiliation, or if the CA itself is compromised. Systems check the CRL during SSL/TLS handshakes to ensure the presented certificate is still valid.",
+          "marks": 5
+        },
+        {
+          "number": 10,
+          "part": null,
+          "topic": "crypto-07",
+          "question": "Multiply (x^2+1) and (x^3+x+1) in GF(2).",
+          "answer": "In GF(2), arithmetic on coefficients is modulo 2, meaning addition and subtraction are equivalent to bitwise XOR. \n(x^2 + 1) * (x^3 + x + 1)\n= x^2(x^3 + x + 1) + 1(x^3 + x + 1)\n= x^5 + x^3 + x^2 + x^3 + x + 1\nCombine like terms (mod 2):\nThe x^3 terms cancel out because 1 + 1 = 2 = 0 mod 2.\n= x^5 + x^2 + x + 1.",
+          "marks": 5
+        },
+        {
+          "number": 11,
+          "part": null,
+          "topic": "crypto-25",
+          "question": "Differentiate between stateful inspection and packet filtering firewalls.",
+          "answer": "Packet Filtering: Looks at each packet individually in isolation. It checks the IP headers and ports against a list of static rules to permit or drop. It is fast but \"stateless,\" meaning it doesn't know if a packet is part of an established connection. Vulnerable to IP spoofing.\nStateful Inspection: Maintains a state table of active connections. It analyzes packets within the context of the session. A packet claiming to be a response will be dropped if the firewall's state table shows no initial outgoing request for that session. Slower but significantly more secure.",
+          "marks": 5
+        },
+        {
+          "number": 12,
+          "part": null,
+          "topic": "crypto-26",
+          "question": "What is a DDoS attack and why is it harder to mitigate than a DoS attack?",
+          "answer": "DDoS (Distributed Denial of Service) Attack: A malicious attempt to disrupt traffic by overwhelming a target with a flood of traffic originating from many different sources (usually a botnet of infected zombie computers).\nWhy it is harder to mitigate: A standard DoS attack comes from a single IP address, which a firewall can easily block. A DDoS attack comes from thousands of distributed IP addresses globally. You cannot simply block one IP; doing so requires massive bandwidth and sophisticated traffic analysis to distinguish legitimate users from botnet traffic.",
+          "marks": 5
+        }
+      ]
+    }
+  ],
+  "patternAnalysis": {
+    "guaranteed": [
+      "crypto-18",
+      "crypto-15",
+      "crypto-02"
+    ],
+    "likely": [
+      "crypto-11",
+      "crypto-19",
+      "crypto-22",
+      "crypto-14",
+      "crypto-25",
+      "crypto-26",
+      "crypto-10",
+      "crypto-07",
+      "crypto-20",
+      "crypto-06"
+    ],
+    "wildcards": [
+      "crypto-08",
+      "crypto-03",
+      "crypto-01",
+      "crypto-21",
+      "crypto-23",
+      "crypto-24",
+      "crypto-09",
+      "crypto-12"
+    ],
+    "priorityOrder": [
+      "crypto-18",
+      "crypto-15",
+      "crypto-02",
+      "crypto-11",
+      "crypto-19",
+      "crypto-22",
+      "crypto-14",
+      "crypto-25",
+      "crypto-26",
+      "crypto-10",
+      "crypto-07",
+      "crypto-20",
+      "crypto-06",
+      "crypto-27",
+      "crypto-04",
+      "crypto-08",
+      "crypto-03",
+      "crypto-01",
+      "crypto-21",
+      "crypto-23",
+      "crypto-24",
+      "crypto-09",
+      "crypto-12",
+      "crypto-16"
+    ],
+    "notes": "Section A (10-mark, attempt 2 of 3) heavily targets RSA mathematics, Diffie-Hellman/ElGamal, Hash algorithms (SHA-1/MD4 steps), and block cipher algorithms (DES/AES/IDEA). Section B (5-mark, attempt 8 of 9) is dominated by Classical Ciphers (Playfair and Hill decryption are extremely common), polynomial division in Galois Fields, Firewalls, Malicious Logic, and PKI/Certificates. You must be able to perform Hill cipher decryption (matrix inverse modulo 26) and polynomial division in GF(p). The Miller-Rabin test and Fermat's theorem also appear frequently. RSA and Hash Functions (SHA-1/MD4) are virtually guaranteed."
+  }
+}
